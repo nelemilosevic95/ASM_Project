@@ -1,7 +1,7 @@
 import networkx as nx
 import pandas as pd
 
-sheet = pd.read_csv("IMDB-Movie-Data.csv")
+sheet = pd.read_csv("files/IMDB-Movie-Data.csv")
 actorsColumn = sheet["Actors"]
 graph = nx.Graph()
 

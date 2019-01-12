@@ -3,7 +3,7 @@ import pandas as pd
 
 #pre pokretanja skripte potrebno je sortirati IMDB-Movie-Data.scv po godini
 
-sheet = pd.read_csv("IMDB-Movie-Data.csv")
+sheet = pd.read_csv("files/IMDB-Movie-Data.csv")
 titleColumn = sheet["Title"]
 actorsColumn = sheet["Actors"]
 graph = nx.Graph()

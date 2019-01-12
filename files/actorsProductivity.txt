@@ -1,0 +1,13241 @@
+Mark Wahlberg
+Number of movies: 15
+  Drama: 9
+  History: 1
+  Thriller: 6
+  Action: 6
+  Crime: 5
+  Adventure: 2
+  Sci-Fi: 2
+  Biography: 2
+  Comedy: 5
+  Family: 1
+  Fantasy: 2
+  Romance: 1
+
+Hugh Jackman
+Number of movies: 14
+  Drama: 8
+  Mystery: 2
+  Sci-Fi: 5
+  Crime: 2
+  Action: 6
+  Adventure: 6
+  Musical: 1
+  Romance: 2
+  Biography: 1
+  Comedy: 2
+  Family: 3
+  Fantasy: 2
+  Animation: 1
+
+Christian Bale
+Number of movies: 13
+  Action: 5
+  Crime: 4
+  Drama: 12
+  Mystery: 1
+  Sci-Fi: 1
+  History: 1
+  Thriller: 2
+  Biography: 4
+  Comedy: 1
+  Adventure: 3
+  Romance: 1
+
+Brad Pitt
+Number of movies: 13
+  Action: 4
+  Drama: 10
+  Romance: 2
+  Adventure: 2
+  War: 2
+  Biography: 4
+  History: 1
+  Comedy: 2
+  Fantasy: 2
+  Horror: 1
+  Sport: 1
+  Animation: 1
+  Crime: 2
+  Thriller: 1
+
+Michael Fassbender
+Number of movies: 12
+  Adventure: 5
+  Mystery: 1
+  Sci-Fi: 3
+  Action: 4
+  Drama: 9
+  Biography: 2
+  History: 1
+  Romance: 2
+  War: 1
+  Crime: 1
+  Thriller: 1
+
+Scarlett Johansson
+Number of movies: 12
+  Animation: 1
+  Comedy: 3
+  Family: 1
+  Action: 4
+  Adventure: 2
+  Sci-Fi: 7
+  Drama: 7
+  Mystery: 1
+  Romance: 3
+  Horror: 1
+  Thriller: 1
+  Biography: 1
+  History: 1
+
+Anne Hathaway
+Number of movies: 12
+  Action: 2
+  Comedy: 6
+  Drama: 7
+  Adventure: 4
+  Sci-Fi: 1
+  Thriller: 1
+  Musical: 1
+  Romance: 4
+  Family: 2
+  Fantasy: 2
+  Animation: 1
+
+Robert Downey Jr.
+Number of movies: 12
+  Action: 9
+  Adventure: 7
+  Sci-Fi: 6
+  Comedy: 2
+  Crime: 4
+  Drama: 3
+  History: 1
+
+Johnny Depp
+Number of movies: 12
+  Action: 4
+  Adventure: 6
+  Fantasy: 7
+  Family: 2
+  Biography: 2
+  Crime: 2
+  Drama: 4
+  Horror: 3
+  Musical: 1
+  Comedy: 2
+  Mystery: 1
+  Romance: 1
+  Western: 1
+
+Tom Hardy
+Number of movies: 12
+  Action: 5
+  Adventure: 2
+  Sci-Fi: 1
+  Biography: 2
+  Crime: 5
+  Drama: 8
+  Thriller: 4
+  Sport: 1
+  Mystery: 2
+  Comedy: 1
+  Romance: 1
+
+Bradley Cooper
+Number of movies: 11
+  Action: 3
+  Adventure: 2
+  Sci-Fi: 2
+  Crime: 2
+  Drama: 6
+  Thriller: 2
+  Comedy: 4
+  Biography: 1
+  Romance: 1
+  Mystery: 2
+  Horror: 1
+
+Jennifer Lawrence
+Number of movies: 11
+  Adventure: 7
+  Drama: 5
+  Romance: 2
+  Action: 5
+  Sci-Fi: 5
+  Thriller: 1
+  Comedy: 1
+  Crime: 1
+  Mystery: 1
+
+Anna Kendrick
+Number of movies: 11
+  Animation: 1
+  Adventure: 3
+  Comedy: 8
+  Action: 2
+  Crime: 2
+  Drama: 6
+  Romance: 6
+  Music: 2
+  Thriller: 1
+
+Jake Gyllenhaal
+Number of movies: 11
+  Drama: 8
+  Thriller: 4
+  Crime: 4
+  Mystery: 3
+  History: 1
+  Sport: 1
+  Comedy: 2
+  Romance: 2
+  Sci-Fi: 1
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+
+Seth Rogen
+Number of movies: 11
+  Animation: 1
+  Adventure: 2
+  Comedy: 10
+  Fantasy: 1
+  Biography: 1
+  Drama: 2
+  Romance: 3
+  Action: 1
+  Crime: 1
+  Sci-Fi: 1
+
+Gerard Butler
+Number of movies: 11
+  Action: 7
+  Fantasy: 2
+  War: 1
+  Adventure: 3
+  Crime: 3
+  Thriller: 3
+  Drama: 4
+  Romance: 2
+  Animation: 2
+  Comedy: 1
+
+Cate Blanchett
+Number of movies: 11
+  Drama: 8
+  Family: 1
+  Fantasy: 4
+  Adventure: 4
+  Action: 4
+  Thriller: 1
+  Romance: 3
+  Animation: 1
+
+Shia LaBeouf
+Number of movies: 11
+  Action: 6
+  Adventure: 4
+  Sci-Fi: 3
+  Drama: 6
+  War: 1
+  Crime: 1
+  Mystery: 2
+  Thriller: 3
+  Fantasy: 1
+
+Chloe Grace Moretz
+Number of movies: 11
+  Action: 4
+  Comedy: 4
+  Crime: 2
+  Thriller: 2
+  Adventure: 2
+  Sci-Fi: 1
+  Drama: 6
+  Horror: 2
+  Romance: 1
+  Mystery: 2
+  Family: 1
+  Fantasy: 1
+  Music: 1
+
+Channing Tatum
+Number of movies: 11
+  Action: 5
+  Comedy: 7
+  Crime: 3
+  Adventure: 3
+  Sci-Fi: 2
+  Drama: 5
+  Music: 2
+  Thriller: 1
+  Romance: 2
+  Sport: 1
+  Animation: 1
+
+Charlize Theron
+Number of movies: 10
+  Adventure: 6
+  Mystery: 2
+  Sci-Fi: 2
+  Drama: 6
+  Action: 4
+  Animation: 1
+  Family: 1
+  Comedy: 1
+  Romance: 1
+  Western: 1
+  Crime: 1
+  Thriller: 1
+
+Matthew McConaughey
+Number of movies: 10
+  Animation: 2
+  Comedy: 4
+  Family: 2
+  Adventure: 4
+  Drama: 6
+  Thriller: 1
+  Sci-Fi: 1
+  Biography: 3
+  Crime: 1
+  Action: 2
+
+Will Smith
+Number of movies: 10
+  Action: 4
+  Adventure: 3
+  Fantasy: 1
+  Drama: 7
+  Romance: 2
+  Comedy: 2
+  Crime: 2
+  Horror: 1
+  Sci-Fi: 2
+  Biography: 2
+  Sport: 1
+
+Matt Damon
+Number of movies: 10
+  Action: 4
+  Adventure: 3
+  Fantasy: 1
+  Thriller: 6
+  Crime: 2
+  Drama: 5
+  Sci-Fi: 3
+  Mystery: 1
+  Romance: 1
+  Western: 1
+
+Ryan Gosling
+Number of movies: 10
+  Comedy: 4
+  Drama: 9
+  Music: 1
+  Action: 2
+  Crime: 6
+  Thriller: 1
+  Biography: 1
+  Romance: 2
+  Mystery: 2
+
+Emma Stone
+Number of movies: 10
+  Comedy: 6
+  Drama: 5
+  Music: 1
+  Romance: 4
+  Action: 3
+  Adventure: 3
+  Sci-Fi: 1
+  Horror: 1
+  Crime: 1
+
+Liam Neeson
+Number of movies: 10
+  Adventure: 5
+  Drama: 2
+  History: 1
+  Action: 7
+  Sci-Fi: 1
+  Thriller: 3
+  Fantasy: 2
+  Comedy: 2
+  Romance: 1
+  Western: 1
+  Mystery: 2
+  Crime: 1
+
+Leonardo DiCaprio
+Number of movies: 10
+  Action: 2
+  Adventure: 3
+  Sci-Fi: 1
+  Biography: 1
+  Comedy: 1
+  Crime: 2
+  Drama: 7
+  Thriller: 4
+  Romance: 3
+  Mystery: 1
+  Western: 1
+
+Chris Hemsworth
+Number of movies: 10
+  Action: 8
+  Adventure: 6
+  Sci-Fi: 1
+  Fantasy: 2
+  Drama: 4
+  Horror: 1
+  Crime: 1
+  Mystery: 1
+  Biography: 2
+  Thriller: 1
+
+Josh Brolin
+Number of movies: 10
+  Crime: 5
+  Drama: 6
+  Thriller: 2
+  Action: 5
+  Mystery: 2
+  Comedy: 4
+  Biography: 1
+  Adventure: 2
+  Western: 1
+  Horror: 1
+
+James McAvoy
+Number of movies: 9
+  Horror: 2
+  Thriller: 1
+  Action: 4
+  Adventure: 3
+  Sci-Fi: 4
+  Drama: 4
+  Crime: 3
+  Fantasy: 1
+  Mystery: 2
+  Romance: 1
+  Comedy: 1
+
+Dwayne Johnson
+Number of movies: 9
+  Animation: 1
+  Adventure: 3
+  Comedy: 3
+  Action: 7
+  Crime: 6
+  Thriller: 3
+  Drama: 3
+
+Amy Adams
+Number of movies: 9
+  Drama: 6
+  Mystery: 1
+  Sci-Fi: 3
+  Thriller: 1
+  Action: 3
+  Adventure: 2
+  Romance: 1
+  Fantasy: 1
+  Crime: 1
+  Animation: 1
+  Comedy: 1
+  Family: 1
+  Biography: 1
+
+James Franco
+Number of movies: 9
+  Comedy: 5
+  Action: 2
+  Drama: 3
+  Sci-Fi: 1
+  Fantasy: 3
+  Adventure: 3
+  Family: 1
+  Crime: 1
+  Biography: 1
+
+Chris Evans
+Number of movies: 9
+  Action: 6
+  Adventure: 5
+  Sci-Fi: 7
+  Drama: 2
+  Thriller: 1
+  Comedy: 2
+  Romance: 2
+
+Chiwetel Ejiofor
+Number of movies: 9
+  Action: 4
+  Adventure: 2
+  Fantasy: 1
+  Biography: 2
+  Drama: 6
+  History: 1
+  Sci-Fi: 2
+  Thriller: 1
+  Crime: 4
+  Mystery: 2
+  Romance: 1
+
+Denzel Washington
+Number of movies: 9
+  Action: 5
+  Adventure: 2
+  Western: 1
+  Drama: 5
+  Crime: 3
+  Thriller: 4
+  Biography: 1
+  Sci-Fi: 1
+  Mystery: 1
+
+Jonah Hill
+Number of movies: 9
+  Animation: 2
+  Adventure: 1
+  Comedy: 8
+  Biography: 2
+  Crime: 4
+  Drama: 2
+  Action: 3
+  Fantasy: 1
+  Sport: 1
+
+Chris Pine
+Number of movies: 9
+  Action: 7
+  Adventure: 4
+  Sci-Fi: 3
+  Crime: 1
+  Drama: 4
+  Thriller: 3
+  Comedy: 2
+  History: 1
+  Romance: 1
+
+Tom Hanks
+Number of movies: 9
+  Biography: 3
+  Drama: 6
+  Action: 1
+  Adventure: 2
+  Crime: 1
+  Sci-Fi: 1
+  History: 1
+  Thriller: 3
+  Comedy: 3
+  Animation: 1
+  Mystery: 1
+
+Samuel L. Jackson
+Number of movies: 9
+  Action: 6
+  Adventure: 6
+  Comedy: 1
+  Crime: 2
+  Drama: 3
+  Mystery: 2
+  Family: 1
+  Sci-Fi: 3
+  Fantasy: 1
+  Horror: 1
+
+Jason Bateman
+Number of movies: 9
+  Animation: 1
+  Adventure: 1
+  Comedy: 6
+  Mystery: 1
+  Thriller: 1
+  Drama: 3
+  Crime: 3
+  Action: 1
+  Romance: 1
+
+Joseph Gordon-Levitt
+Number of movies: 9
+  Action: 3
+  Adventure: 2
+  Sci-Fi: 1
+  Biography: 3
+  Drama: 6
+  Thriller: 2
+  History: 1
+  Crime: 3
+  Comedy: 3
+  Romance: 3
+
+Daniel Radcliffe
+Number of movies: 9
+  Adventure: 5
+  Drama: 5
+  Fantasy: 5
+  Family: 3
+  Horror: 2
+  Sci-Fi: 1
+  Comedy: 2
+  Crime: 1
+  Thriller: 1
+  Romance: 1
+
+Ben Kingsley
+Number of movies: 9
+  Adventure: 4
+  Drama: 4
+  Family: 2
+  Mystery: 3
+  Thriller: 2
+  Action: 4
+  Crime: 2
+  Sci-Fi: 1
+  Fantasy: 1
+  Comedy: 1
+
+Woody Harrelson
+Number of movies: 9
+  Crime: 4
+  Drama: 3
+  Thriller: 3
+  Action: 3
+  Adventure: 4
+  Comedy: 3
+  Mystery: 1
+  Horror: 1
+  Sci-Fi: 2
+  Romance: 1
+
+Sharlto Copley
+Number of movies: 9
+  Action: 8
+  Comedy: 3
+  Crime: 2
+  Drama: 4
+  Mystery: 1
+  Adventure: 3
+  Sci-Fi: 3
+  Family: 1
+  Thriller: 1
+  Romance: 1
+
+Naomi Watts
+Number of movies: 9
+  Action: 1
+  Adventure: 1
+  Mystery: 2
+  Drama: 8
+  Thriller: 2
+  Comedy: 1
+  Biography: 1
+  Sport: 1
+  Romance: 1
+  Crime: 2
+  Horror: 2
+
+Rose Byrne
+Number of movies: 9
+  Comedy: 6
+  Romance: 1
+  Action: 1
+  Crime: 1
+  Adventure: 1
+  Sci-Fi: 2
+  Thriller: 2
+  Horror: 2
+  Mystery: 1
+  Drama: 2
+  Family: 1
+
+Owen Wilson
+Number of movies: 9
+  Animation: 2
+  Adventure: 3
+  Comedy: 8
+  Action: 2
+  Crime: 2
+  Drama: 1
+  Fantasy: 1
+  Romance: 1
+  Family: 1
+  Thriller: 1
+
+Morgan Freeman
+Number of movies: 9
+  Action: 6
+  Adventure: 1
+  Mystery: 4
+  Crime: 5
+  Fantasy: 1
+  Drama: 4
+  Thriller: 2
+  Sci-Fi: 1
+  Comedy: 1
+  Romance: 1
+
+Adam Sandler
+Number of movies: 9
+  Comedy: 9
+  Romance: 2
+  Action: 3
+  Family: 2
+  Adventure: 1
+  Western: 1
+  Animation: 1
+
+Jeremy Renner
+Number of movies: 8
+  Drama: 4
+  Mystery: 2
+  Sci-Fi: 3
+  Action: 4
+  Adventure: 3
+  Thriller: 4
+  Crime: 1
+  History: 1
+  Horror: 1
+
+Mila Kunis
+Number of movies: 8
+  Comedy: 4
+  Drama: 3
+  Thriller: 1
+  Action: 2
+  Adventure: 3
+  Sci-Fi: 1
+  Family: 1
+  Fantasy: 2
+  Romance: 2
+
+Jessica Chastain
+Number of movies: 8
+  Adventure: 3
+  Drama: 7
+  Sci-Fi: 2
+  Thriller: 3
+  Fantasy: 2
+  Horror: 2
+  Action: 1
+  History: 1
+
+Mark Strong
+Number of movies: 8
+  Drama: 5
+  Thriller: 4
+  Action: 5
+  Adventure: 3
+  Crime: 1
+  History: 1
+  Comedy: 1
+  Sci-Fi: 1
+  Mystery: 1
+  Romance: 1
+
+Jennifer Aniston
+Number of movies: 8
+  Comedy: 8
+  Drama: 3
+  Crime: 2
+  Animation: 1
+  Adventure: 1
+  Romance: 3
+
+Jesse Eisenberg
+Number of movies: 8
+  Action: 2
+  Adventure: 4
+  Sci-Fi: 1
+  Comedy: 5
+  Crime: 1
+  Mystery: 1
+  Thriller: 1
+  Biography: 1
+  Drama: 2
+  Romance: 2
+  Horror: 1
+  Animation: 1
+
+Emily Blunt
+Number of movies: 8
+  Crime: 3
+  Drama: 6
+  Mystery: 1
+  Adventure: 3
+  Comedy: 2
+  Action: 4
+  Sci-Fi: 2
+  Romance: 1
+  Thriller: 1
+
+Michelle Monaghan
+Number of movies: 8
+  Drama: 3
+  History: 1
+  Thriller: 3
+  Action: 3
+  Comedy: 2
+  Family: 1
+  Romance: 3
+  Mystery: 3
+  Sci-Fi: 1
+  Crime: 1
+  Adventure: 1
+
+Kristen Stewart
+Number of movies: 8
+  Drama: 8
+  Mystery: 1
+  Thriller: 1
+  Fantasy: 4
+  Romance: 3
+  Comedy: 1
+  Adventure: 4
+  Action: 1
+  Sci-Fi: 1
+
+Natalie Portman
+Number of movies: 8
+  Action: 2
+  Adventure: 3
+  Fantasy: 3
+  Biography: 2
+  Drama: 4
+  History: 2
+  Thriller: 1
+  Romance: 2
+  Comedy: 2
+
+Robert De Niro
+Number of movies: 8
+  Comedy: 5
+  Drama: 4
+  Romance: 1
+  Mystery: 1
+  Sci-Fi: 1
+  Thriller: 2
+  Action: 1
+  Biography: 1
+  Crime: 1
+
+Emma Watson
+Number of movies: 8
+  Adventure: 5
+  Drama: 5
+  Fantasy: 4
+  Romance: 2
+  Family: 3
+  Thriller: 1
+  Crime: 1
+  Mystery: 1
+  Action: 1
+
+Zac Efron
+Number of movies: 8
+  Adventure: 1
+  Comedy: 6
+  Romance: 4
+  Drama: 3
+  Music: 1
+  Family: 1
+
+Gary Oldman
+Number of movies: 8
+  Action: 5
+  Thriller: 4
+  Adventure: 2
+  Drama: 6
+  Crime: 3
+  Mystery: 1
+  Sci-Fi: 1
+
+Joel Edgerton
+Number of movies: 8
+  Drama: 7
+  Romance: 2
+  Action: 2
+  Sport: 1
+  Biography: 2
+  Crime: 1
+  History: 1
+  Thriller: 2
+  Adventure: 1
+  Mystery: 2
+  Sci-Fi: 1
+
+Tom Cruise
+Number of movies: 8
+  Action: 7
+  Adventure: 6
+  Crime: 2
+  Sci-Fi: 1
+  Thriller: 3
+  Mystery: 2
+  Comedy: 1
+  Drama: 1
+  Musical: 1
+
+George Clooney
+Number of movies: 8
+  Action: 1
+  Adventure: 2
+  Family: 1
+  Comedy: 3
+  Mystery: 1
+  Drama: 4
+  Sci-Fi: 1
+  Thriller: 3
+  Crime: 2
+  Animation: 1
+  Romance: 1
+
+Rachel Weisz
+Number of movies: 8
+  Drama: 6
+  Romance: 2
+  Comedy: 2
+  Adventure: 2
+  Family: 1
+  Fantasy: 2
+  Biography: 1
+  Music: 1
+  Action: 1
+  Mystery: 1
+  Thriller: 1
+  Sci-Fi: 1
+
+Will Ferrell
+Number of movies: 8
+  Comedy: 7
+  Animation: 2
+  Action: 4
+  Adventure: 1
+  Crime: 2
+  Family: 1
+  Sport: 1
+
+Chris Pratt
+Number of movies: 7
+  Action: 4
+  Adventure: 5
+  Sci-Fi: 2
+  Drama: 3
+  Romance: 2
+  Western: 1
+  Animation: 1
+  History: 1
+  Thriller: 1
+  Comedy: 1
+
+Vin Diesel
+Number of movies: 7
+  Action: 7
+  Adventure: 2
+  Sci-Fi: 2
+  Crime: 4
+  Thriller: 5
+  Fantasy: 1
+
+Viola Davis
+Number of movies: 7
+  Action: 1
+  Adventure: 1
+  Fantasy: 2
+  Crime: 2
+  Drama: 6
+  Mystery: 2
+  Romance: 1
+
+Jason Sudeikis
+Number of movies: 7
+  Action: 2
+  Comedy: 6
+  Drama: 3
+  Crime: 3
+  Animation: 1
+  Adventure: 1
+  Romance: 1
+
+Teresa Palmer
+Number of movies: 7
+  Biography: 1
+  Drama: 3
+  History: 1
+  Horror: 2
+  Romance: 3
+  Action: 2
+  Adventure: 1
+  Sci-Fi: 1
+  Crime: 1
+  Sport: 1
+  Comedy: 2
+
+Rooney Mara
+Number of movies: 7
+  Biography: 2
+  Drama: 6
+  Romance: 2
+  Sci-Fi: 1
+  Crime: 1
+  Mystery: 1
+  Adventure: 1
+  Family: 1
+  Fantasy: 1
+
+Liam Hemsworth
+Number of movies: 7
+  Action: 5
+  Adventure: 6
+  Sci-Fi: 4
+  Thriller: 2
+  Comedy: 1
+  Drama: 1
+  Mystery: 1
+
+Ryan Reynolds
+Number of movies: 7
+  Action: 5
+  Adventure: 3
+  Comedy: 2
+  Biography: 1
+  Drama: 3
+  History: 1
+  Sci-Fi: 3
+  Crime: 1
+  Romance: 1
+  Mystery: 1
+
+Rachel McAdams
+Number of movies: 7
+  Action: 3
+  Adventure: 3
+  Fantasy: 3
+  Crime: 3
+  Drama: 3
+  History: 1
+  Comedy: 2
+  Romance: 1
+  Sport: 1
+
+Ethan Hawke
+Number of movies: 7
+  Action: 1
+  Adventure: 1
+  Western: 1
+  Drama: 4
+  Mystery: 3
+  Sci-Fi: 2
+  Horror: 2
+  Crime: 1
+  Thriller: 1
+  Biography: 1
+  Romance: 1
+
+Kristen Wiig
+Number of movies: 7
+  Animation: 2
+  Adventure: 4
+  Comedy: 6
+  Action: 2
+  Fantasy: 1
+  Drama: 2
+  Sci-Fi: 1
+  Romance: 1
+  Crime: 1
+
+Bryan Cranston
+Number of movies: 7
+  Drama: 4
+  Crime: 2
+  Biography: 2
+  History: 1
+  Action: 3
+  Adventure: 3
+  Sci-Fi: 1
+  Animation: 1
+  Mystery: 1
+
+Kate Winslet
+Number of movies: 7
+  Drama: 5
+  Romance: 2
+  Adventure: 2
+  Mystery: 1
+  Sci-Fi: 2
+  Comedy: 1
+  Thriller: 2
+  Biography: 1
+
+Keira Knightley
+Number of movies: 7
+  Action: 3
+  Adventure: 2
+  Fantasy: 2
+  Biography: 1
+  Drama: 5
+  Thriller: 2
+  Mystery: 1
+  Romance: 2
+  Music: 1
+
+Mark Ruffalo
+Number of movies: 7
+  Action: 2
+  Adventure: 2
+  Sci-Fi: 1
+  Mystery: 2
+  Thriller: 2
+  Comedy: 1
+  Crime: 3
+  Drama: 3
+  History: 2
+  Music: 1
+
+Russell Crowe
+Number of movies: 7
+  Action: 4
+  Comedy: 2
+  Crime: 2
+  Drama: 6
+  Musical: 1
+  Romance: 3
+  Adventure: 2
+  Biography: 1
+
+Shailene Woodley
+Number of movies: 7
+  Adventure: 3
+  Mystery: 2
+  Sci-Fi: 2
+  Biography: 1
+  Drama: 4
+  Thriller: 2
+  Action: 1
+  Romance: 2
+  Comedy: 2
+
+Simon Pegg
+Number of movies: 7
+  Action: 5
+  Adventure: 4
+  Sci-Fi: 4
+  Comedy: 4
+  Mystery: 1
+  Thriller: 2
+
+Steve Carell
+Number of movies: 7
+  Biography: 1
+  Comedy: 7
+  Drama: 4
+  Romance: 2
+  Animation: 2
+  Adventure: 2
+  Family: 1
+
+Patrick Wilson
+Number of movies: 7
+  Action: 1
+  Drama: 4
+  Mystery: 4
+  Horror: 4
+  Thriller: 5
+  Crime: 1
+  Adventure: 1
+
+Ralph Fiennes
+Number of movies: 7
+  Action: 3
+  Adventure: 5
+  Thriller: 2
+  Animation: 1
+  Family: 1
+  Comedy: 2
+  Drama: 2
+  Mystery: 1
+  Fantasy: 2
+
+Angelina Jolie
+Number of movies: 7
+  Action: 6
+  Adventure: 4
+  Family: 1
+  Crime: 2
+  Fantasy: 1
+  Mystery: 2
+  Animation: 3
+  Biography: 1
+  Drama: 1
+
+Jamie Bell
+Number of movies: 7
+  Action: 4
+  Drama: 4
+  Sci-Fi: 3
+  Comedy: 1
+  Crime: 2
+  Adventure: 2
+  Thriller: 1
+  Romance: 1
+
+Sylvester Stallone
+Number of movies: 7
+  Drama: 2
+  Sport: 2
+  Action: 5
+  Adventure: 3
+  Thriller: 4
+  Crime: 1
+  Mystery: 1
+  War: 1
+
+Zoe Saldana
+Number of movies: 6
+  Action: 4
+  Adventure: 5
+  Sci-Fi: 3
+  Fantasy: 1
+  Animation: 1
+  Comedy: 1
+  Crime: 1
+  Drama: 1
+  Thriller: 1
+
+Willem Dafoe
+Number of movies: 6
+  Action: 3
+  Adventure: 2
+  Fantasy: 1
+  Crime: 1
+  Thriller: 1
+  Sci-Fi: 1
+  Drama: 3
+  Horror: 1
+
+Robert Pattinson
+Number of movies: 6
+  Action: 1
+  Adventure: 4
+  Biography: 1
+  Drama: 5
+  Fantasy: 4
+  Romance: 2
+
+Andrew Garfield
+Number of movies: 6
+  Biography: 2
+  Drama: 3
+  History: 2
+  Adventure: 4
+  Action: 2
+  Sci-Fi: 1
+  Fantasy: 1
+  Mystery: 1
+
+Sam Worthington
+Number of movies: 6
+  Biography: 1
+  Drama: 2
+  History: 1
+  Action: 5
+  Adventure: 4
+  Fantasy: 3
+  Crime: 1
+  Thriller: 1
+
+Alicia Vikander
+Number of movies: 6
+  Action: 3
+  Thriller: 1
+  Adventure: 2
+  Comedy: 1
+  Drama: 3
+  Mystery: 1
+  Sci-Fi: 1
+  Romance: 2
+  Biography: 1
+  Fantasy: 1
+
+Nicole Kidman
+Number of movies: 6
+  Biography: 2
+  Drama: 4
+  Comedy: 1
+  Romance: 2
+  Adventure: 2
+  Family: 1
+  Fantasy: 1
+  Crime: 1
+  Mystery: 1
+
+Bryce Dallas Howard
+Number of movies: 6
+  Adventure: 3
+  Drama: 4
+  Thriller: 1
+  Action: 1
+  Sci-Fi: 1
+  Family: 1
+  Fantasy: 2
+  Mystery: 1
+  Comedy: 1
+  Romance: 1
+
+Casey Affleck
+Number of movies: 6
+  Drama: 6
+  Action: 2
+  Crime: 4
+  History: 1
+  Biography: 1
+  Mystery: 1
+  Thriller: 1
+
+Brendan Gleeson
+Number of movies: 6
+  Action: 3
+  Adventure: 4
+  Drama: 3
+  Crime: 2
+  Sci-Fi: 1
+  Family: 1
+  Fantasy: 1
+  Biography: 1
+  Comedy: 1
+
+Zoey Deutch
+Number of movies: 6
+  Comedy: 5
+  Crime: 1
+  Drama: 1
+  Thriller: 1
+  Action: 1
+  Fantasy: 1
+
+Aaron Taylor-Johnson
+Number of movies: 6
+  Drama: 3
+  Thriller: 2
+  Action: 3
+  Comedy: 2
+  Crime: 2
+  Adventure: 1
+  Sci-Fi: 1
+  Romance: 1
+
+Nicholas Hoult
+Number of movies: 6
+  Action: 3
+  Adventure: 2
+  Sci-Fi: 3
+  Crime: 1
+  Thriller: 2
+  Comedy: 1
+  Horror: 1
+  Romance: 2
+  Drama: 2
+  Mystery: 1
+
+T.J. Miller
+Number of movies: 6
+  Action: 3
+  Adventure: 3
+  Comedy: 4
+  Romance: 1
+  Animation: 1
+  Horror: 1
+  Sci-Fi: 1
+
+Javier Bardem
+Number of movies: 6
+  Drama: 5
+  Crime: 3
+  Thriller: 3
+  Action: 2
+  Adventure: 1
+  Romance: 1
+
+Domhnall Gleeson
+Number of movies: 6
+  Action: 1
+  Adventure: 2
+  Fantasy: 2
+  Drama: 5
+  Mystery: 1
+  Sci-Fi: 1
+  Thriller: 1
+  Comedy: 1
+  Romance: 1
+  Biography: 1
+  Sport: 1
+
+Kate Beckinsale
+Number of movies: 6
+  Action: 3
+  Adventure: 2
+  Fantasy: 2
+  Drama: 2
+  Horror: 2
+  Thriller: 1
+  Comedy: 2
+  Sci-Fi: 1
+  Mystery: 1
+  Romance: 1
+
+Theo James
+Number of movies: 6
+  Action: 3
+  Adventure: 4
+  Fantasy: 1
+  Mystery: 2
+  Sci-Fi: 2
+  Thriller: 1
+  Comedy: 1
+  Drama: 1
+
+Keanu Reeves
+Number of movies: 6
+  Action: 1
+  Crime: 3
+  Thriller: 3
+  Romance: 1
+  Sci-Fi: 1
+  Horror: 2
+  Drama: 3
+  Mystery: 2
+
+Michael Caine
+Number of movies: 6
+  Action: 2
+  Crime: 1
+  Drama: 4
+  Mystery: 1
+  Sci-Fi: 2
+  Adventure: 2
+  Comedy: 3
+  Thriller: 1
+  Music: 1
+  Animation: 1
+
+Ben Affleck
+Number of movies: 6
+  Action: 2
+  Adventure: 1
+  Sci-Fi: 1
+  Crime: 4
+  Drama: 5
+  Mystery: 1
+  Thriller: 1
+  Biography: 1
+  History: 1
+
+John Goodman
+Number of movies: 6
+  Drama: 5
+  History: 2
+  Thriller: 3
+  Horror: 1
+  Mystery: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+  Biography: 1
+  Crime: 1
+
+Jennifer Garner
+Number of movies: 6
+  Drama: 4
+  Biography: 2
+  Comedy: 3
+  Family: 3
+  Fantasy: 1
+
+Idris Elba
+Number of movies: 6
+  Animation: 1
+  Adventure: 3
+  Comedy: 1
+  Drama: 3
+  Family: 1
+  Action: 4
+  Sci-Fi: 1
+  Crime: 3
+  Thriller: 1
+
+Rosamund Pike
+Number of movies: 6
+  Crime: 3
+  Drama: 3
+  Mystery: 3
+  Action: 3
+  Comedy: 1
+  Sci-Fi: 1
+  Biography: 1
+  Romance: 1
+  Adventure: 1
+  Fantasy: 1
+
+Jason Statham
+Number of movies: 6
+  Action: 6
+  Crime: 3
+  Thriller: 4
+  Comedy: 1
+  Adventure: 3
+  Sci-Fi: 1
+
+Elle Fanning
+Number of movies: 6
+  Crime: 1
+  Drama: 2
+  Horror: 1
+  Thriller: 2
+  Action: 1
+  Adventure: 2
+  Family: 1
+  Comedy: 2
+  Animation: 1
+  Mystery: 1
+  Sci-Fi: 1
+
+Ben Foster
+Number of movies: 6
+  Action: 5
+  Adventure: 2
+  Fantasy: 1
+  Crime: 2
+  Drama: 3
+  Thriller: 1
+  Biography: 1
+  Horror: 1
+  Mystery: 1
+  History: 1
+
+Miles Teller
+Number of movies: 6
+  Comedy: 3
+  Crime: 1
+  Drama: 4
+  Music: 1
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+  Biography: 1
+  Sport: 1
+  Romance: 2
+
+Jeff Bridges
+Number of movies: 6
+  Crime: 1
+  Drama: 3
+  Thriller: 1
+  Action: 3
+  Adventure: 4
+  Sci-Fi: 3
+  Fantasy: 1
+  Romance: 1
+  Western: 1
+
+Leslie Mann
+Number of movies: 6
+  Comedy: 6
+  Romance: 4
+  Drama: 1
+  Family: 1
+
+Meryl Streep
+Number of movies: 6
+  Comedy: 5
+  Family: 1
+  Musical: 1
+  Adventure: 2
+  Drama: 4
+  Biography: 1
+  Romance: 1
+  Sci-Fi: 1
+  Animation: 1
+
+Amanda Seyfried
+Number of movies: 6
+  Comedy: 4
+  Family: 1
+  Musical: 2
+  Drama: 1
+  Romance: 3
+  Action: 1
+  Sci-Fi: 1
+  Thriller: 1
+  Horror: 1
+  Adventure: 1
+  Western: 1
+
+Hailee Steinfeld
+Number of movies: 6
+  Comedy: 2
+  Drama: 4
+  Music: 2
+  Adventure: 1
+  Western: 1
+  Action: 2
+  Sci-Fi: 1
+  Thriller: 1
+
+Josh Hutcherson
+Number of movies: 6
+  Adventure: 5
+  Sci-Fi: 3
+  Thriller: 2
+  Action: 4
+  Mystery: 1
+  Drama: 1
+  Family: 1
+
+Martin Freeman
+Number of movies: 6
+  Action: 2
+  Comedy: 3
+  Mystery: 1
+  Adventure: 3
+  Fantasy: 3
+  Biography: 1
+  Drama: 1
+  Sci-Fi: 1
+
+Cillian Murphy
+Number of movies: 6
+  Action: 3
+  Comedy: 1
+  Crime: 1
+  Sci-Fi: 2
+  Thriller: 3
+  Biography: 2
+  History: 1
+  Adventure: 2
+  Drama: 1
+  Mystery: 1
+  Romance: 1
+
+Ian McKellen
+Number of movies: 6
+  Action: 1
+  Adventure: 5
+  Sci-Fi: 1
+  Fantasy: 4
+  Family: 1
+  Mystery: 1
+  Thriller: 1
+
+Daniel Craig
+Number of movies: 6
+  Action: 4
+  Adventure: 5
+  Thriller: 4
+  Crime: 1
+  Drama: 1
+  Mystery: 1
+  Family: 1
+  Fantasy: 1
+
+Vera Farmiga
+Number of movies: 6
+  Horror: 3
+  Mystery: 4
+  Thriller: 3
+  Romance: 2
+  Sci-Fi: 1
+  Crime: 1
+  Drama: 2
+
+Helena Bonham Carter
+Number of movies: 6
+  Drama: 3
+  Family: 3
+  Fantasy: 4
+  Adventure: 2
+  Horror: 2
+  Musical: 1
+  Biography: 1
+  Comedy: 1
+
+Colin Farrell
+Number of movies: 6
+  Comedy: 4
+  Drama: 4
+  Romance: 1
+  Action: 1
+  Adventure: 1
+  Mystery: 2
+  Crime: 3
+  Biography: 1
+
+Logan Lerman
+Number of movies: 6
+  Drama: 3
+  Romance: 3
+  Action: 2
+  War: 1
+  Adventure: 3
+  Family: 2
+  Fantasy: 2
+
+Jason Clarke
+Number of movies: 6
+  Action: 3
+  Adventure: 2
+  Sci-Fi: 1
+  Drama: 5
+  Thriller: 2
+  Crime: 3
+  Biography: 1
+
+Jude Law
+Number of movies: 6
+  Action: 3
+  Comedy: 1
+  Crime: 3
+  Adventure: 2
+  Drama: 3
+  Romance: 1
+  Biography: 1
+  Thriller: 1
+
+Charlotte Gainsbourg
+Number of movies: 6
+  Drama: 6
+  Thriller: 2
+  Crime: 1
+  Horror: 1
+
+Rosario Dawson
+Number of movies: 6
+  Thriller: 3
+  Drama: 3
+  Romance: 2
+  Comedy: 1
+  Action: 2
+  Mystery: 2
+  Crime: 1
+
+Abbie Cornish
+Number of movies: 6
+  Action: 2
+  Fantasy: 1
+  Comedy: 1
+  Drama: 3
+  Romance: 1
+  Mystery: 2
+  Sci-Fi: 2
+  Thriller: 2
+  Crime: 2
+
+John C. Reilly
+Number of movies: 6
+  Comedy: 4
+  Animation: 1
+  Adventure: 1
+  Drama: 2
+  Mystery: 1
+  Thriller: 1
+  Fantasy: 1
+  Horror: 1
+  Action: 1
+  Sport: 1
+
+Rebecca Hall
+Number of movies: 6
+  Crime: 2
+  Drama: 5
+  Thriller: 2
+  Mystery: 3
+  Biography: 1
+  Romance: 2
+
+Noomi Rapace
+Number of movies: 5
+  Adventure: 1
+  Mystery: 3
+  Sci-Fi: 2
+  Horror: 1
+  Thriller: 3
+  Drama: 3
+  Crime: 2
+
+Margot Robbie
+Number of movies: 5
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+  Biography: 2
+  Comedy: 3
+  Crime: 2
+  Drama: 3
+  Romance: 1
+  War: 1
+
+J.K. Simmons
+Number of movies: 5
+  Comedy: 2
+  Drama: 4
+  Music: 2
+  History: 1
+  Thriller: 1
+  Action: 1
+  Crime: 1
+  Animation: 1
+  Adventure: 1
+
+Sienna Miller
+Number of movies: 5
+  Action: 2
+  Adventure: 2
+  Biography: 2
+  Drama: 3
+  Family: 1
+  Fantasy: 1
+  Comedy: 1
+
+Kevin Costner
+Number of movies: 5
+  Biography: 1
+  Drama: 5
+  History: 1
+  Action: 3
+  Crime: 2
+  Thriller: 3
+
+Felicity Jones
+Number of movies: 5
+  Action: 3
+  Adventure: 2
+  Sci-Fi: 1
+  Drama: 2
+  Fantasy: 1
+  Crime: 2
+  Biography: 1
+  Romance: 1
+  Thriller: 1
+
+Vincent Cassel
+Number of movies: 5
+  Action: 1
+  Thriller: 2
+  Drama: 4
+  Fantasy: 1
+  Horror: 1
+  Crime: 1
+  Mystery: 1
+
+Dev Patel
+Number of movies: 5
+  Biography: 2
+  Drama: 4
+  Action: 2
+  Crime: 1
+  Adventure: 1
+  Family: 1
+
+Edgar Ramirez
+Number of movies: 5
+  Adventure: 1
+  Drama: 3
+  Thriller: 2
+  Action: 3
+  Mystery: 1
+  Crime: 1
+  Sport: 1
+  Biography: 1
+
+Marion Cotillard
+Number of movies: 5
+  Action: 2
+  Adventure: 1
+  Drama: 5
+  Romance: 2
+  War: 1
+  Comedy: 1
+
+Michael Keaton
+Number of movies: 5
+  Biography: 1
+  Drama: 3
+  History: 2
+  Crime: 2
+  Comedy: 1
+  Romance: 1
+  Animation: 1
+  Action: 2
+  Adventure: 1
+  Sci-Fi: 1
+
+Geoffrey Rush
+Number of movies: 5
+  Action: 2
+  Adventure: 2
+  Fantasy: 2
+  Drama: 3
+  Biography: 1
+  Crime: 1
+  Mystery: 1
+
+Aaron Eckhart
+Number of movies: 5
+  Action: 3
+  Crime: 2
+  Drama: 4
+  Biography: 2
+  Thriller: 1
+  Sport: 1
+
+Bill Nighy
+Number of movies: 5
+  Comedy: 3
+  Drama: 2
+  Romance: 1
+  Action: 2
+  Mystery: 1
+  Fantasy: 3
+  Adventure: 2
+  Family: 1
+
+Colin Firth
+Number of movies: 5
+  Action: 1
+  Adventure: 1
+  Comedy: 1
+  Biography: 3
+  Crime: 1
+  Drama: 4
+  Mystery: 1
+  Thriller: 1
+
+Kurt Russell
+Number of movies: 5
+  Action: 2
+  Drama: 3
+  Thriller: 3
+  Crime: 1
+  Mystery: 1
+  Adventure: 1
+  Horror: 2
+
+Charlotte Le Bon
+Number of movies: 5
+  Drama: 2
+  History: 1
+  Sci-Fi: 1
+  Thriller: 1
+  Action: 1
+  Crime: 2
+  Adventure: 1
+  Biography: 1
+
+Sigourney Weaver
+Number of movies: 5
+  Drama: 3
+  Fantasy: 2
+  Action: 4
+  Adventure: 2
+  Crime: 2
+  Thriller: 1
+
+Edward Norton
+Number of movies: 5
+  Drama: 3
+  Romance: 3
+  Comedy: 1
+  Action: 2
+  Adventure: 2
+  Sci-Fi: 1
+  Mystery: 2
+
+Michael Pena
+Number of movies: 5
+  Drama: 4
+  Romance: 1
+  Action: 3
+  War: 1
+  Crime: 2
+  Comedy: 1
+  Thriller: 1
+
+Diane Kruger
+Number of movies: 5
+  Adventure: 2
+  Drama: 3
+  War: 1
+  Action: 2
+  Romance: 2
+  Biography: 1
+  Crime: 1
+  Fantasy: 1
+  Mystery: 1
+  Thriller: 1
+
+Ellen Page
+Number of movies: 5
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 2
+  Comedy: 3
+  Drama: 3
+  Romance: 1
+  Thriller: 1
+
+Michelle Rodriguez
+Number of movies: 5
+  Action: 5
+  Adventure: 1
+  Fantasy: 1
+  Crime: 3
+  Thriller: 3
+  Horror: 1
+  Sci-Fi: 1
+
+Paula Patton
+Number of movies: 5
+  Action: 4
+  Adventure: 3
+  Fantasy: 1
+  Thriller: 2
+  Sci-Fi: 1
+  Comedy: 1
+  Drama: 1
+
+Anthony Hopkins
+Number of movies: 5
+  Action: 3
+  Adventure: 2
+  Fantasy: 1
+  Crime: 3
+  Thriller: 1
+  Drama: 3
+  Mystery: 2
+
+Kate Mara
+Number of movies: 5
+  Adventure: 3
+  Drama: 3
+  Sci-Fi: 3
+  Horror: 1
+  Thriller: 2
+  Action: 1
+  Biography: 1
+
+Lena Headey
+Number of movies: 5
+  Action: 3
+  Fantasy: 2
+  War: 1
+  Drama: 2
+  Sci-Fi: 2
+  Thriller: 2
+  Horror: 1
+
+Stellan Skarsgard
+Number of movies: 5
+  Comedy: 1
+  Family: 1
+  Musical: 1
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+  Crime: 1
+  Drama: 3
+  Mystery: 1
+
+Blake Lively
+Number of movies: 5
+  Drama: 4
+  Horror: 1
+  Thriller: 2
+  Comedy: 1
+  Romance: 2
+  Fantasy: 1
+  Crime: 1
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+
+Brie Larson
+Number of movies: 5
+  Drama: 3
+  Action: 2
+  Comedy: 3
+  Crime: 3
+  Romance: 1
+  Thriller: 1
+
+Jamie Foxx
+Number of movies: 5
+  Drama: 4
+  Western: 1
+  Action: 2
+  Adventure: 1
+  Sci-Fi: 1
+  Thriller: 2
+  Crime: 1
+  Comedy: 1
+  Family: 1
+
+Julianne Moore
+Number of movies: 5
+  Comedy: 2
+  Drama: 4
+  Romance: 2
+  Sci-Fi: 1
+  Thriller: 1
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+  Horror: 1
+
+Ben Stiller
+Number of movies: 5
+  Action: 1
+  Comedy: 5
+  Adventure: 2
+  Drama: 1
+  Family: 1
+  Romance: 1
+
+Paul Rudd
+Number of movies: 5
+  Action: 1
+  Adventure: 1
+  Comedy: 4
+  Drama: 2
+  Romance: 4
+
+Liev Schreiber
+Number of movies: 5
+  Crime: 2
+  Drama: 2
+  History: 1
+  Action: 2
+  Adventure: 1
+  Sci-Fi: 1
+  Mystery: 1
+  Comedy: 1
+  Romance: 1
+  Biography: 1
+  Sport: 1
+
+Megan Fox
+Number of movies: 5
+  Action: 4
+  Adventure: 4
+  Sci-Fi: 2
+  Comedy: 3
+  Horror: 1
+
+Josh Duhamel
+Number of movies: 5
+  Action: 3
+  Adventure: 3
+  Sci-Fi: 3
+  Drama: 2
+  Romance: 2
+  Thriller: 1
+  Comedy: 1
+
+Tim Roth
+Number of movies: 5
+  Action: 3
+  Adventure: 2
+  Sci-Fi: 2
+  Comedy: 1
+  Romance: 1
+  Crime: 1
+  Drama: 2
+  Horror: 1
+  Biography: 1
+  History: 1
+
+Christopher Plummer
+Number of movies: 5
+  Crime: 2
+  Drama: 3
+  Mystery: 3
+  Animation: 1
+  Adventure: 2
+  Comedy: 1
+  Fantasy: 1
+
+Saoirse Ronan
+Number of movies: 5
+  Action: 2
+  Adventure: 1
+  Romance: 3
+  Drama: 4
+  Mystery: 1
+  Thriller: 2
+  Fantasy: 1
+
+Sandra Bullock
+Number of movies: 5
+  Biography: 1
+  Drama: 3
+  Sport: 1
+  Animation: 1
+  Action: 2
+  Adventure: 1
+  Comedy: 2
+  Romance: 1
+  Sci-Fi: 1
+  Thriller: 1
+  Crime: 1
+
+Andrew Scott
+Number of movies: 5
+  Drama: 5
+  Horror: 1
+  Sci-Fi: 1
+  Biography: 1
+  Comedy: 1
+  Fantasy: 1
+
+Kirsten Dunst
+Number of movies: 5
+  Action: 1
+  Adventure: 1
+  Biography: 1
+  Drama: 4
+  History: 1
+  Mystery: 2
+  Sci-Fi: 1
+  Crime: 1
+
+Richard Jenkins
+Number of movies: 5
+  Comedy: 2
+  Adventure: 1
+  Drama: 3
+  Horror: 2
+  Action: 1
+  Crime: 1
+  Mystery: 2
+  Romance: 1
+
+Ron Perlman
+Number of movies: 5
+  Animation: 2
+  Adventure: 4
+  Comedy: 2
+  Biography: 1
+  Drama: 1
+  Sport: 1
+  Action: 2
+  Fantasy: 2
+
+Eric Bana
+Number of movies: 5
+  Action: 2
+  Drama: 5
+  Thriller: 1
+  History: 2
+  Crime: 1
+  Mystery: 1
+  Biography: 1
+
+Dennis Quaid
+Number of movies: 5
+  Action: 3
+  Horror: 2
+  Mystery: 1
+  Comedy: 2
+  Drama: 2
+  Romance: 1
+  Adventure: 1
+  Sci-Fi: 1
+  Music: 1
+  Fantasy: 1
+
+Anthony Mackie
+Number of movies: 5
+  Action: 2
+  Crime: 3
+  Drama: 5
+  Comedy: 1
+  History: 1
+  Thriller: 1
+  Family: 1
+  Biography: 1
+
+Cameron Diaz
+Number of movies: 5
+  Crime: 1
+  Drama: 3
+  Thriller: 1
+  Comedy: 4
+  Romance: 3
+  Family: 1
+
+Jim Sturgess
+Number of movies: 5
+  Crime: 2
+  Drama: 5
+  Mystery: 1
+  Thriller: 1
+  Romance: 1
+  Biography: 1
+  History: 1
+  Fantasy: 1
+  Musical: 1
+
+Reese Witherspoon
+Number of movies: 4
+  Animation: 1
+  Comedy: 2
+  Family: 1
+  Biography: 2
+  Crime: 1
+  Drama: 2
+  Adventure: 1
+  Action: 1
+  Romance: 1
+
+Seth MacFarlane
+Number of movies: 4
+  Animation: 1
+  Comedy: 4
+  Family: 1
+  Adventure: 1
+  Romance: 2
+  Fantasy: 1
+  Western: 1
+
+Eddie Redmayne
+Number of movies: 4
+  Adventure: 2
+  Family: 1
+  Fantasy: 1
+  Biography: 2
+  Drama: 2
+  Romance: 2
+  Action: 1
+  Sci-Fi: 1
+
+Diego Luna
+Number of movies: 4
+  Action: 2
+  Adventure: 2
+  Sci-Fi: 2
+  Romance: 1
+  Crime: 1
+  Drama: 1
+  Animation: 1
+  Comedy: 1
+
+Tommy Lee Jones
+Number of movies: 4
+  Action: 3
+  Thriller: 2
+  Crime: 2
+  Drama: 1
+  Adventure: 2
+  Comedy: 1
+
+Forest Whitaker
+Number of movies: 4
+  Drama: 3
+  Mystery: 1
+  Sci-Fi: 1
+  Sport: 1
+  Action: 1
+  Thriller: 1
+  Biography: 1
+
+Michelle Williams
+Number of movies: 4
+  Drama: 3
+  Adventure: 1
+  Family: 1
+  Fantasy: 1
+  Romance: 2
+  War: 1
+
+Kyle Chandler
+Number of movies: 4
+  Drama: 3
+  Mystery: 1
+  Sci-Fi: 1
+  Thriller: 1
+  Romance: 2
+  Comedy: 1
+
+Justin Timberlake
+Number of movies: 4
+  Animation: 1
+  Adventure: 1
+  Comedy: 2
+  Action: 1
+  Sci-Fi: 1
+  Thriller: 1
+  Biography: 1
+  Drama: 1
+  Romance: 1
+
+Zooey Deschanel
+Number of movies: 4
+  Animation: 1
+  Adventure: 2
+  Comedy: 2
+  Drama: 2
+  Romance: 1
+  Sci-Fi: 1
+  Thriller: 1
+  Family: 1
+
+Christopher Mintz-Plasse
+Number of movies: 4
+  Animation: 2
+  Adventure: 2
+  Comedy: 3
+  Action: 2
+  Crime: 1
+
+Kristen Bell
+Number of movies: 4
+  Comedy: 4
+  Animation: 1
+  Adventure: 1
+  Drama: 1
+  Romance: 1
+
+Jeremy Irons
+Number of movies: 4
+  Action: 1
+  Adventure: 1
+  Drama: 4
+  Biography: 1
+  Mystery: 1
+  Thriller: 1
+
+Milla Jovovich
+Number of movies: 4
+  Action: 4
+  Horror: 3
+  Sci-Fi: 2
+  Adventure: 2
+  Romance: 1
+
+Benedict Cumberbatch
+Number of movies: 4
+  Action: 2
+  Adventure: 2
+  Fantasy: 1
+  Biography: 2
+  Drama: 2
+  Thriller: 1
+  Sci-Fi: 1
+  Crime: 1
+
+Nick Offerman
+Number of movies: 4
+  Biography: 1
+  Drama: 3
+  History: 1
+  Action: 1
+  Comedy: 3
+  Crime: 1
+  Adventure: 1
+
+Penelope Cruz
+Number of movies: 4
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+  Comedy: 2
+  Crime: 1
+  Drama: 1
+  Thriller: 1
+  Romance: 1
+
+Ian McShane
+Number of movies: 4
+  Action: 4
+  Adventure: 3
+  Fantasy: 1
+  Animation: 1
+  Sci-Fi: 1
+  Thriller: 1
+
+Zachary Quinto
+Number of movies: 4
+  Action: 3
+  Adventure: 3
+  Sci-Fi: 3
+  Biography: 1
+  Drama: 1
+  Thriller: 1
+
+Karl Urban
+Number of movies: 4
+  Action: 3
+  Adventure: 1
+  Sci-Fi: 3
+  Mystery: 1
+  Romance: 1
+  Thriller: 2
+
+Adam Driver
+Number of movies: 4
+  Adventure: 1
+  Drama: 3
+  History: 1
+  Comedy: 2
+  Romance: 2
+  Mystery: 1
+  Sci-Fi: 1
+
+Sam Claflin
+Number of movies: 4
+  Drama: 3
+  Romance: 3
+  Comedy: 2
+  Action: 1
+  Adventure: 1
+
+Jack Huston
+Number of movies: 4
+  Comedy: 1
+  Drama: 3
+  Romance: 3
+  Action: 2
+  Adventure: 1
+  Horror: 1
+
+Henry Cavill
+Number of movies: 4
+  Action: 4
+  Adventure: 3
+  Sci-Fi: 1
+  Comedy: 1
+  Fantasy: 2
+  Drama: 1
+
+Emile Hirsch
+Number of movies: 4
+  Horror: 1
+  Mystery: 1
+  Thriller: 2
+  Adventure: 1
+  Biography: 2
+  Drama: 3
+  Action: 1
+  Crime: 1
+
+Haley Bennett
+Number of movies: 4
+  Crime: 2
+  Drama: 3
+  Mystery: 1
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+  Thriller: 1
+  Comedy: 1
+  Romance: 1
+
+Dakota Johnson
+Number of movies: 4
+  Drama: 3
+  Romance: 2
+  Thriller: 2
+  Comedy: 1
+  Biography: 1
+  Crime: 1
+
+Jamie Dornan
+Number of movies: 4
+  Drama: 2
+  Romance: 1
+  Thriller: 4
+  Biography: 1
+  History: 1
+  Mystery: 1
+  Action: 1
+
+Melissa McCarthy
+Number of movies: 4
+  Action: 3
+  Comedy: 4
+  Fantasy: 1
+  Crime: 2
+
+Paul Walker
+Number of movies: 4
+  Action: 4
+  Crime: 4
+  Thriller: 4
+
+Emily Browning
+Number of movies: 4
+  Biography: 1
+  Crime: 1
+  Drama: 3
+  Action: 2
+  Fantasy: 1
+  Romance: 1
+  Adventure: 1
+
+Tom Hiddleston
+Number of movies: 4
+  Action: 2
+  Adventure: 2
+  Fantasy: 3
+  Drama: 2
+  Horror: 1
+
+Armie Hammer
+Number of movies: 4
+  Action: 3
+  Adventure: 2
+  Comedy: 2
+  Thriller: 1
+  War: 1
+  Crime: 1
+  Western: 1
+
+Alexander Skarsgard
+Number of movies: 4
+  Action: 3
+  Adventure: 2
+  Drama: 2
+  Sci-Fi: 1
+  Comedy: 1
+
+Rupert Grint
+Number of movies: 4
+  Adventure: 4
+  Drama: 1
+  Fantasy: 4
+  Family: 3
+
+Aamir Khan
+Number of movies: 4
+  Action: 1
+  Biography: 1
+  Drama: 4
+  Comedy: 2
+  Romance: 1
+  Family: 1
+  Music: 1
+
+Eva Green
+Number of movies: 4
+  Adventure: 2
+  Drama: 2
+  Family: 1
+  Action: 2
+  Thriller: 1
+  Fantasy: 2
+  Comedy: 1
+  Horror: 1
+
+Asa Butterfield
+Number of movies: 4
+  Adventure: 2
+  Drama: 3
+  Family: 2
+  War: 1
+  Action: 1
+  Sci-Fi: 1
+
+Judi Dench
+Number of movies: 4
+  Adventure: 4
+  Drama: 1
+  Family: 1
+  Action: 3
+  Thriller: 3
+
+Jai Courtney
+Number of movies: 4
+  Adventure: 2
+  Mystery: 1
+  Sci-Fi: 2
+  Action: 1
+  Drama: 2
+  Thriller: 1
+
+Pierce Brosnan
+Number of movies: 4
+  Comedy: 1
+  Family: 1
+  Musical: 1
+  Mystery: 2
+  Thriller: 2
+  Crime: 1
+  Drama: 1
+  Action: 1
+
+Guy Pearce
+Number of movies: 4
+  Mystery: 1
+  Thriller: 2
+  Western: 1
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+  Crime: 1
+  Drama: 2
+  History: 1
+
+Steve Zahn
+Number of movies: 4
+  Comedy: 2
+  Family: 2
+  Biography: 2
+  Drama: 2
+  Adventure: 1
+
+Malin Akerman
+Number of movies: 4
+  Action: 1
+  Drama: 2
+  Mystery: 1
+  Comedy: 2
+  Romance: 1
+
+Charlie Day
+Number of movies: 4
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+  Comedy: 3
+  Crime: 2
+  Drama: 1
+  Romance: 1
+
+Helen Mirren
+Number of movies: 4
+  Biography: 1
+  Drama: 2
+  History: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 2
+  Action: 1
+  Crime: 1
+  Thriller: 1
+  War: 1
+
+Daniel Bruhl
+Number of movies: 4
+  Biography: 2
+  Drama: 4
+  History: 1
+  Action: 1
+  Romance: 1
+  Thriller: 1
+  Comedy: 1
+
+James Badge Dale
+Number of movies: 4
+  Action: 3
+  Drama: 2
+  History: 1
+  Adventure: 1
+  Horror: 1
+  Mystery: 1
+  Sci-Fi: 1
+
+Britt Robertson
+Number of movies: 4
+  Action: 1
+  Adventure: 1
+  Family: 1
+  Drama: 3
+  Romance: 2
+  Comedy: 2
+
+Jack Black
+Number of movies: 4
+  Action: 3
+  Comedy: 2
+  Adventure: 3
+  Family: 1
+  Animation: 2
+
+Garrett Hedlund
+Number of movies: 4
+  Drama: 2
+  War: 1
+  Adventure: 2
+  Family: 1
+  Fantasy: 1
+  Action: 1
+  Sci-Fi: 1
+  Biography: 1
+  Sport: 1
+
+Mia Wasikowska
+Number of movies: 4
+  Drama: 2
+  Fantasy: 3
+  Horror: 1
+  Adventure: 2
+  Family: 2
+  Romance: 1
+
+Vince Vaughn
+Number of movies: 4
+  Adventure: 1
+  Biography: 1
+  Drama: 2
+  Comedy: 3
+  Romance: 1
+
+Amy Ryan
+Number of movies: 4
+  Action: 1
+  Comedy: 1
+  Crime: 2
+  Biography: 2
+  Drama: 3
+  History: 1
+  Thriller: 1
+  Mystery: 1
+
+Gwyneth Paltrow
+Number of movies: 4
+  Action: 3
+  Adventure: 3
+  Sci-Fi: 3
+  Drama: 1
+  Thriller: 1
+
+Maya Rudolph
+Number of movies: 4
+  Comedy: 3
+  Romance: 1
+  Animation: 1
+  Action: 1
+  Adventure: 2
+  Sci-Fi: 1
+
+Tyrese Gibson
+Number of movies: 4
+  Action: 4
+  Adventure: 3
+  Sci-Fi: 4
+  Thriller: 1
+
+Peter Sarsgaard
+Number of movies: 4
+  Biography: 1
+  Drama: 2
+  History: 1
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+  Horror: 1
+  Mystery: 1
+  Thriller: 1
+
+Alec Baldwin
+Number of movies: 4
+  Comedy: 2
+  Drama: 4
+  Romance: 1
+  Biography: 1
+  Sport: 1
+  Musical: 1
+
+Zach Galifianakis
+Number of movies: 4
+  Comedy: 4
+  Drama: 1
+  Romance: 1
+  Action: 2
+  Crime: 1
+
+Ben Whishaw
+Number of movies: 4
+  Biography: 2
+  Drama: 3
+  Romance: 1
+  Action: 1
+  Adventure: 1
+  Comedy: 1
+  Crime: 1
+  Fantasy: 1
+
+Rebel Wilson
+Number of movies: 4
+  Comedy: 4
+  Music: 2
+  Romance: 2
+  Action: 1
+  Adventure: 1
+
+Maggie Grace
+Number of movies: 4
+  Drama: 2
+  Romance: 1
+  Action: 3
+  Thriller: 2
+  Crime: 1
+
+Ciaran Hinds
+Number of movies: 4
+  Drama: 4
+  History: 1
+  Biography: 1
+  Sport: 1
+  Crime: 2
+  Mystery: 1
+  Comedy: 1
+
+Anna Faris
+Number of movies: 4
+  Comedy: 4
+  Romance: 3
+  Drama: 1
+
+Jay Baruchel
+Number of movies: 4
+  Comedy: 2
+  Romance: 1
+  Fantasy: 1
+  Animation: 2
+  Action: 2
+  Adventure: 2
+
+Alison Brie
+Number of movies: 4
+  Comedy: 3
+  Romance: 2
+  Drama: 2
+  Crime: 1
+
+Tilda Swinton
+Number of movies: 4
+  Action: 1
+  Drama: 4
+  Sci-Fi: 1
+  Fantasy: 1
+  Romance: 1
+  Mystery: 1
+  Thriller: 2
+
+Tom Wilkinson
+Number of movies: 4
+  Action: 2
+  Crime: 1
+  Thriller: 1
+  Biography: 1
+  Drama: 2
+  Comedy: 1
+  Fantasy: 1
+  Adventure: 1
+  Western: 1
+
+Thandie Newton
+Number of movies: 4
+  Action: 2
+  Crime: 1
+  Thriller: 1
+  Adventure: 1
+  Sci-Fi: 1
+  Drama: 2
+  Romance: 1
+  Biography: 1
+
+Imogen Poots
+Number of movies: 4
+  Crime: 3
+  Horror: 1
+  Thriller: 1
+  Comedy: 2
+  Drama: 2
+  Action: 1
+  Romance: 1
+
+Bruce Willis
+Number of movies: 4
+  Action: 3
+  Crime: 2
+  Drama: 2
+  Adventure: 2
+  Comedy: 2
+  Thriller: 1
+
+Abigail Breslin
+Number of movies: 4
+  Adventure: 1
+  Comedy: 2
+  Horror: 1
+  Drama: 1
+  Action: 2
+  Sci-Fi: 1
+  Thriller: 1
+
+Taylor Lautner
+Number of movies: 4
+  Adventure: 3
+  Drama: 3
+  Fantasy: 3
+  Comedy: 1
+  Western: 1
+
+Elizabeth Banks
+Number of movies: 4
+  Animation: 1
+  Action: 2
+  Adventure: 1
+  Comedy: 2
+  Romance: 1
+  Crime: 1
+  Thriller: 1
+  Horror: 1
+  Sci-Fi: 1
+
+Kevin James
+Number of movies: 4
+  Action: 1
+  Comedy: 4
+  Family: 2
+  Animation: 1
+
+Harrison Ford
+Number of movies: 4
+  Drama: 2
+  Fantasy: 2
+  Romance: 1
+  Action: 2
+  Sci-Fi: 1
+  Adventure: 1
+  Biography: 1
+  Sport: 1
+
+James Marsden
+Number of movies: 4
+  Drama: 1
+  Romance: 2
+  Animation: 1
+  Comedy: 1
+  Family: 1
+  Mystery: 1
+  Thriller: 1
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+
+Sarah Gadon
+Number of movies: 4
+  Mystery: 2
+  Thriller: 2
+  Action: 1
+  Drama: 2
+  Fantasy: 1
+  Romance: 1
+
+Aaron Paul
+Number of movies: 4
+  Action: 2
+  Crime: 2
+  Drama: 3
+  Thriller: 2
+  War: 1
+  Mystery: 1
+
+Jennifer Connelly
+Number of movies: 4
+  Crime: 1
+  Drama: 4
+  Comedy: 1
+  Romance: 1
+  Adventure: 2
+  Thriller: 1
+  Action: 1
+
+Philip Seymour Hoffman
+Number of movies: 4
+  Action: 2
+  Adventure: 2
+  Mystery: 1
+  Biography: 1
+  Drama: 2
+  Sport: 1
+  Thriller: 1
+
+Xavier Samuel
+Number of movies: 4
+  Drama: 4
+  Romance: 2
+  Comedy: 2
+  Adventure: 1
+  Fantasy: 1
+
+Kevin Spacey
+Number of movies: 4
+  Drama: 2
+  Mystery: 1
+  Sci-Fi: 2
+  Crime: 1
+  Thriller: 1
+  Action: 1
+  Adventure: 1
+  Comedy: 1
+  Family: 1
+  Fantasy: 1
+
+Dustin Hoffman
+Number of movies: 4
+  Animation: 2
+  Action: 2
+  Adventure: 2
+  Comedy: 1
+  Drama: 2
+  Crime: 1
+  Fantasy: 1
+
+Anya Taylor-Joy
+Number of movies: 3
+  Horror: 3
+  Thriller: 2
+  Mystery: 1
+  Sci-Fi: 1
+
+Jared Leto
+Number of movies: 3
+  Action: 1
+  Adventure: 1
+  Fantasy: 2
+  Biography: 1
+  Drama: 2
+  Romance: 1
+
+Andrea Riseborough
+Number of movies: 3
+  Comedy: 2
+  Drama: 1
+  Romance: 1
+  Action: 1
+  Adventure: 1
+  Mystery: 1
+
+Charlie Hunnam
+Number of movies: 3
+  Action: 2
+  Adventure: 2
+  Biography: 1
+  Sci-Fi: 1
+  Drama: 1
+  Fantasy: 1
+  Horror: 1
+
+Michael Sheen
+Number of movies: 3
+  Adventure: 2
+  Drama: 2
+  Romance: 1
+  Thriller: 1
+  Action: 1
+  Fantasy: 1
+
+Kevin Hart
+Number of movies: 3
+  Animation: 1
+  Adventure: 1
+  Comedy: 3
+  Action: 1
+  Crime: 2
+
+Luke Bracey
+Number of movies: 3
+  Biography: 1
+  Drama: 2
+  History: 1
+  Romance: 1
+  Action: 1
+  Crime: 1
+  Sport: 1
+
+Maika Monroe
+Number of movies: 3
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+  Horror: 1
+  Mystery: 1
+  Thriller: 1
+
+Kathryn Hahn
+Number of movies: 3
+  Comedy: 3
+  Action: 1
+  Adventure: 2
+  Drama: 1
+
+Michael Shannon
+Number of movies: 3
+  Drama: 2
+  Thriller: 1
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+  Mystery: 1
+  Sci-Fi: 1
+
+Vincent D'Onofrio
+Number of movies: 3
+  Action: 2
+  Adventure: 1
+  Western: 1
+  Crime: 1
+  Mystery: 1
+  Drama: 1
+
+Gugu Mbatha-Raw
+Number of movies: 3
+  Drama: 3
+  Thriller: 1
+  Action: 1
+  Biography: 1
+  Crime: 1
+  Mystery: 1
+
+Jared Harris
+Number of movies: 3
+  Drama: 2
+  Action: 2
+  Romance: 1
+  Adventure: 1
+  Crime: 1
+
+Oscar Isaac
+Number of movies: 3
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+  Drama: 2
+  History: 1
+  Mystery: 1
+  Sci-Fi: 1
+
+Kate Hudson
+Number of movies: 3
+  Comedy: 3
+  Drama: 1
+  Action: 1
+  Adventure: 1
+  Romance: 1
+
+Julia Roberts
+Number of movies: 3
+  Comedy: 1
+  Drama: 3
+  Crime: 2
+  Thriller: 1
+  Mystery: 1
+
+Michael Nyqvist
+Number of movies: 3
+  Action: 1
+  Crime: 1
+  Thriller: 3
+  Drama: 2
+  Romance: 1
+  Mystery: 1
+
+Jane Levy
+Number of movies: 3
+  Crime: 1
+  Horror: 2
+  Thriller: 1
+  Action: 1
+  Adventure: 1
+  Comedy: 1
+  Fantasy: 1
+
+Dylan Minnette
+Number of movies: 3
+  Crime: 1
+  Horror: 1
+  Thriller: 1
+  Adventure: 1
+  Comedy: 2
+  Family: 2
+
+Gemma Arterton
+Number of movies: 3
+  Comedy: 1
+  Drama: 2
+  Romance: 1
+  Horror: 1
+  Thriller: 1
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+
+Laura Linney
+Number of movies: 3
+  Biography: 2
+  Drama: 2
+  Action: 1
+  Adventure: 1
+  Comedy: 1
+
+Rebecca Ferguson
+Number of movies: 3
+  Crime: 1
+  Drama: 2
+  Mystery: 1
+  Action: 1
+  Adventure: 1
+  Thriller: 1
+  Biography: 1
+  Comedy: 1
+
+Taron Egerton
+Number of movies: 3
+  Action: 1
+  Adventure: 1
+  Comedy: 2
+  Biography: 2
+  Crime: 1
+  Drama: 2
+
+Ken Watanabe
+Number of movies: 3
+  Action: 2
+  Adventure: 2
+  Sci-Fi: 2
+  Drama: 1
+
+Viggo Mortensen
+Number of movies: 3
+  Comedy: 1
+  Drama: 3
+  Crime: 1
+  Mystery: 1
+  Adventure: 1
+
+Jon Bernthal
+Number of movies: 3
+  Action: 2
+  Crime: 2
+  Drama: 2
+  Mystery: 1
+  Thriller: 1
+
+Melissa Leo
+Number of movies: 3
+  Crime: 1
+  Drama: 3
+  Mystery: 1
+  Biography: 2
+  Thriller: 1
+  Action: 1
+
+Dominic Cooper
+Number of movies: 3
+  Action: 3
+  Adventure: 1
+  Fantasy: 2
+  Crime: 1
+  Drama: 2
+
+Christoph Waltz
+Number of movies: 3
+  Action: 2
+  Adventure: 2
+  Drama: 2
+  Western: 1
+  Thriller: 1
+
+John Gallagher Jr.
+Number of movies: 3
+  Action: 1
+  Horror: 3
+  Thriller: 2
+  Drama: 1
+  Mystery: 1
+
+Jim Carrey
+Number of movies: 3
+  Romance: 1
+  Sci-Fi: 1
+  Action: 1
+  Comedy: 1
+  Crime: 2
+  Drama: 1
+  Thriller: 1
+
+Dominic West
+Number of movies: 3
+  Action: 2
+  Fantasy: 1
+  War: 1
+  Crime: 1
+  Drama: 2
+  Thriller: 1
+  Adventure: 1
+
+Mary Elizabeth Winstead
+Number of movies: 3
+  Drama: 2
+  Horror: 1
+  Mystery: 1
+  Action: 1
+  Comedy: 2
+  Fantasy: 1
+  Adventure: 1
+
+Albert Brooks
+Number of movies: 3
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+  Crime: 1
+  Drama: 2
+  Biography: 1
+  Sport: 1
+
+Bill Murray
+Number of movies: 3
+  Adventure: 3
+  Drama: 2
+  Family: 1
+  Comedy: 2
+  Animation: 1
+
+Emma Roberts
+Number of movies: 3
+  Adventure: 1
+  Crime: 2
+  Mystery: 1
+  Comedy: 1
+  Horror: 1
+  Thriller: 1
+
+Eva Mendes
+Number of movies: 3
+  Crime: 2
+  Drama: 1
+  Thriller: 2
+  Action: 2
+  Comedy: 1
+  Fantasy: 1
+
+Carey Mulligan
+Number of movies: 3
+  Drama: 3
+  Romance: 1
+  Crime: 1
+
+Emily Mortimer
+Number of movies: 3
+  Mystery: 2
+  Thriller: 1
+  Action: 1
+  Sci-Fi: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Dakota Fanning
+Number of movies: 3
+  Mystery: 1
+  Thriller: 1
+  Western: 1
+  Animation: 1
+  Family: 1
+  Fantasy: 1
+  Crime: 1
+  Drama: 1
+
+Zachary Gordon
+Number of movies: 3
+  Comedy: 3
+  Family: 3
+
+Robert Capron
+Number of movies: 3
+  Comedy: 3
+  Family: 3
+
+Jacob Tremblay
+Number of movies: 3
+  Drama: 3
+  Fantasy: 1
+  Horror: 2
+  Thriller: 1
+
+Michael Cera
+Number of movies: 3
+  Comedy: 3
+  Action: 1
+  Fantasy: 1
+  Drama: 1
+
+Bill Hader
+Number of movies: 3
+  Comedy: 3
+  Drama: 1
+  Romance: 1
+  Animation: 1
+  Adventure: 1
+
+Irrfan Khan
+Number of movies: 3
+  Action: 2
+  Adventure: 3
+  Crime: 1
+  Drama: 1
+  Fantasy: 1
+
+Jemaine Clement
+Number of movies: 3
+  Adventure: 2
+  Family: 1
+  Fantasy: 2
+  Comedy: 2
+  Horror: 1
+  Action: 1
+
+Kiefer Sutherland
+Number of movies: 3
+  Drama: 3
+  Horror: 1
+  Mystery: 1
+  Action: 1
+  Adventure: 1
+
+Nick Frost
+Number of movies: 3
+  Action: 2
+  Comedy: 3
+  Mystery: 1
+  Adventure: 1
+  Sci-Fi: 2
+
+Patrick Stewart
+Number of movies: 3
+  Action: 2
+  Adventure: 2
+  Sci-Fi: 1
+  Crime: 1
+  Horror: 1
+  Thriller: 1
+  Fantasy: 1
+
+Jeffrey Wright
+Number of movies: 3
+  Action: 1
+  Adventure: 1
+  Thriller: 1
+  Mystery: 2
+  Romance: 1
+  Sci-Fi: 1
+  Drama: 1
+  Fantasy: 1
+
+Lea Seydoux
+Number of movies: 3
+  Action: 1
+  Adventure: 1
+  Thriller: 1
+  Drama: 2
+  Romance: 1
+
+Bill Paxton
+Number of movies: 3
+  Crime: 1
+  Drama: 1
+  Thriller: 2
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+
+Joaquin Phoenix
+Number of movies: 3
+  Drama: 3
+  Romance: 1
+  Sci-Fi: 1
+  Comedy: 1
+  Crime: 1
+
+Keri Russell
+Number of movies: 3
+  Action: 2
+  Adventure: 1
+  Drama: 3
+  Biography: 1
+  Music: 1
+
+Andy Serkis
+Number of movies: 3
+  Action: 2
+  Adventure: 2
+  Drama: 2
+  Sci-Fi: 1
+  Fantasy: 1
+
+Kodi Smit-McPhee
+Number of movies: 3
+  Action: 1
+  Adventure: 2
+  Drama: 3
+  Horror: 1
+  Mystery: 1
+
+Jim Broadbent
+Number of movies: 3
+  Comedy: 1
+  Romance: 2
+  Drama: 2
+  Crime: 1
+  Mystery: 1
+
+Lily James
+Number of movies: 3
+  Drama: 2
+  Family: 1
+  Fantasy: 1
+  Action: 1
+  Horror: 1
+  Romance: 1
+
+Hugo Weaving
+Number of movies: 3
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 2
+  Drama: 2
+  Comedy: 1
+
+Catherine Keener
+Number of movies: 3
+  Adventure: 1
+  Biography: 2
+  Drama: 3
+  Crime: 1
+  Thriller: 2
+
+Terry Crews
+Number of movies: 3
+  Comedy: 3
+  Romance: 1
+  Adventure: 1
+  Sci-Fi: 1
+  Western: 1
+
+Alexandra Daddario
+Number of movies: 3
+  Action: 1
+  Adventure: 2
+  Drama: 2
+  Romance: 1
+  Family: 1
+  Fantasy: 1
+
+Selena Gomez
+Number of movies: 3
+  Drama: 2
+  Animation: 1
+  Comedy: 1
+  Family: 1
+
+Brenton Thwaites
+Number of movies: 3
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+  Drama: 1
+  Romance: 1
+  Sci-Fi: 1
+  Horror: 1
+  Mystery: 1
+
+Nikolaj Coster-Waldau
+Number of movies: 3
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+  Comedy: 1
+  Romance: 1
+  Horror: 1
+  Thriller: 1
+
+Nicolas Cage
+Number of movies: 3
+  Action: 3
+  Comedy: 1
+  Fantasy: 1
+  Thriller: 1
+  Drama: 1
+  History: 1
+
+Ed Helms
+Number of movies: 3
+  Comedy: 3
+  Crime: 1
+  Adventure: 1
+
+Topher Grace
+Number of movies: 3
+  Action: 2
+  Adventure: 2
+  Sci-Fi: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Alice Braga
+Number of movies: 3
+  Action: 2
+  Adventure: 1
+  Sci-Fi: 3
+  Drama: 2
+  Horror: 1
+
+Jessica Biel
+Number of movies: 3
+  Crime: 1
+  Drama: 2
+  Thriller: 1
+  Mystery: 1
+  Romance: 1
+  Action: 1
+  Adventure: 1
+  Comedy: 1
+
+Ezra Miller
+Number of movies: 3
+  Drama: 3
+  Romance: 1
+  Mystery: 1
+  Thriller: 1
+  Biography: 1
+  History: 1
+
+Billy Crudup
+Number of movies: 3
+  Biography: 2
+  Drama: 3
+  History: 2
+  Comedy: 1
+
+Clive Owen
+Number of movies: 3
+  Drama: 3
+  Sci-Fi: 1
+  Thriller: 2
+  Crime: 2
+  Mystery: 1
+
+Paul Giamatti
+Number of movies: 3
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+  Drama: 2
+  Mystery: 2
+  Romance: 1
+  Fantasy: 1
+
+Maria Bello
+Number of movies: 3
+  Horror: 1
+  Action: 2
+  Adventure: 2
+  Fantasy: 1
+  Family: 1
+
+Richard Gere
+Number of movies: 3
+  Drama: 2
+  Thriller: 1
+  Comedy: 1
+  Romance: 1
+  Family: 1
+
+Tessa Thompson
+Number of movies: 3
+  Comedy: 2
+  Drama: 2
+  Sport: 1
+  Action: 1
+
+Will Arnett
+Number of movies: 3
+  Action: 3
+  Adventure: 3
+  Comedy: 2
+  Animation: 1
+
+Richard Armitage
+Number of movies: 3
+  Adventure: 3
+  Fantasy: 3
+
+Ice Cube
+Number of movies: 3
+  Action: 2
+  Comedy: 3
+  Crime: 2
+  Drama: 1
+
+Olga Kurylenko
+Number of movies: 3
+  Action: 3
+  Adventure: 3
+  Mystery: 1
+  Thriller: 1
+  Drama: 1
+
+Don Cheadle
+Number of movies: 3
+  Action: 2
+  Adventure: 2
+  Sci-Fi: 2
+  Drama: 1
+  Thriller: 1
+
+Amber Heard
+Number of movies: 3
+  Biography: 1
+  Drama: 3
+  Romance: 1
+  Action: 2
+  Sport: 1
+  Thriller: 1
+
+Jon Hamm
+Number of movies: 3
+  Action: 2
+  Comedy: 1
+  Animation: 1
+  Adventure: 1
+  Crime: 1
+  Drama: 1
+  Thriller: 1
+
+John Leguizamo
+Number of movies: 3
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+  Biography: 1
+  Crime: 1
+  Drama: 1
+  Sci-Fi: 1
+  Thriller: 1
+
+Paul Dano
+Number of movies: 3
+  Drama: 3
+  History: 1
+  Action: 1
+  Crime: 1
+  Adventure: 1
+  Comedy: 1
+
+Taylor Kitsch
+Number of movies: 3
+  Action: 2
+  Biography: 1
+  Drama: 2
+  Adventure: 1
+  Sci-Fi: 1
+  Crime: 1
+  Thriller: 1
+
+Emory Cohen
+Number of movies: 3
+  Crime: 1
+  Drama: 2
+  Thriller: 2
+  Romance: 1
+
+Ed Harris
+Number of movies: 3
+  Action: 1
+  Drama: 3
+  Sci-Fi: 2
+  Thriller: 1
+  Crime: 1
+  Mystery: 1
+
+Connor Paolo
+Number of movies: 3
+  Action: 1
+  Horror: 3
+  Drama: 1
+  Sci-Fi: 1
+  Thriller: 1
+
+Olivia Wilde
+Number of movies: 3
+  Action: 3
+  Sci-Fi: 2
+  Thriller: 1
+  Biography: 1
+  Drama: 1
+  Adventure: 1
+
+Andy Samberg
+Number of movies: 3
+  Animation: 2
+  Adventure: 1
+  Comedy: 3
+  Music: 1
+  Family: 1
+
+Kate Bosworth
+Number of movies: 3
+  Drama: 2
+  Fantasy: 1
+  Horror: 1
+  Crime: 1
+  Thriller: 1
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+
+Thomas Jane
+Number of movies: 3
+  Drama: 2
+  Fantasy: 1
+  Horror: 2
+  Action: 1
+  History: 1
+
+Nat Wolff
+Number of movies: 3
+  Drama: 3
+  Romance: 2
+  Mystery: 1
+
+Laura Dern
+Number of movies: 3
+  Drama: 3
+  Romance: 1
+  Adventure: 1
+  Biography: 1
+  Mystery: 1
+  Thriller: 1
+
+Thomas Haden Church
+Number of movies: 3
+  Action: 1
+  Adventure: 2
+  Comedy: 1
+  Family: 2
+
+Matthew Macfadyen
+Number of movies: 3
+  Action: 2
+  Adventure: 2
+  Romance: 2
+  Drama: 2
+
+William Fichtner
+Number of movies: 3
+  Drama: 1
+  Sport: 1
+  Action: 2
+  Adventure: 2
+  Comedy: 1
+  Western: 1
+
+Gabriel Basso
+Number of movies: 3
+  Drama: 3
+  Sport: 1
+  Crime: 1
+  Mystery: 1
+  Adventure: 1
+  Comedy: 1
+
+Dylan O'Brien
+Number of movies: 3
+  Action: 2
+  Mystery: 1
+  Sci-Fi: 2
+  Thriller: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Michael B. Jordan
+Number of movies: 3
+  Drama: 1
+  Sport: 1
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+  Comedy: 1
+  Romance: 1
+
+Jet Li
+Number of movies: 3
+  Action: 3
+  Adventure: 3
+  Thriller: 2
+  Fantasy: 1
+
+Sean Penn
+Number of movies: 3
+  Action: 2
+  Crime: 2
+  Drama: 3
+  Fantasy: 1
+
+Michiel Huisman
+Number of movies: 3
+  Drama: 3
+  Fantasy: 1
+  Romance: 1
+  Mystery: 1
+  Thriller: 1
+  Adventure: 1
+  Biography: 1
+
+Liv Tyler
+Number of movies: 3
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+  Horror: 1
+  Mystery: 1
+  Thriller: 1
+  Comedy: 1
+  Drama: 1
+
+Jon Favreau
+Number of movies: 3
+  Comedy: 3
+  Drama: 2
+  Romance: 1
+
+Alex Pettyfer
+Number of movies: 3
+  Comedy: 1
+  Drama: 2
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+  Romance: 1
+
+Jason Segel
+Number of movies: 3
+  Animation: 1
+  Adventure: 1
+  Comedy: 3
+  Drama: 1
+  Romance: 2
+
+Famke Janssen
+Number of movies: 3
+  Action: 3
+  Thriller: 2
+  Adventure: 1
+  Fantasy: 1
+
+Michelle Yeoh
+Number of movies: 3
+  Action: 2
+  Adventure: 3
+  Crime: 1
+  Sci-Fi: 1
+  Thriller: 1
+  Fantasy: 1
+
+Justin Long
+Number of movies: 3
+  Comedy: 1
+  Drama: 2
+  Horror: 1
+  Action: 1
+  Adventure: 1
+  Thriller: 2
+
+Mickey Rourke
+Number of movies: 3
+  Action: 3
+  Crime: 1
+  Thriller: 1
+  Adventure: 1
+  Sci-Fi: 1
+  Drama: 1
+  Fantasy: 1
+
+Joan Allen
+Number of movies: 3
+  Action: 2
+  Mystery: 1
+  Thriller: 2
+  Drama: 1
+  Family: 1
+  Sci-Fi: 1
+
+Ewan McGregor
+Number of movies: 3
+  Drama: 2
+  Thriller: 2
+  Crime: 1
+  Mystery: 1
+
+John Cusack
+Number of movies: 3
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+  Fantasy: 1
+  Horror: 1
+  Biography: 1
+  Drama: 1
+
+Alfred Molina
+Number of movies: 3
+  Drama: 2
+  Biography: 1
+  Comedy: 1
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+
+Danny McBride
+Number of movies: 3
+  Animation: 1
+  Action: 2
+  Adventure: 2
+  Comedy: 2
+  Crime: 1
+  Fantasy: 1
+
+Michelle Pfeiffer
+Number of movies: 3
+  Comedy: 3
+  Drama: 1
+  Family: 1
+  Fantasy: 1
+  Horror: 1
+  Crime: 1
+  Thriller: 1
+
+Julianne Hough
+Number of movies: 3
+  Drama: 3
+  Romance: 1
+  Thriller: 1
+  Comedy: 2
+  Music: 1
+  Musical: 1
+
+Ray Winstone
+Number of movies: 3
+  Action: 2
+  Crime: 1
+  Sport: 1
+  Drama: 1
+  Thriller: 1
+  Animation: 1
+  Adventure: 1
+
+Tina Fey
+Number of movies: 3
+  Biography: 1
+  Comedy: 3
+  Drama: 1
+  Animation: 1
+  Action: 1
+
+Cynthia Nixon
+Number of movies: 3
+  Biography: 1
+  Drama: 3
+  Comedy: 2
+  Romance: 2
+
+Robin Wright
+Number of movies: 3
+  Biography: 1
+  Drama: 2
+  Sport: 1
+  Romance: 1
+  Animation: 1
+  Action: 1
+  Adventure: 1
+
+Emma Thompson
+Number of movies: 3
+  Animation: 1
+  Adventure: 1
+  Comedy: 2
+  Drama: 2
+  Fantasy: 1
+  Romance: 1
+  Biography: 1
+
+Sacha Baron Cohen
+Number of movies: 3
+  Action: 2
+  Adventure: 1
+  Comedy: 3
+  Sport: 1
+
+Sam Rockwell
+Number of movies: 3
+  Drama: 1
+  Mystery: 1
+  Sci-Fi: 1
+  Action: 1
+  Comedy: 2
+  Romance: 1
+  Crime: 1
+
+Oliver Platt
+Number of movies: 3
+  Comedy: 1
+  Drama: 3
+  Romance: 1
+  Horror: 1
+  Thriller: 1
+
+Katherine Heigl
+Number of movies: 3
+  Comedy: 3
+  Romance: 3
+  Drama: 1
+
+Jaden Smith
+Number of movies: 3
+  Biography: 1
+  Drama: 2
+  Action: 2
+  Family: 1
+  Adventure: 1
+  Sci-Fi: 1
+
+Alan Rickman
+Number of movies: 3
+  Drama: 3
+  Horror: 1
+  Musical: 1
+  Thriller: 1
+  War: 1
+  Crime: 1
+  Fantasy: 1
+
+Lily Collins
+Number of movies: 3
+  Comedy: 2
+  Romance: 2
+  Action: 1
+  Fantasy: 1
+  Horror: 1
+  Drama: 1
+
+Dan Stevens
+Number of movies: 3
+  Thriller: 1
+  Crime: 1
+  Drama: 2
+  Mystery: 1
+
+Rose McGowan
+Number of movies: 3
+  Action: 3
+  Adventure: 1
+  Fantasy: 1
+  Horror: 2
+  Thriller: 1
+  Comedy: 1
+
+David Oyelowo
+Number of movies: 3
+  Biography: 3
+  Drama: 3
+  Romance: 1
+  Sport: 1
+  History: 1
+
+Tye Sheridan
+Number of movies: 3
+  Biography: 1
+  Drama: 1
+  History: 1
+  Action: 1
+  Comedy: 1
+  Horror: 1
+  Thriller: 1
+
+Logan Marshall-Green
+Number of movies: 2
+  Adventure: 1
+  Mystery: 2
+  Sci-Fi: 1
+  Drama: 1
+  Thriller: 1
+
+Haley Lu Richardson
+Number of movies: 2
+  Horror: 1
+  Thriller: 1
+  Comedy: 1
+  Drama: 1
+
+Essie Davis
+Number of movies: 2
+  Comedy: 1
+  Drama: 1
+  Horror: 1
+
+Kenneth Branagh
+Number of movies: 2
+  Comedy: 1
+  Action: 1
+  Drama: 1
+  Thriller: 1
+
+Tom Holland
+Number of movies: 2
+  Action: 1
+  Adventure: 1
+  Biography: 1
+  Drama: 1
+  Thriller: 1
+
+Laurence Fishburne
+Number of movies: 2
+  Adventure: 2
+  Drama: 1
+  Romance: 1
+  Action: 1
+  Sci-Fi: 1
+
+Katherine Waterston
+Number of movies: 2
+  Adventure: 1
+  Family: 1
+  Fantasy: 1
+  Comedy: 1
+  Crime: 1
+  Drama: 1
+
+Dan Fogler
+Number of movies: 2
+  Adventure: 1
+  Family: 1
+  Fantasy: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Taraji P. Henson
+Number of movies: 2
+  Biography: 1
+  Drama: 2
+  History: 1
+  Action: 1
+  Family: 1
+
+Octavia Spencer
+Number of movies: 2
+  Biography: 1
+  Drama: 2
+  History: 1
+
+Rachel House
+Number of movies: 2
+  Animation: 1
+  Adventure: 2
+  Comedy: 2
+  Drama: 1
+
+Eric Stonestreet
+Number of movies: 2
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+  Mystery: 1
+  Romance: 1
+  Thriller: 1
+
+Lake Bell
+Number of movies: 2
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+  Action: 1
+  Thriller: 1
+
+Michael Stuhlbarg
+Number of movies: 2
+  Drama: 2
+  Mystery: 1
+  Sci-Fi: 1
+  Thriller: 1
+
+Corey Stoll
+Number of movies: 2
+  Adventure: 2
+  Drama: 1
+  Thriller: 1
+  Action: 1
+  Comedy: 1
+
+Christina Applegate
+Number of movies: 2
+  Comedy: 2
+  Adventure: 1
+
+Ali Larter
+Number of movies: 2
+  Action: 2
+  Horror: 2
+  Sci-Fi: 1
+  Adventure: 1
+
+Mahershala Ali
+Number of movies: 2
+  Drama: 2
+  Action: 1
+  Biography: 1
+
+Linda Cardellini
+Number of movies: 2
+  Biography: 1
+  Drama: 1
+  History: 1
+  Comedy: 1
+  Family: 1
+
+Demian Bichir
+Number of movies: 2
+  Drama: 1
+  Action: 1
+  Comedy: 1
+  Crime: 1
+
+Tony Revolori
+Number of movies: 2
+  Drama: 2
+  Comedy: 1
+  Crime: 1
+
+Jeremy Irvine
+Number of movies: 2
+  Adventure: 1
+  Drama: 2
+  Fantasy: 2
+  Comedy: 1
+
+Adele Exarchopoulos
+Number of movies: 2
+  Drama: 2
+  Romance: 1
+
+Heath Ledger
+Number of movies: 2
+  Action: 1
+  Crime: 1
+  Drama: 1
+  Adventure: 1
+  Fantasy: 1
+  Mystery: 1
+
+Stephen Lang
+Number of movies: 2
+  Crime: 1
+  Horror: 1
+  Thriller: 1
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+
+Emilia Clarke
+Number of movies: 2
+  Drama: 1
+  Romance: 1
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+
+Michael McElhatton
+Number of movies: 2
+  Horror: 1
+  Mystery: 1
+  Thriller: 2
+  Action: 1
+  Drama: 1
+
+Justin Theroux
+Number of movies: 2
+  Crime: 1
+  Drama: 2
+  Mystery: 2
+  Thriller: 1
+
+Jennifer Ehle
+Number of movies: 2
+  Drama: 2
+  Romance: 1
+  Thriller: 1
+  Biography: 1
+
+Zoe Kravitz
+Number of movies: 2
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+  Crime: 1
+  Drama: 1
+  Thriller: 1
+
+Jason O'Mara
+Number of movies: 2
+  Drama: 2
+  Action: 1
+  Thriller: 1
+
+Douglas M. Griffin
+Number of movies: 2
+  Action: 1
+  Drama: 2
+  Thriller: 1
+  Horror: 1
+  Mystery: 1
+
+Toby Kebbell
+Number of movies: 2
+  Drama: 2
+  Fantasy: 1
+  Action: 1
+  Adventure: 1
+
+Orlando Bloom
+Number of movies: 2
+  Action: 2
+  Adventure: 2
+  Fantasy: 2
+
+Melanie Laurent
+Number of movies: 2
+  Adventure: 1
+  Drama: 1
+  War: 1
+  Mystery: 1
+  Thriller: 1
+
+Jack Davenport
+Number of movies: 2
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+  Biography: 1
+  Drama: 1
+  Romance: 1
+
+Annalise Basso
+Number of movies: 2
+  Comedy: 1
+  Drama: 1
+  Horror: 1
+  Thriller: 1
+
+Tyler Perry
+Number of movies: 2
+  Crime: 1
+  Drama: 1
+  Mystery: 1
+  Action: 1
+  Adventure: 1
+  Comedy: 1
+
+Ty Simpkins
+Number of movies: 2
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+  Horror: 1
+  Mystery: 1
+  Thriller: 1
+
+Judy Greer
+Number of movies: 2
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Jennifer Jason Leigh
+Number of movies: 2
+  Crime: 1
+  Drama: 2
+  Mystery: 1
+  Comedy: 1
+  Romance: 1
+
+Matt Bomer
+Number of movies: 2
+  Action: 1
+  Comedy: 2
+  Crime: 1
+  Drama: 1
+  Music: 1
+
+Aoi Yuki
+Number of movies: 2
+  Animation: 2
+  Drama: 2
+  Fantasy: 1
+  Romance: 1
+
+Gil Birmingham
+Number of movies: 2
+  Crime: 1
+  Drama: 2
+  Thriller: 1
+  Adventure: 1
+  Fantasy: 1
+
+Jason Momoa
+Number of movies: 2
+  Romance: 1
+  Sci-Fi: 1
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+
+Michael Gambon
+Number of movies: 2
+  Adventure: 2
+  Drama: 1
+  Fantasy: 2
+  Family: 1
+
+Olivia Munn
+Number of movies: 2
+  Comedy: 2
+  Drama: 1
+
+Christina Hendricks
+Number of movies: 2
+  Horror: 1
+  Thriller: 2
+  Drama: 1
+  Mystery: 1
+
+Karl Glusman
+Number of movies: 2
+  Horror: 1
+  Thriller: 1
+  Drama: 1
+  Romance: 1
+
+Aubrey Plaza
+Number of movies: 2
+  Adventure: 1
+  Comedy: 2
+  Romance: 1
+
+Nicola Peltz
+Number of movies: 2
+  Action: 2
+  Adventure: 2
+  Sci-Fi: 1
+  Family: 1
+
+Jack Reynor
+Number of movies: 2
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+  Comedy: 1
+  Drama: 1
+  Music: 1
+
+Stanley Tucci
+Number of movies: 2
+  Action: 1
+  Adventure: 2
+  Sci-Fi: 2
+  Thriller: 1
+
+Dave Franco
+Number of movies: 2
+  Adventure: 2
+  Crime: 1
+  Mystery: 1
+  Action: 1
+  Comedy: 1
+
+Will Poulter
+Number of movies: 2
+  Adventure: 1
+  Drama: 1
+  Thriller: 1
+  Action: 1
+  Mystery: 1
+  Sci-Fi: 1
+
+Tobey Maguire
+Number of movies: 2
+  Drama: 1
+  Romance: 1
+  Action: 1
+  Adventure: 1
+
+Kit Harington
+Number of movies: 2
+  Mystery: 1
+  Thriller: 1
+  Western: 1
+  Action: 1
+  Adventure: 1
+  Drama: 1
+
+Rachael Harris
+Number of movies: 2
+  Comedy: 2
+  Family: 2
+
+Blake Jenner
+Number of movies: 2
+  Comedy: 2
+  Drama: 1
+
+Carla Gugino
+Number of movies: 2
+  Action: 2
+  Drama: 2
+  Mystery: 1
+  Adventure: 1
+
+Mark Rylance
+Number of movies: 2
+  Adventure: 1
+  Family: 1
+  Fantasy: 1
+  Drama: 1
+  History: 1
+  Thriller: 1
+
+Justin Bartha
+Number of movies: 2
+  Drama: 1
+  Comedy: 1
+
+Adrian Martinez
+Number of movies: 2
+  Drama: 2
+  Comedy: 1
+  Crime: 1
+
+Benicio Del Toro
+Number of movies: 2
+  Action: 1
+  Crime: 2
+  Drama: 2
+  Thriller: 1
+
+Annabelle Wallis
+Number of movies: 2
+  Thriller: 2
+  War: 1
+  Horror: 1
+  Mystery: 1
+
+Cobie Smulders
+Number of movies: 2
+  Action: 1
+  Adventure: 1
+  Crime: 1
+  Drama: 1
+  Romance: 1
+  Thriller: 1
+
+Billy Burke
+Number of movies: 2
+  Drama: 1
+  Fantasy: 1
+  Romance: 1
+  Horror: 1
+
+David Denman
+Number of movies: 2
+  Action: 2
+  Drama: 1
+  History: 1
+  Adventure: 1
+  Sci-Fi: 1
+
+Rene Russo
+Number of movies: 2
+  Crime: 1
+  Drama: 2
+  Thriller: 1
+  Comedy: 1
+
+Riz Ahmed
+Number of movies: 2
+  Crime: 2
+  Drama: 2
+  Thriller: 2
+
+Art Parkinson
+Number of movies: 2
+  Animation: 1
+  Adventure: 1
+  Family: 1
+  Action: 1
+  Drama: 1
+  Fantasy: 1
+
+Josh Gad
+Number of movies: 2
+  Animation: 2
+  Adventure: 2
+  Comedy: 1
+  Action: 1
+
+Evangeline Lilly
+Number of movies: 2
+  Action: 2
+  Adventure: 1
+  Comedy: 1
+  Drama: 1
+  Family: 1
+
+Renee Zellweger
+Number of movies: 2
+  Comedy: 1
+  Romance: 1
+  Crime: 1
+  Drama: 1
+  Mystery: 1
+
+Richard Madden
+Number of movies: 2
+  Drama: 2
+  Family: 1
+  Fantasy: 1
+  Action: 1
+  Crime: 1
+
+Barry Ward
+Number of movies: 2
+  Sci-Fi: 2
+  Drama: 1
+  Thriller: 1
+
+Rose Leslie
+Number of movies: 2
+  Horror: 1
+  Sci-Fi: 1
+  Thriller: 1
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+
+Clifton Collins Jr.
+Number of movies: 2
+  Crime: 1
+  Drama: 1
+  Thriller: 2
+
+Marcia Gay Harden
+Number of movies: 2
+  Adventure: 1
+  Biography: 1
+  Drama: 1
+  Horror: 1
+
+Matthew Goode
+Number of movies: 2
+  Biography: 1
+  Drama: 1
+  Thriller: 1
+  Action: 1
+  Mystery: 1
+  Sci-Fi: 1
+
+Dane DeHaan
+Number of movies: 2
+  Drama: 1
+  Fantasy: 1
+  Horror: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Mia Goth
+Number of movies: 2
+  Drama: 2
+  Fantasy: 1
+  Horror: 1
+  Sci-Fi: 1
+  Thriller: 1
+
+Terrence Howard
+Number of movies: 2
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+  Drama: 1
+  Music: 1
+
+Jeff Daniels
+Number of movies: 2
+  Action: 1
+  Adventure: 1
+  Mystery: 1
+  Biography: 1
+  Drama: 1
+
+Kevin Bacon
+Number of movies: 2
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+  Comedy: 1
+  Drama: 1
+
+Laurent Lucas
+Number of movies: 2
+  Drama: 1
+  Horror: 1
+  Adventure: 1
+  Biography: 1
+
+Golshifteh Farahani
+Number of movies: 2
+  Comedy: 1
+  Drama: 2
+  Romance: 2
+  Action: 1
+
+Vanessa Hudgens
+Number of movies: 2
+  Drama: 1
+  Action: 1
+  Fantasy: 1
+
+Elizabeth Olsen
+Number of movies: 2
+  Action: 2
+  Drama: 1
+  Mystery: 1
+  Adventure: 1
+  Sci-Fi: 1
+
+Chadwick Boseman
+Number of movies: 2
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+  Biography: 1
+  Drama: 1
+  Sport: 1
+
+Robert Redford
+Number of movies: 2
+  Action: 1
+  Adventure: 2
+  Sci-Fi: 1
+  Family: 1
+  Fantasy: 1
+
+Lucas Till
+Number of movies: 2
+  Action: 1
+  Adventure: 1
+  Comedy: 1
+  Drama: 1
+  Horror: 1
+  Thriller: 1
+
+Thomas Lennon
+Number of movies: 2
+  Action: 1
+  Adventure: 1
+  Comedy: 2
+  Drama: 1
+  Family: 1
+
+Danila Kozlovsky
+Number of movies: 2
+  Action: 2
+  Adventure: 1
+  Sci-Fi: 1
+  Comedy: 1
+  Fantasy: 1
+
+Larry the Cable Guy
+Number of movies: 2
+  Animation: 2
+  Adventure: 2
+  Comedy: 2
+
+Riley Keough
+Number of movies: 2
+  Drama: 2
+
+Olivia Colman
+Number of movies: 2
+  Comedy: 1
+  Drama: 2
+  Romance: 1
+
+Adrien Brody
+Number of movies: 2
+  Action: 1
+  Adventure: 2
+  Sci-Fi: 1
+  Comedy: 1
+  Drama: 1
+
+Michael Chiklis
+Number of movies: 2
+  Horror: 1
+  Sci-Fi: 1
+  Thriller: 2
+  Action: 1
+  Mystery: 1
+
+Kerry Bishe
+Number of movies: 2
+  Horror: 1
+  Sci-Fi: 1
+  Thriller: 1
+  Drama: 1
+
+Peter Stormare
+Number of movies: 2
+  Horror: 2
+  Sci-Fi: 1
+  Thriller: 2
+
+Greta Gerwig
+Number of movies: 2
+  Biography: 1
+  Drama: 2
+  History: 1
+  Comedy: 1
+
+Mathieu Amalric
+Number of movies: 2
+  Adventure: 2
+  Comedy: 1
+  Drama: 1
+  Action: 1
+  Thriller: 1
+
+Amy Poehler
+Number of movies: 2
+  Animation: 1
+  Adventure: 1
+  Comedy: 2
+
+Lewis Black
+Number of movies: 2
+  Animation: 2
+  Adventure: 2
+  Comedy: 2
+
+Luke Wilson
+Number of movies: 2
+  Animation: 1
+  Adventure: 2
+  Comedy: 2
+  Sci-Fi: 1
+
+Arnold Schwarzenegger
+Number of movies: 2
+  Action: 2
+  Adventure: 1
+  Sci-Fi: 1
+  Crime: 1
+  Mystery: 1
+
+Brandon T. Jackson
+Number of movies: 2
+  Adventure: 2
+  Family: 2
+  Fantasy: 2
+
+Diane Lane
+Number of movies: 2
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+
+Brooklyn Decker
+Number of movies: 2
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+  Comedy: 1
+  Romance: 1
+
+Rihanna
+Number of movies: 2
+  Action: 1
+  Adventure: 2
+  Sci-Fi: 1
+  Animation: 1
+  Comedy: 1
+
+Freida Pinto
+Number of movies: 2
+  Action: 1
+  Drama: 2
+  Sci-Fi: 1
+
+Kyle Gallner
+Number of movies: 2
+  Comedy: 1
+  Drama: 2
+  Action: 1
+  Biography: 1
+
+Lorenza Izzo
+Number of movies: 2
+  Drama: 1
+  Horror: 2
+  Thriller: 1
+  Adventure: 1
+
+Ana de Armas
+Number of movies: 2
+  Drama: 2
+  Horror: 1
+  Thriller: 1
+  Crime: 1
+  Mystery: 1
+
+Aaron Burns
+Number of movies: 2
+  Drama: 1
+  Horror: 2
+  Thriller: 1
+  Adventure: 1
+
+Halle Berry
+Number of movies: 2
+  Drama: 1
+  Sci-Fi: 1
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+
+Hugh Grant
+Number of movies: 2
+  Drama: 2
+  Sci-Fi: 1
+  Biography: 1
+  Comedy: 1
+
+Ryan Guzman
+Number of movies: 2
+  Comedy: 1
+  Mystery: 1
+  Thriller: 1
+
+Zoe Bell
+Number of movies: 2
+  Thriller: 2
+  Action: 1
+  Horror: 1
+
+John Hurt
+Number of movies: 2
+  Action: 2
+  Adventure: 1
+  Drama: 1
+  Fantasy: 1
+
+Jena Malone
+Number of movies: 2
+  Action: 1
+  Fantasy: 1
+  Drama: 1
+
+Gal Gadot
+Number of movies: 2
+  Action: 2
+  Comedy: 1
+  Crime: 1
+  Drama: 1
+
+Sean Bean
+Number of movies: 2
+  Action: 1
+  Adventure: 2
+  Sci-Fi: 1
+  Horror: 1
+  Mystery: 1
+
+Yoo Gong
+Number of movies: 2
+  Action: 2
+  Drama: 2
+  Horror: 1
+  Thriller: 1
+
+Brittany Snow
+Number of movies: 2
+  Comedy: 2
+  Music: 2
+  Romance: 1
+
+Adrian Grenier
+Number of movies: 2
+  Comedy: 2
+  Drama: 1
+
+Daniel Day-Lewis
+Number of movies: 2
+  Drama: 2
+  History: 2
+  Biography: 1
+
+Marton Csokas
+Number of movies: 2
+  Action: 1
+  Crime: 2
+  Thriller: 2
+  Drama: 1
+
+David Harbour
+Number of movies: 2
+  Action: 1
+  Crime: 2
+  Thriller: 1
+  Drama: 1
+  Mystery: 1
+
+Anna Hutchison
+Number of movies: 2
+  Horror: 2
+  Action: 1
+  Thriller: 1
+
+Alice Eve
+Number of movies: 2
+  Comedy: 2
+  Romance: 2
+  Drama: 1
+
+Mike Vogel
+Number of movies: 2
+  Comedy: 1
+  Romance: 1
+  Action: 1
+  Horror: 1
+  Sci-Fi: 1
+
+Lucas Black
+Number of movies: 2
+  Action: 2
+  Crime: 1
+  Thriller: 1
+  Fantasy: 1
+  Horror: 1
+
+Jae Head
+Number of movies: 2
+  Biography: 1
+  Drama: 2
+  Sport: 1
+  Action: 1
+  Crime: 1
+
+Nick Damici
+Number of movies: 2
+  Action: 1
+  Horror: 2
+  Drama: 1
+  Sci-Fi: 1
+
+Ed Oxenbould
+Number of movies: 2
+  Comedy: 2
+  Horror: 1
+  Thriller: 1
+  Family: 1
+
+Jordana Brewster
+Number of movies: 2
+  Action: 2
+  Crime: 2
+  Thriller: 2
+
+Jenna Dewan Tatum
+Number of movies: 2
+  Crime: 1
+  Drama: 2
+  Music: 1
+  Comedy: 1
+  Romance: 1
+
+Elijah Wood
+Number of movies: 2
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+  Animation: 1
+  Comedy: 1
+  Family: 1
+
+Jessica Brown Findlay
+Number of movies: 2
+  Drama: 2
+  Horror: 1
+  Sci-Fi: 1
+  Comedy: 1
+  Fantasy: 1
+
+Anton Yelchin
+Number of movies: 2
+  Crime: 1
+  Horror: 1
+  Thriller: 1
+  Action: 1
+  Adventure: 1
+  Drama: 1
+
+Alia Shawkat
+Number of movies: 2
+  Crime: 1
+  Horror: 1
+  Thriller: 1
+  Drama: 1
+
+Sally Field
+Number of movies: 2
+  Biography: 1
+  Drama: 2
+  History: 1
+  Comedy: 1
+  Romance: 1
+
+David Strathairn
+Number of movies: 2
+  Biography: 1
+  Drama: 2
+  History: 1
+  Crime: 1
+  Mystery: 1
+
+Ansel Elgort
+Number of movies: 2
+  Drama: 1
+  Romance: 1
+  Adventure: 1
+  Sci-Fi: 1
+  Thriller: 1
+
+Wendi McLendon-Covey
+Number of movies: 2
+  Comedy: 2
+  Romance: 2
+  Drama: 1
+
+Oona Laurence
+Number of movies: 2
+  Adventure: 1
+  Family: 1
+  Fantasy: 1
+  Drama: 1
+  Sport: 1
+
+Ray Stevenson
+Number of movies: 2
+  Action: 2
+  Adventure: 2
+  Romance: 1
+  Drama: 1
+
+Adam Brody
+Number of movies: 2
+  Comedy: 2
+  Horror: 2
+  Fantasy: 1
+
+Johnny Simmons
+Number of movies: 2
+  Comedy: 1
+  Horror: 1
+  Thriller: 1
+
+Judy Davis
+Number of movies: 2
+  Comedy: 1
+  Drama: 2
+  Biography: 1
+  History: 1
+
+Mary Steenburgen
+Number of movies: 2
+  Comedy: 2
+  Drama: 1
+  Romance: 1
+
+Alden Ehrenreich
+Number of movies: 2
+  Comedy: 1
+  Mystery: 1
+  Drama: 1
+  Fantasy: 1
+  Romance: 1
+
+Lia Marie Johnson
+Number of movies: 2
+  Drama: 1
+  Sport: 1
+  Thriller: 1
+
+Rodrigo Santoro
+Number of movies: 2
+  Action: 1
+  Adventure: 1
+  Drama: 2
+  Comedy: 1
+  Crime: 1
+
+Kaya Scodelario
+Number of movies: 2
+  Action: 2
+  Mystery: 1
+  Sci-Fi: 2
+  Thriller: 1
+
+Thomas Brodie-Sangster
+Number of movies: 2
+  Action: 2
+  Mystery: 1
+  Sci-Fi: 2
+  Thriller: 1
+
+Antonio Banderas
+Number of movies: 2
+  Action: 1
+  Adventure: 1
+  Thriller: 2
+  Drama: 1
+
+Alan Alda
+Number of movies: 2
+  Drama: 2
+  History: 1
+  Thriller: 1
+  Romance: 1
+
+Martin Henderson
+Number of movies: 2
+  Action: 1
+  Adventure: 1
+  Drama: 2
+  Biography: 1
+  Family: 1
+
+Peter Dinklage
+Number of movies: 2
+  Action: 1
+  Comedy: 2
+  Family: 1
+
+Keegan-Michael Key
+Number of movies: 2
+  Action: 1
+  Comedy: 2
+  Drama: 1
+
+Ellie Kendrick
+Number of movies: 2
+  Comedy: 1
+  Romance: 1
+  Drama: 1
+
+Chris Rock
+Number of movies: 2
+  Comedy: 2
+
+David Spade
+Number of movies: 2
+  Comedy: 2
+  Action: 1
+  Adventure: 1
+
+William Hurt
+Number of movies: 2
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+  Crime: 1
+  Drama: 1
+  Thriller: 1
+
+Rob Riggle
+Number of movies: 2
+  Comedy: 2
+  Sci-Fi: 1
+
+Lin Shaye
+Number of movies: 2
+  Horror: 2
+  Mystery: 1
+  Thriller: 1
+
+Liana Liberato
+Number of movies: 2
+  Drama: 2
+  Romance: 1
+  Crime: 1
+  Thriller: 1
+
+Isabelle Huppert
+Number of movies: 2
+  Crime: 1
+  Drama: 2
+  Thriller: 1
+
+Jessica Alba
+Number of movies: 2
+  Action: 2
+  Adventure: 1
+  Crime: 2
+  Thriller: 1
+
+Michael Parks
+Number of movies: 2
+  Comedy: 1
+  Drama: 2
+  Horror: 1
+  Action: 1
+  Crime: 1
+
+Angela Bassett
+Number of movies: 2
+  Action: 2
+  Crime: 1
+  Drama: 1
+  Thriller: 1
+
+Mireille Enos
+Number of movies: 2
+  Action: 1
+  Adventure: 1
+  Horror: 1
+  Drama: 1
+  Fantasy: 1
+  Music: 1
+
+Laurie Holden
+Number of movies: 2
+  Adventure: 1
+  Horror: 2
+  Mystery: 1
+
+Olivia Thirlby
+Number of movies: 2
+  Action: 1
+  Sci-Fi: 1
+  Biography: 1
+  Drama: 1
+  History: 1
+
+Sam Neill
+Number of movies: 2
+  Adventure: 1
+  Comedy: 1
+  Drama: 2
+
+Gabriella Wilde
+Number of movies: 2
+  Drama: 2
+  Horror: 1
+  Romance: 1
+
+Cam Gigandet
+Number of movies: 2
+  Action: 2
+  Horror: 1
+  Mystery: 1
+  Drama: 1
+  Sport: 1
+
+Timothy Olyphant
+Number of movies: 2
+  Action: 2
+  Adventure: 2
+  Sci-Fi: 1
+  Thriller: 1
+
+Dianna Agron
+Number of movies: 2
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+  Comedy: 1
+  Crime: 1
+  Thriller: 1
+
+Timothy Spall
+Number of movies: 2
+  Biography: 1
+  Drama: 2
+  Horror: 1
+  Musical: 1
+
+Jason Schwartzman
+Number of movies: 2
+  Biography: 1
+  Drama: 1
+  History: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Jessica Lucas
+Number of movies: 2
+  Action: 1
+  Horror: 2
+  Sci-Fi: 1
+  Fantasy: 1
+
+Lizzy Caplan
+Number of movies: 2
+  Action: 1
+  Horror: 1
+  Sci-Fi: 1
+  Comedy: 1
+
+Leslie Bibb
+Number of movies: 2
+  Crime: 1
+  Drama: 1
+  Thriller: 1
+  Horror: 1
+  Mystery: 1
+
+Toni Collette
+Number of movies: 2
+  Crime: 1
+  Drama: 2
+  Thriller: 1
+  Comedy: 1
+
+Tracy Letts
+Number of movies: 2
+  Crime: 1
+  Drama: 2
+  Thriller: 1
+  Biography: 1
+
+Jane Fonda
+Number of movies: 2
+  Comedy: 1
+  Drama: 2
+  Music: 1
+  Biography: 1
+
+David Thewlis
+Number of movies: 2
+  Drama: 2
+  War: 1
+  Crime: 1
+  Mystery: 1
+
+Rhona Mitra
+Number of movies: 2
+  Action: 2
+  Crime: 1
+  Drama: 1
+  Adventure: 1
+  Fantasy: 1
+
+Amanda Bynes
+Number of movies: 2
+  Comedy: 2
+  Drama: 1
+  Romance: 2
+  Sport: 1
+
+Dan Byrd
+Number of movies: 2
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+  Horror: 1
+
+Anika Noni Rose
+Number of movies: 2
+  Drama: 1
+  Romance: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Jodie Foster
+Number of movies: 2
+  Action: 1
+  Drama: 2
+  Sci-Fi: 1
+  Crime: 1
+  Mystery: 1
+
+Scott Glenn
+Number of movies: 2
+  Action: 1
+  Adventure: 1
+  Mystery: 1
+  Biography: 1
+  Crime: 1
+  Drama: 1
+
+Bruce Greenwood
+Number of movies: 2
+  Action: 1
+  Mystery: 1
+  Sci-Fi: 1
+  Drama: 1
+  Romance: 1
+
+Hilary Swank
+Number of movies: 2
+  Drama: 2
+  Romance: 1
+  Biography: 1
+  Crime: 1
+
+Lisa Kudrow
+Number of movies: 2
+  Drama: 1
+  Romance: 1
+  Comedy: 1
+
+Richard Dreyfuss
+Number of movies: 2
+  Drama: 1
+  Thriller: 2
+  Comedy: 1
+  Horror: 1
+
+Mike Birbiglia
+Number of movies: 2
+  Comedy: 2
+  Drama: 1
+  Romance: 1
+
+Jennifer Lopez
+Number of movies: 2
+  Mystery: 1
+  Thriller: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+John Corbett
+Number of movies: 2
+  Mystery: 1
+  Thriller: 1
+  Comedy: 1
+  Family: 1
+  Romance: 1
+
+Luke Evans
+Number of movies: 2
+  Action: 1
+  Drama: 2
+  Fantasy: 1
+
+James Ransone
+Number of movies: 2
+  Horror: 1
+  Mystery: 1
+  Action: 1
+  Comedy: 1
+  Romance: 1
+
+Sarah Silverman
+Number of movies: 2
+  Animation: 1
+  Adventure: 1
+  Comedy: 2
+  Music: 1
+
+Jack O'Connell
+Number of movies: 2
+  Crime: 1
+  Drama: 2
+  Thriller: 1
+  Biography: 1
+  Sport: 1
+
+Susan Sarandon
+Number of movies: 2
+  Animation: 1
+  Comedy: 1
+  Family: 1
+  Drama: 1
+  Fantasy: 1
+  Thriller: 1
+
+Patrick Dempsey
+Number of movies: 2
+  Animation: 1
+  Comedy: 1
+  Family: 1
+  Biography: 1
+  Crime: 1
+  Drama: 1
+
+Dave Bautista
+Number of movies: 2
+  Action: 2
+  Adventure: 1
+  Fantasy: 1
+
+Jean-Claude Van Damme
+Number of movies: 2
+  Action: 2
+  Adventure: 1
+  Thriller: 1
+
+James Frecheville
+Number of movies: 2
+  Drama: 2
+  Romance: 2
+  Comedy: 1
+
+Matthias Schoenaerts
+Number of movies: 2
+  Crime: 1
+  Drama: 2
+  Mystery: 1
+  Thriller: 1
+
+Vinnie Jones
+Number of movies: 2
+  Comedy: 1
+  Romance: 1
+  Sport: 1
+  Horror: 1
+  Mystery: 1
+
+Djimon Hounsou
+Number of movies: 2
+  Action: 1
+  Drama: 2
+  Sport: 1
+  Adventure: 1
+  Thriller: 1
+
+Erin Moriarty
+Number of movies: 2
+  Action: 1
+  Crime: 1
+  Drama: 1
+  Horror: 1
+  Thriller: 1
+
+Mary-Louise Parker
+Number of movies: 2
+  Biography: 1
+  Crime: 2
+  Drama: 1
+  Action: 1
+  Comedy: 1
+
+Michael Ealy
+Number of movies: 2
+  Action: 1
+  Fantasy: 1
+  Horror: 1
+  Drama: 1
+  Romance: 1
+
+Robin Williams
+Number of movies: 2
+  Adventure: 1
+  Comedy: 2
+  Family: 2
+  Animation: 1
+
+Kang-ho Song
+Number of movies: 2
+  Comedy: 1
+  Drama: 2
+  Horror: 1
+  Action: 1
+  Thriller: 1
+
+Jason Biggs
+Number of movies: 2
+  Comedy: 2
+
+Pierre Niney
+Number of movies: 2
+  Drama: 1
+  History: 1
+  War: 1
+  Adventure: 1
+  Biography: 1
+
+Analeigh Tipton
+Number of movies: 2
+  Drama: 1
+  Horror: 2
+  Sci-Fi: 1
+  Comedy: 1
+  Romance: 1
+
+Ewen Leslie
+Number of movies: 2
+  Drama: 2
+  Romance: 1
+
+Gary Cole
+Number of movies: 2
+  Action: 2
+  Comedy: 2
+  Crime: 1
+  Sport: 1
+
+Tony Shalhoub
+Number of movies: 2
+  Comedy: 1
+  Crime: 2
+  Drama: 1
+  Action: 1
+  Thriller: 1
+
+Joel Kinnaman
+Number of movies: 2
+  Crime: 2
+  Drama: 1
+  Thriller: 1
+  Action: 1
+  Sci-Fi: 1
+
+Robbie Amell
+Number of movies: 2
+  Comedy: 2
+  Family: 1
+  Fantasy: 1
+
+Sienna Guillory
+Number of movies: 2
+  Action: 2
+  Horror: 1
+  Sci-Fi: 1
+  Adventure: 1
+  Fantasy: 1
+
+Adewale Akinnuoye-Agbaje
+Number of movies: 2
+  Action: 2
+  Adventure: 2
+  Drama: 1
+  Sci-Fi: 1
+
+Sarah Roemer
+Number of movies: 2
+  Drama: 2
+  Family: 1
+  Mystery: 1
+  Thriller: 1
+
+Michael Pitt
+Number of movies: 2
+  Drama: 2
+  Romance: 1
+  Sci-Fi: 1
+  Crime: 1
+  Horror: 1
+
+Billy Bob Thornton
+Number of movies: 2
+  Action: 1
+  Crime: 2
+  Drama: 2
+
+Ronnie Gene Blevins
+Number of movies: 2
+  Crime: 1
+  Horror: 2
+  Thriller: 2
+
+Robert Duvall
+Number of movies: 2
+  Crime: 1
+  Drama: 2
+  Adventure: 1
+
+Salma Hayek
+Number of movies: 2
+  Comedy: 1
+  Drama: 1
+  Fantasy: 1
+  Horror: 1
+
+Patricia Clarkson
+Number of movies: 2
+  Comedy: 1
+  Romance: 2
+  Drama: 1
+
+Audrey Tautou
+Number of movies: 2
+  Mystery: 1
+  Thriller: 1
+  Adventure: 1
+  Biography: 1
+
+Lucy Boynton
+Number of movies: 2
+  Horror: 1
+  Thriller: 2
+
+Wes Bentley
+Number of movies: 2
+  Drama: 1
+  Music: 1
+  Romance: 1
+  Action: 1
+  Thriller: 1
+
+Nathan Fillion
+Number of movies: 2
+  Adventure: 1
+  Family: 1
+  Fantasy: 1
+  Comedy: 1
+  Horror: 1
+  Sci-Fi: 1
+
+Katee Sackhoff
+Number of movies: 2
+  Horror: 1
+  Mystery: 1
+  Action: 1
+  Sci-Fi: 1
+  Thriller: 1
+
+Barkhad Abdi
+Number of movies: 2
+  Drama: 2
+  Thriller: 2
+  War: 1
+  Biography: 1
+
+Craig Ferguson
+Number of movies: 2
+  Animation: 2
+  Action: 2
+  Adventure: 2
+
+Bob Balaban
+Number of movies: 2
+  Drama: 1
+  Fantasy: 1
+  Mystery: 1
+  Thriller: 1
+
+Ellen Burstyn
+Number of movies: 2
+  Drama: 2
+  Sci-Fi: 1
+
+Matt Lanter
+Number of movies: 2
+  Action: 1
+  Drama: 1
+  History: 1
+  Comedy: 1
+
+Miles Fisher
+Number of movies: 2
+  Horror: 2
+  Thriller: 2
+
+Nadine Velazquez
+Number of movies: 2
+  Horror: 1
+  Thriller: 2
+  Drama: 1
+
+Devon Bostick
+Number of movies: 2
+  Comedy: 2
+  Family: 2
+
+Donald Sutherland
+Number of movies: 2
+  Action: 1
+  Adventure: 1
+  Comedy: 1
+  Crime: 1
+  Drama: 1
+  Mystery: 1
+
+Wentworth Miller
+Number of movies: 2
+  Mystery: 1
+  Romance: 1
+  Thriller: 1
+  Action: 1
+  Adventure: 1
+  Horror: 1
+
+Sally Hawkins
+Number of movies: 2
+  Biography: 1
+  Drama: 2
+  Romance: 1
+
+Oprah Winfrey
+Number of movies: 2
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+  Biography: 1
+  Drama: 1
+
+Josh Wiggins
+Number of movies: 2
+  Thriller: 1
+  Adventure: 1
+  Family: 1
+
+Emilie de Ravin
+Number of movies: 2
+  Horror: 1
+  Drama: 1
+  Romance: 1
+
+Ruth Wilson
+Number of movies: 2
+  Drama: 1
+  Thriller: 1
+
+Max Minghella
+Number of movies: 2
+  Drama: 2
+  Fantasy: 1
+  Horror: 1
+  Sci-Fi: 1
+  Thriller: 1
+
+Joe Anderson
+Number of movies: 2
+  Drama: 2
+  Fantasy: 2
+  Horror: 1
+  Musical: 1
+
+Ving Rhames
+Number of movies: 2
+  Action: 1
+  Adventure: 1
+  Thriller: 2
+  Comedy: 1
+  Horror: 1
+
+Blythe Danner
+Number of movies: 2
+  Drama: 1
+  Romance: 2
+  Comedy: 1
+
+Sarah Jessica Parker
+Number of movies: 2
+  Comedy: 2
+  Drama: 2
+  Romance: 2
+
+Kim Cattrall
+Number of movies: 2
+  Comedy: 2
+  Drama: 2
+  Romance: 2
+
+Kristin Davis
+Number of movies: 2
+  Comedy: 2
+  Drama: 2
+  Romance: 2
+
+David Morse
+Number of movies: 2
+  Biography: 1
+  Drama: 2
+  Sport: 1
+  Mystery: 1
+  Thriller: 1
+
+Robert Patrick
+Number of movies: 2
+  Adventure: 1
+  Drama: 2
+  Family: 1
+  Romance: 1
+
+Thomas Mann
+Number of movies: 2
+  Comedy: 2
+  Drama: 1
+
+Evan Rachel Wood
+Number of movies: 2
+  Drama: 2
+  Sci-Fi: 1
+  Thriller: 1
+  Fantasy: 1
+  Musical: 1
+
+Jessica Sula
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Tian Jing
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+
+Andy Lau
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+
+Rosemarie DeWitt
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Music: 1
+
+Julian Barratt
+Number of movies: 1
+  Comedy: 1
+
+Alison Sudol
+Number of movies: 1
+  Adventure: 1
+  Family: 1
+  Fantasy: 1
+
+Janelle Monae
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  History: 1
+
+Alan Tudyk
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+
+Donnie Yen
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+
+Auli'i Cravalho
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Temuera Morrison
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Austin Stowell
+Number of movies: 1
+  Action: 1
+  Comedy: 1
+  Drama: 1
+
+Tim Blake Nelson
+Number of movies: 1
+  Action: 1
+  Comedy: 1
+  Drama: 1
+
+Louis C.K.
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Sunny Pawar
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+
+Lucas Hedges
+Number of movies: 1
+  Drama: 1
+
+Emma Booth
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Horror: 1
+
+Ashleigh Cummings
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Horror: 1
+
+Stephen Curry
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Horror: 1
+
+Susie Porter
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Horror: 1
+
+Jeff Goldblum
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+
+Bill Pullman
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+
+Fiona Gordon
+Number of movies: 1
+  Comedy: 1
+
+Dominique Abel
+Number of movies: 1
+  Comedy: 1
+
+Emmanuelle Riva
+Number of movies: 1
+  Comedy: 1
+
+Pierre Richard
+Number of movies: 1
+  Comedy: 1
+
+Prabhas
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Drama: 1
+
+Rana Daggubati
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Drama: 1
+
+Anushka Shetty
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Drama: 1
+
+Tamannaah Bhatia
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Drama: 1
+
+Jocelin Donahue
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Jesse Bradford
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Jesse Borrego
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Lori Petty
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Tangie Ambrose
+Number of movies: 1
+  Comedy: 1
+
+Cedric the Entertainer
+Number of movies: 1
+  Comedy: 1
+
+Morena Baccarin
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Comedy: 1
+
+Ed Skrein
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Comedy: 1
+
+Iain Glen
+Number of movies: 1
+  Action: 1
+  Horror: 1
+  Sci-Fi: 1
+
+Shawn Roberts
+Number of movies: 1
+  Action: 1
+  Horror: 1
+  Sci-Fi: 1
+
+Sebastian Stan
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+
+Mackenzie Foy
+Number of movies: 1
+  Adventure: 1
+  Drama: 1
+  Sci-Fi: 1
+
+Benedict Wong
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+
+John Francis Daley
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Austin Pendleton
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Colleen Camp
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Neil Flynn
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Alistair Abell
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Shariff Earp
+Number of movies: 1
+  Drama: 1
+
+Duan Sanderson
+Number of movies: 1
+  Drama: 1
+
+Alex R. Hibbert
+Number of movies: 1
+  Drama: 1
+
+Brittany Blanton
+Number of movies: 1
+  Horror: 1
+
+Ayse Howard
+Number of movies: 1
+  Horror: 1
+
+Roman Jossart
+Number of movies: 1
+  Horror: 1
+
+Nadia White
+Number of movies: 1
+  Horror: 1
+
+John Carroll Lynch
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  History: 1
+
+Gabriel Chavarria
+Number of movies: 1
+  Drama: 1
+
+Theo Rossi
+Number of movies: 1
+  Drama: 1
+
+Hermione Corfield
+Number of movies: 1
+  Adventure: 1
+  Drama: 1
+  Fantasy: 1
+
+Addison Timlin
+Number of movies: 1
+  Adventure: 1
+  Drama: 1
+  Fantasy: 1
+
+Joely Richardson
+Number of movies: 1
+  Adventure: 1
+  Drama: 1
+  Fantasy: 1
+
+Daisy Ridley
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+
+John Boyega
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+
+Tobias Menzies
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+
+Lara Pulver
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+
+Alfie Allen
+Number of movies: 1
+  Action: 1
+  Crime: 1
+  Thriller: 1
+
+Tadanobu Asano
+Number of movies: 1
+  Adventure: 1
+  Drama: 1
+  History: 1
+
+Daniel Zovatto
+Number of movies: 1
+  Crime: 1
+  Horror: 1
+  Thriller: 1
+
+Janet McTeer
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+
+Charles Dance
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+
+Valerie Mahaffey
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+
+Brian Cox
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+  Thriller: 1
+
+Ophelia Lovibond
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+  Thriller: 1
+
+Eloise Mumford
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+  Thriller: 1
+
+Beverly D'Angelo
+Number of movies: 1
+  Drama: 1
+
+James DuMont
+Number of movies: 1
+  Action: 1
+  Drama: 1
+  Thriller: 1
+
+Daniel Gimenez Cacho
+Number of movies: 1
+  Drama: 1
+  History: 1
+
+Vincent Ebrahim
+Number of movies: 1
+  Action: 1
+  Drama: 1
+  Romance: 1
+
+Lewis MacDougall
+Number of movies: 1
+  Drama: 1
+  Fantasy: 1
+
+Ginnifer Goodwin
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Jenny Slate
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Eli Roth
+Number of movies: 1
+  Adventure: 1
+  Drama: 1
+  War: 1
+
+Kate McKinnon
+Number of movies: 1
+  Action: 1
+  Comedy: 1
+  Fantasy: 1
+
+Leslie Jones
+Number of movies: 1
+  Action: 1
+  Comedy: 1
+  Fantasy: 1
+
+George MacKay
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Samantha Isler
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Neil Patrick Harris
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Mystery: 1
+
+Chris Messina
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+
+Walton Goggins
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Mystery: 1
+
+Travis Fimmel
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+
+Steve Lantz
+Number of movies: 1
+  Comedy: 1
+  Crime: 1
+  Drama: 1
+
+Gregg Weiner
+Number of movies: 1
+  Comedy: 1
+  Crime: 1
+  Drama: 1
+
+Angourie Rice
+Number of movies: 1
+  Action: 1
+  Comedy: 1
+  Crime: 1
+
+Ryunosuke Kamiki
+Number of movies: 1
+  Animation: 1
+  Drama: 1
+  Fantasy: 1
+
+Mone Kamishiraishi
+Number of movies: 1
+  Animation: 1
+  Drama: 1
+  Fantasy: 1
+
+Ryo Narita
+Number of movies: 1
+  Animation: 1
+  Drama: 1
+  Fantasy: 1
+
+Aaron Poole
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+  Sci-Fi: 1
+
+Kenneth Welsh
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+  Sci-Fi: 1
+
+Daniel Fathers
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+  Sci-Fi: 1
+
+Kathleen Munroe
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+  Sci-Fi: 1
+
+Lars Eidinger
+Number of movies: 1
+  Drama: 1
+  Mystery: 1
+  Thriller: 1
+
+Sigrid Bouaziz
+Number of movies: 1
+  Drama: 1
+  Mystery: 1
+  Thriller: 1
+
+Anders Danielsen Lie
+Number of movies: 1
+  Drama: 1
+  Mystery: 1
+  Thriller: 1
+
+Jack Nicholson
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Thriller: 1
+
+Paul Anderson
+Number of movies: 1
+  Biography: 1
+  Crime: 1
+  Drama: 1
+
+Mario Casas
+Number of movies: 1
+  Crime: 1
+  Mystery: 1
+  Thriller: 1
+
+Ana Wagener
+Number of movies: 1
+  Crime: 1
+  Mystery: 1
+  Thriller: 1
+
+Jose Coronado
+Number of movies: 1
+  Crime: 1
+  Mystery: 1
+  Thriller: 1
+
+Barbara Lennie
+Number of movies: 1
+  Crime: 1
+  Mystery: 1
+  Thriller: 1
+
+Elizabeth Debicki
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Comedy: 1
+
+Danny DeVito
+Number of movies: 1
+  Comedy: 1
+
+Edie Falco
+Number of movies: 1
+  Comedy: 1
+
+Rory J. Saper
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Drama: 1
+
+Christian Stevens
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Drama: 1
+
+Eve Lindley
+Number of movies: 1
+  Drama: 1
+
+Richard Kind
+Number of movies: 1
+  Drama: 1
+
+Mark Consuelos
+Number of movies: 1
+  Drama: 1
+
+Katherine Reis
+Number of movies: 1
+  Drama: 1
+
+Sonoya Mizuno
+Number of movies: 1
+  Drama: 1
+  Mystery: 1
+  Sci-Fi: 1
+
+Tony Goldwyn
+Number of movies: 1
+  Action: 1
+  Horror: 1
+  Thriller: 1
+
+Adria Arjona
+Number of movies: 1
+  Action: 1
+  Horror: 1
+  Thriller: 1
+
+John C. McGinley
+Number of movies: 1
+  Action: 1
+  Horror: 1
+  Thriller: 1
+
+Michael Kenneth Williams
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  History: 1
+
+David Wenham
+Number of movies: 1
+  Action: 1
+  Fantasy: 1
+  War: 1
+
+Sakshi Tanwar
+Number of movies: 1
+  Action: 1
+  Biography: 1
+  Drama: 1
+
+Fatima Sana Shaikh
+Number of movies: 1
+  Action: 1
+  Biography: 1
+  Drama: 1
+
+Sanya Malhotra
+Number of movies: 1
+  Action: 1
+  Biography: 1
+  Drama: 1
+
+Ellen DeGeneres
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Ed O'Neill
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Kaitlin Olson
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Adam Devine
+Number of movies: 1
+  Adventure: 1
+  Comedy: 1
+  Romance: 1
+
+Scott Adkins
+Number of movies: 1
+  Action: 1
+
+Teodora Duhovnikova
+Number of movies: 1
+  Action: 1
+
+Alon Aboutboul
+Number of movies: 1
+  Action: 1
+
+Julian Vergov
+Number of movies: 1
+  Action: 1
+
+Neel Sethi
+Number of movies: 1
+  Adventure: 1
+  Drama: 1
+  Family: 1
+
+Emily Meade
+Number of movies: 1
+  Adventure: 1
+  Crime: 1
+  Mystery: 1
+
+Miles Heizer
+Number of movies: 1
+  Adventure: 1
+  Crime: 1
+  Mystery: 1
+
+Stephen Henderson
+Number of movies: 1
+  Drama: 1
+
+Jovan Adepo
+Number of movies: 1
+  Drama: 1
+
+Oscar Jaenada
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+  Thriller: 1
+
+Angelo Josue Lozano Corzo
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+  Thriller: 1
+
+Brett Cullen
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+  Thriller: 1
+
+Melissa Benoist
+Number of movies: 1
+  Drama: 1
+  Music: 1
+
+Paul Reiser
+Number of movies: 1
+  Drama: 1
+  Music: 1
+
+Craig Van Hook
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Thriller: 1
+
+Carice van Houten
+Number of movies: 1
+  Mystery: 1
+  Thriller: 1
+  Western: 1
+
+Leonard Nimoy
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+
+Sean Bridgers
+Number of movies: 1
+  Drama: 1
+
+Wendy Crewson
+Number of movies: 1
+  Drama: 1
+
+Kerry Washington
+Number of movies: 1
+  Drama: 1
+  Western: 1
+
+Min-hee Kim
+Number of movies: 1
+  Drama: 1
+  Mystery: 1
+  Romance: 1
+
+Jung-woo Ha
+Number of movies: 1
+  Drama: 1
+  Mystery: 1
+  Romance: 1
+
+Jin-woong Jo
+Number of movies: 1
+  Drama: 1
+  Mystery: 1
+  Romance: 1
+
+So-ri Moon
+Number of movies: 1
+  Drama: 1
+  Mystery: 1
+  Romance: 1
+
+Kyra Sedgwick
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Jackie Earle Haley
+Number of movies: 1
+  Action: 1
+  Drama: 1
+  Mystery: 1
+
+Ruby Barnhill
+Number of movies: 1
+  Adventure: 1
+  Family: 1
+  Fantasy: 1
+
+Penelope Wilton
+Number of movies: 1
+  Adventure: 1
+  Family: 1
+  Fantasy: 1
+
+Morgan Saylor
+Number of movies: 1
+  Drama: 1
+
+Brian Marc
+Number of movies: 1
+  Drama: 1
+
+Chris Isaak
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+  Mystery: 1
+
+C.H. Evans
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+  Mystery: 1
+
+Sandra Kinder
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+  Mystery: 1
+
+Reiko Aylesworth
+Number of movies: 1
+  Action: 1
+  Horror: 1
+  Sci-Fi: 1
+
+Steven Pasquale
+Number of movies: 1
+  Action: 1
+  Horror: 1
+  Sci-Fi: 1
+
+Shareeka Epps
+Number of movies: 1
+  Action: 1
+  Horror: 1
+  Sci-Fi: 1
+
+John Ortiz
+Number of movies: 1
+  Action: 1
+  Horror: 1
+  Sci-Fi: 1
+
+Rinko Kikuchi
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+
+Kieran Culkin
+Number of movies: 1
+  Action: 1
+  Comedy: 1
+  Fantasy: 1
+
+Alison Pill
+Number of movies: 1
+  Action: 1
+  Comedy: 1
+  Fantasy: 1
+
+Tom Cullen
+Number of movies: 1
+  Thriller: 1
+  War: 1
+
+Clint Dyer
+Number of movies: 1
+  Thriller: 1
+  War: 1
+
+Aldis Hodge
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Crime: 1
+
+Robert Knepper
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Crime: 1
+
+Sarah Clarke
+Number of movies: 1
+  Drama: 1
+  Fantasy: 1
+  Romance: 1
+
+Katie Holmes
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  History: 1
+
+John Krasinski
+Number of movies: 1
+  Action: 1
+  Drama: 1
+  History: 1
+
+Pablo Schreiber
+Number of movies: 1
+  Action: 1
+  Drama: 1
+  History: 1
+
+Graham Skipper
+Number of movies: 1
+  Adventure: 1
+  Horror: 1
+
+Chase Williamson
+Number of movies: 1
+  Adventure: 1
+  Horror: 1
+
+Brea Grant
+Number of movies: 1
+  Adventure: 1
+  Horror: 1
+
+Barbara Crampton
+Number of movies: 1
+  Adventure: 1
+  Horror: 1
+
+Idina Menzel
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Jonathan Groff
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Hugh Laurie
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Family: 1
+
+Raffey Cassidy
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Family: 1
+
+Jeff Kahn
+Number of movies: 1
+  Action: 1
+  Comedy: 1
+
+Madison Wolfe
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+  Thriller: 1
+
+Frances O'Connor
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+  Thriller: 1
+
+Michael Douglas
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Comedy: 1
+
+Gemma Jones
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Sally Phillips
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Ralph Ineson
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+
+Kate Dickie
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+
+Julian Richings
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+
+Tom Hughes
+Number of movies: 1
+  Sci-Fi: 1
+
+Oona Chaplin
+Number of movies: 1
+  Sci-Fi: 1
+
+Taraneh Alidoosti
+Number of movies: 1
+  Drama: 1
+  Thriller: 1
+
+Shahab Hosseini
+Number of movies: 1
+  Drama: 1
+  Thriller: 1
+
+Babak Karimi
+Number of movies: 1
+  Drama: 1
+  Thriller: 1
+
+Farid Sajjadi Hosseini
+Number of movies: 1
+  Drama: 1
+  Thriller: 1
+
+Aomi Muyock
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+
+Klara Kristin
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+
+Juan Saavedra
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+
+Joe Alwyn
+Number of movies: 1
+  Drama: 1
+  War: 1
+
+Arturo Castro
+Number of movies: 1
+  Drama: 1
+  War: 1
+
+Mason Lee
+Number of movies: 1
+  Drama: 1
+  War: 1
+
+Amy Schumer
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Colin Quinn
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Florence Clery
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+
+Erika Linder
+Number of movies: 1
+  Drama: 1
+
+Natalie Krill
+Number of movies: 1
+  Drama: 1
+
+Sebastian Pigott
+Number of movies: 1
+  Drama: 1
+
+Mayko Nguyen
+Number of movies: 1
+  Drama: 1
+
+Michael Yare
+Number of movies: 1
+  Horror: 1
+  Sci-Fi: 1
+  Thriller: 1
+
+Nick Nolte
+Number of movies: 1
+  Action: 1
+  Drama: 1
+  Sport: 1
+
+Jennifer Morrison
+Number of movies: 1
+  Action: 1
+  Drama: 1
+  Sport: 1
+
+Hayley Atwell
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+
+Callan McAuliffe
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Thriller: 1
+
+Lorraine Nicholson
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Thriller: 1
+
+Daniel Eric Gold
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Thriller: 1
+
+Allen Leech
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  Thriller: 1
+
+Danielle Nicolet
+Number of movies: 1
+  Action: 1
+  Comedy: 1
+  Crime: 1
+
+Jason Isaacs
+Number of movies: 1
+  Drama: 1
+  Fantasy: 1
+  Horror: 1
+
+Ivo Nandi
+Number of movies: 1
+  Drama: 1
+  Fantasy: 1
+  Horror: 1
+
+Garance Marillier
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+
+Ella Rumpf
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+
+Rabah Nait Oufella
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+
+Nellie
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Rizwan Manji
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Glenn Close
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+  Thriller: 1
+
+Dominique Tipper
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+  Thriller: 1
+
+Paddy Considine
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+  Thriller: 1
+
+Colton Haynes
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Drama: 1
+
+Ashley Benson
+Number of movies: 1
+  Drama: 1
+
+Rachel Korine
+Number of movies: 1
+  Drama: 1
+
+Barry Pepper
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Comedy: 1
+
+Mark Huberman
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+
+Susan Loughnane
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+
+Steve Oram
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+
+Catherine Walker
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+
+Garrett M. Brown
+Number of movies: 1
+  Action: 1
+  Comedy: 1
+
+Bonnie Hunt
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Paul Newman
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Keir Gilchrist
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+
+Olivia Luccardi
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+
+Lili Sepe
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+
+Sasha Lane
+Number of movies: 1
+  Drama: 1
+
+McCaul Lombardi
+Number of movies: 1
+  Drama: 1
+
+Jessica Barden
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Lesley Manville
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Family: 1
+
+Ivana Baquero
+Number of movies: 1
+  Drama: 1
+  Fantasy: 1
+  War: 1
+
+Ariadna Gil
+Number of movies: 1
+  Drama: 1
+  Fantasy: 1
+  War: 1
+
+Sergi Lopez
+Number of movies: 1
+  Drama: 1
+  Fantasy: 1
+  War: 1
+
+Maribel Verdu
+Number of movies: 1
+  Drama: 1
+  Fantasy: 1
+  War: 1
+
+Vincent Kartheiser
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Thriller: 1
+
+Gerardo Taracena
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Drama: 1
+
+Raoul Max Trujillo
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Drama: 1
+
+Dalia Hernandez
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Drama: 1
+
+Rudy Youngblood
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Drama: 1
+
+Mel Raido
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+  Thriller: 1
+
+Duncan Joiner
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+  Thriller: 1
+
+F. Murray Abraham
+Number of movies: 1
+  Adventure: 1
+  Comedy: 1
+  Drama: 1
+
+Max Irons
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Romance: 1
+
+Jake Abel
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Romance: 1
+
+Mindy Kaling
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Eddie Izzard
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Kevin McKidd
+Number of movies: 1
+  Adventure: 1
+  Family: 1
+  Fantasy: 1
+
+Steve Coogan
+Number of movies: 1
+  Adventure: 1
+  Family: 1
+  Fantasy: 1
+
+Annette Bening
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Francois Cluzet
+Number of movies: 1
+  Biography: 1
+  Comedy: 1
+  Drama: 1
+
+Omar Sy
+Number of movies: 1
+  Biography: 1
+  Comedy: 1
+  Drama: 1
+
+Anne Le Ny
+Number of movies: 1
+  Biography: 1
+  Comedy: 1
+  Drama: 1
+
+Audrey Fleurot
+Number of movies: 1
+  Biography: 1
+  Comedy: 1
+  Drama: 1
+
+Arnaud Viard
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Linda Gegusch
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Christos Stergioglou
+Number of movies: 1
+  Drama: 1
+  Thriller: 1
+
+Michele Valley
+Number of movies: 1
+  Drama: 1
+  Thriller: 1
+
+Angeliki Papoulia
+Number of movies: 1
+  Drama: 1
+  Thriller: 1
+
+Hristos Passalis
+Number of movies: 1
+  Drama: 1
+  Thriller: 1
+
+O'Shea Jackson Jr.
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  History: 1
+
+Corey Hawkins
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  History: 1
+
+Jason Mitchell
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  History: 1
+
+Neil Brown Jr.
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  History: 1
+
+Ron Livingston
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+  Thriller: 1
+
+Lili Taylor
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+  Thriller: 1
+
+Karin Konoval
+Number of movies: 1
+  Action: 1
+  Drama: 1
+  Sci-Fi: 1
+
+Gabriel Bateman
+Number of movies: 1
+  Horror: 1
+
+Lior Ashkenazi
+Number of movies: 1
+  Drama: 1
+  Thriller: 1
+
+Winona Ryder
+Number of movies: 1
+  Drama: 1
+  Thriller: 1
+
+Tyler James Williams
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Teyonah Parris
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Stacy Martin
+Number of movies: 1
+  Drama: 1
+
+Danny Huston
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+
+Sarah Hyland
+Number of movies: 1
+  Horror: 1
+
+Steven Krueger
+Number of movies: 1
+  Horror: 1
+
+Justin Chon
+Number of movies: 1
+  Horror: 1
+
+Clara Mamet
+Number of movies: 1
+  Horror: 1
+
+Naomie Harris
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Thriller: 1
+
+Ferdia Walsh-Peelo
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Music: 1
+
+Aidan Gillen
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Music: 1
+
+Maria Doyle Kennedy
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Music: 1
+
+Carly Rae Jepsen
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Maddie Ziegler
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Anthony Edwards
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  History: 1
+
+Tyler Hoechlin
+Number of movies: 1
+  Comedy: 1
+
+Common
+Number of movies: 1
+  Crime: 1
+  Mystery: 1
+  Thriller: 1
+
+Vanessa Ferlito
+Number of movies: 1
+  Thriller: 1
+
+Joseph Fiennes
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+
+Isla Fisher
+Number of movies: 1
+  Action: 1
+  Comedy: 1
+
+Ross Kimball
+Number of movies: 1
+  Action: 1
+  Comedy: 1
+  Crime: 1
+
+Romain Duris
+Number of movies: 1
+  Thriller: 1
+
+Jalil Lespert
+Number of movies: 1
+  Thriller: 1
+
+Camille Cottin
+Number of movies: 1
+  Thriller: 1
+
+Soo-an Kim
+Number of movies: 1
+  Action: 1
+  Drama: 1
+  Horror: 1
+
+Yu-mi Jung
+Number of movies: 1
+  Action: 1
+  Drama: 1
+  Horror: 1
+
+Dong-seok Ma
+Number of movies: 1
+  Action: 1
+  Drama: 1
+  Horror: 1
+
+Anna Camp
+Number of movies: 1
+  Comedy: 1
+  Music: 1
+  Romance: 1
+
+Lois van Wijk
+Number of movies: 1
+  Drama: 1
+
+Benjamin Walker
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+
+Ray Romano
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Denis Leary
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Chris Wedge
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Martin Stringer
+Number of movies: 1
+  Drama: 1
+  History: 1
+
+Kristen Connolly
+Number of movies: 1
+  Horror: 1
+
+Fran Kranz
+Number of movies: 1
+  Horror: 1
+
+Colin Hanks
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Kat Dennings
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Zachery Ty Bryan
+Number of movies: 1
+  Action: 1
+  Crime: 1
+  Thriller: 1
+
+Shad Moss
+Number of movies: 1
+  Action: 1
+  Crime: 1
+  Thriller: 1
+
+Damien Marzette
+Number of movies: 1
+  Action: 1
+  Crime: 1
+  Thriller: 1
+
+Quinton Aaron
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  Sport: 1
+
+Tim McGraw
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  Sport: 1
+
+Salim Kechiouche
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+
+Aurelien Recoing
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+
+Noah Wiseman
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+
+Daniel Henshall
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+
+Hayley McElhinney
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+
+Matthew Zuk
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+
+Gabriela Lopez
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+
+Bailey Anne Borders
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+
+Laura Abramsen
+Number of movies: 1
+  Action: 1
+  Horror: 1
+
+A.C. Peterson
+Number of movies: 1
+  Action: 1
+  Horror: 1
+
+Olivia DeJonge
+Number of movies: 1
+  Comedy: 1
+  Horror: 1
+  Thriller: 1
+
+Deanna Dunagan
+Number of movies: 1
+  Comedy: 1
+  Horror: 1
+  Thriller: 1
+
+Peter McRobbie
+Number of movies: 1
+  Comedy: 1
+  Horror: 1
+  Thriller: 1
+
+Damaine Radcliff
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Music: 1
+
+De'Shawn Washington
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Music: 1
+
+Jessie Ok Gray
+Number of movies: 1
+  Drama: 1
+
+Cary Joji Fukunaga
+Number of movies: 1
+  Drama: 1
+
+Olafur Darri Olafsson
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+
+Luke Treadaway
+Number of movies: 1
+  Biography: 1
+  Comedy: 1
+  Drama: 1
+
+Bob the Cat
+Number of movies: 1
+  Biography: 1
+  Comedy: 1
+  Drama: 1
+
+Ruta Gedmintas
+Number of movies: 1
+  Biography: 1
+  Comedy: 1
+  Drama: 1
+
+Joanne Froggatt
+Number of movies: 1
+  Biography: 1
+  Comedy: 1
+  Drama: 1
+
+Wei Tang
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Mystery: 1
+
+Leehom Wang
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Mystery: 1
+
+Katie Crown
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Kelsey Grammer
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Cole Konis
+Number of movies: 1
+  Action: 1
+  Biography: 1
+  Drama: 1
+
+Alexandra Maria Lara
+Number of movies: 1
+  Action: 1
+  Biography: 1
+  Drama: 1
+
+Annabeth Gish
+Number of movies: 1
+  Drama: 1
+  Fantasy: 1
+  Horror: 1
+
+Jacki Weaver
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Alexi Pappas
+Number of movies: 1
+  Drama: 1
+  Sport: 1
+
+Chase Offerle
+Number of movies: 1
+  Drama: 1
+  Sport: 1
+
+Rachel Dratch
+Number of movies: 1
+  Drama: 1
+  Sport: 1
+
+Andy Buckley
+Number of movies: 1
+  Drama: 1
+  Sport: 1
+
+Drew Barrymore
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Kevin Nealon
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Maggie Gyllenhaal
+Number of movies: 1
+  Action: 1
+  Drama: 1
+  Thriller: 1
+
+Oakes Fegley
+Number of movies: 1
+  Adventure: 1
+  Family: 1
+  Fantasy: 1
+
+Charlie Cox
+Number of movies: 1
+  Adventure: 1
+  Family: 1
+  Fantasy: 1
+
+Claire Danes
+Number of movies: 1
+  Adventure: 1
+  Family: 1
+  Fantasy: 1
+
+Kathy Bates
+Number of movies: 1
+  Comedy: 1
+  Fantasy: 1
+  Romance: 1
+
+Kurt Fuller
+Number of movies: 1
+  Comedy: 1
+  Fantasy: 1
+  Romance: 1
+
+Florence Pugh
+Number of movies: 1
+  Drama: 1
+
+Christopher Fairbank
+Number of movies: 1
+  Drama: 1
+
+Cosmo Jarvis
+Number of movies: 1
+  Drama: 1
+
+Naomi Ackie
+Number of movies: 1
+  Drama: 1
+
+Ben Barnes
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+
+Hugo Gelin
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Tom Prior
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  Romance: 1
+
+Sophie Perry
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  Romance: 1
+
+Lydia Wilson
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Fantasy: 1
+
+Andy Powers
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Laura Allen
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Christian Distefano
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Saurabh Shukla
+Number of movies: 1
+  Drama: 1
+
+Anil Kapoor
+Number of movies: 1
+  Drama: 1
+
+Peter Facinelli
+Number of movies: 1
+  Adventure: 1
+  Drama: 1
+  Fantasy: 1
+
+Jon Voight
+Number of movies: 1
+  Drama: 1
+  Sport: 1
+
+Rhys Ifans
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+
+Nazanin Boniadi
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Drama: 1
+
+Jacob Latimore
+Number of movies: 1
+  Action: 1
+  Drama: 1
+  Sci-Fi: 1
+
+Seychelle Gabriel
+Number of movies: 1
+  Action: 1
+  Drama: 1
+  Sci-Fi: 1
+
+Dule Hill
+Number of movies: 1
+  Action: 1
+  Drama: 1
+  Sci-Fi: 1
+
+Storm Reid
+Number of movies: 1
+  Action: 1
+  Drama: 1
+  Sci-Fi: 1
+
+Terence Stamp
+Number of movies: 1
+  Action: 1
+  Crime: 1
+  Fantasy: 1
+
+Simon Helberg
+Number of movies: 1
+  Biography: 1
+  Comedy: 1
+  Drama: 1
+
+Phylicia Rashad
+Number of movies: 1
+  Drama: 1
+  Sport: 1
+
+Antonia Ribero
+Number of movies: 1
+  Adventure: 1
+  Comedy: 1
+  Drama: 1
+
+Taika Waititi
+Number of movies: 1
+  Comedy: 1
+  Fantasy: 1
+  Horror: 1
+
+Cori Gonzalez-Macuer
+Number of movies: 1
+  Comedy: 1
+  Fantasy: 1
+  Horror: 1
+
+Jonny Brugh
+Number of movies: 1
+  Comedy: 1
+  Fantasy: 1
+  Horror: 1
+
+Kate Siegel
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Michael Trucco
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Samantha Sloyan
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Ang Phula Sherpa
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Drama: 1
+
+Thomas M. Wright
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Drama: 1
+
+Max von Sydow
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Drama: 1
+
+Will Yun Lee
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+
+Tao Okamoto
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+
+Rila Fukushima
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+
+Lynn Collins
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+
+Samantha Morton
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+
+Jordan Peele
+Number of movies: 1
+  Action: 1
+  Comedy: 1
+
+Tiffany Haddish
+Number of movies: 1
+  Action: 1
+  Comedy: 1
+
+Method Man
+Number of movies: 1
+  Action: 1
+  Comedy: 1
+
+Jasmine Trinca
+Number of movies: 1
+  Action: 1
+  Crime: 1
+  Drama: 1
+
+Tim Pigott-Smith
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Naomi Battrick
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+James Cosmo
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Kathy Baker
+Number of movies: 1
+  Drama: 1
+  Fantasy: 1
+  Romance: 1
+
+Sanjeev Bhaskar
+Number of movies: 1
+  Comedy: 1
+  Sci-Fi: 1
+
+Pierre Coffin
+Number of movies: 1
+  Animation: 1
+  Action: 1
+  Adventure: 1
+
+Natasha Henstridge
+Number of movies: 1
+  Horror: 1
+
+Lukas Hassel
+Number of movies: 1
+  Horror: 1
+
+Dominique Swain
+Number of movies: 1
+  Horror: 1
+
+Kelly Adams
+Number of movies: 1
+  Action: 1
+  Biography: 1
+  Crime: 1
+
+Luing Andrews
+Number of movies: 1
+  Action: 1
+  Biography: 1
+  Crime: 1
+
+Katy Barker
+Number of movies: 1
+  Action: 1
+  Biography: 1
+  Crime: 1
+
+Russell Brand
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Julie Andrews
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Emayatzy Corinealdi
+Number of movies: 1
+  Drama: 1
+  Mystery: 1
+  Thriller: 1
+
+Tammy Blanchard
+Number of movies: 1
+  Drama: 1
+  Mystery: 1
+  Thriller: 1
+
+Mandy Moore
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Zachary Levi
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Donna Murphy
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Skyler Gisondo
+Number of movies: 1
+  Adventure: 1
+  Comedy: 1
+
+Steele Stebbins
+Number of movies: 1
+  Adventure: 1
+  Comedy: 1
+
+Leland Orser
+Number of movies: 1
+  Action: 1
+  Thriller: 1
+
+Billy Crystal
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Steve Buscemi
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Laurent Lafitte
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Thriller: 1
+
+Anne Consigny
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Thriller: 1
+
+Charles Berling
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Thriller: 1
+
+Haley Joel Osment
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Horror: 1
+
+Genesis Rodriguez
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Horror: 1
+
+Gretchen Mol
+Number of movies: 1
+  Drama: 1
+
+Brenda Blethyn
+Number of movies: 1
+  Drama: 1
+  Mystery: 1
+  Romance: 1
+
+Lucy Walters
+Number of movies: 1
+  Drama: 1
+
+Vicky Krieps
+Number of movies: 1
+  Action: 1
+  Drama: 1
+  Thriller: 1
+
+Lauren Birkell
+Number of movies: 1
+  Drama: 1
+
+Paul Borghese
+Number of movies: 1
+  Drama: 1
+
+Chira Cassel
+Number of movies: 1
+  Drama: 1
+
+Anthony Cirillo
+Number of movies: 1
+  Drama: 1
+
+Sam Riley
+Number of movies: 1
+  Action: 1
+  Horror: 1
+  Romance: 1
+
+Bella Heathcote
+Number of movies: 1
+  Action: 1
+  Horror: 1
+  Romance: 1
+
+Sullivan Stapleton
+Number of movies: 1
+  Action: 1
+  Drama: 1
+  Fantasy: 1
+
+Hans Matheson
+Number of movies: 1
+  Action: 1
+  Drama: 1
+  Fantasy: 1
+
+Julia Ormond
+Number of movies: 1
+  Drama: 1
+  Fantasy: 1
+  Romance: 1
+
+Julia Stiles
+Number of movies: 1
+  Action: 1
+  Mystery: 1
+  Thriller: 1
+
+Srdjan 'Zika' Todorovic
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+  Thriller: 1
+
+Sergej Trifunovic
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+  Thriller: 1
+
+Jelena Gavrilovic
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+  Thriller: 1
+
+Slobodan Bestic
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+  Thriller: 1
+
+Frank Grillo
+Number of movies: 1
+  Action: 1
+  Horror: 1
+  Sci-Fi: 1
+
+Elizabeth Mitchell
+Number of movies: 1
+  Action: 1
+  Horror: 1
+  Sci-Fi: 1
+
+Mykelti Williamson
+Number of movies: 1
+  Action: 1
+  Horror: 1
+  Sci-Fi: 1
+
+Joseph Julian Soria
+Number of movies: 1
+  Action: 1
+  Horror: 1
+  Sci-Fi: 1
+
+Madhavan
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Mona Singh
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Sharman Joshi
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Daniella Kertesz
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Horror: 1
+
+Marilyn Manson
+Number of movies: 1
+  Action: 1
+  Crime: 1
+  Drama: 1
+
+Mark Boone Junior
+Number of movies: 1
+  Action: 1
+  Crime: 1
+  Drama: 1
+
+Sam Quartin
+Number of movies: 1
+  Action: 1
+  Crime: 1
+  Drama: 1
+
+Niko Nicotera
+Number of movies: 1
+  Action: 1
+  Crime: 1
+  Drama: 1
+
+Eddie Marsan
+Number of movies: 1
+  Comedy: 1
+  Crime: 1
+  Drama: 1
+
+Scott Eastwood
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+
+Oaklee Pendergast
+Number of movies: 1
+  Drama: 1
+  Thriller: 1
+
+Alex Karpovsky
+Number of movies: 1
+  Comedy: 1
+
+Wyatt Russell
+Number of movies: 1
+  Comedy: 1
+
+Meredith Hagner
+Number of movies: 1
+  Comedy: 1
+
+Melanie Lynskey
+Number of movies: 1
+  Comedy: 1
+
+Teri Hatcher
+Number of movies: 1
+  Animation: 1
+  Family: 1
+  Fantasy: 1
+
+John Hodgman
+Number of movies: 1
+  Animation: 1
+  Family: 1
+  Fantasy: 1
+
+Jennifer Saunders
+Number of movies: 1
+  Animation: 1
+  Family: 1
+  Fantasy: 1
+
+John Doman
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+
+Faith Wladyka
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+
+Logan Paul
+Number of movies: 1
+  Thriller: 1
+
+Peyton List
+Number of movies: 1
+  Thriller: 1
+
+Calum Worthy
+Number of movies: 1
+  Thriller: 1
+
+Radha Mitchell
+Number of movies: 1
+  Adventure: 1
+  Horror: 1
+  Mystery: 1
+
+Deborah Kara Unger
+Number of movies: 1
+  Adventure: 1
+  Horror: 1
+  Mystery: 1
+
+Rachel Wood
+Number of movies: 1
+  Action: 1
+  Sci-Fi: 1
+
+Julian Dennison
+Number of movies: 1
+  Adventure: 1
+  Comedy: 1
+  Drama: 1
+
+Rima Te Wiata
+Number of movies: 1
+  Adventure: 1
+  Comedy: 1
+  Drama: 1
+
+Ryan Potter
+Number of movies: 1
+  Animation: 1
+  Action: 1
+  Adventure: 1
+
+Scott Adsit
+Number of movies: 1
+  Animation: 1
+  Action: 1
+  Adventure: 1
+
+Jamie Chung
+Number of movies: 1
+  Animation: 1
+  Action: 1
+  Adventure: 1
+
+Portia Doubleday
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+
+Chris Cooper
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Judah Lewis
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Antje Traue
+Number of movies: 1
+  Action: 1
+  Horror: 1
+  Mystery: 1
+
+Mads Mikkelsen
+Number of movies: 1
+  Drama: 1
+
+Thomas Bo Larsen
+Number of movies: 1
+  Drama: 1
+
+Annika Wedderkopp
+Number of movies: 1
+  Drama: 1
+
+Lasse Fogelstrom
+Number of movies: 1
+  Drama: 1
+
+Craig T. Nelson
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+T.I.
+Number of movies: 1
+  Comedy: 1
+  Crime: 1
+
+Christopher Fitzgerald
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+
+Jonathan Roumie
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+
+Lauren Cohan
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+  Thriller: 1
+
+Rupert Evans
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+  Thriller: 1
+
+James Russell
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+  Thriller: 1
+
+Jim Norton
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+  Thriller: 1
+
+Sarah Snook
+Number of movies: 1
+  Drama: 1
+  Mystery: 1
+  Sci-Fi: 1
+
+Noah Taylor
+Number of movies: 1
+  Drama: 1
+  Mystery: 1
+  Sci-Fi: 1
+
+Madeleine West
+Number of movies: 1
+  Drama: 1
+  Mystery: 1
+  Sci-Fi: 1
+
+Odeya Rush
+Number of movies: 1
+  Adventure: 1
+  Comedy: 1
+  Family: 1
+
+Ryan Lee
+Number of movies: 1
+  Adventure: 1
+  Comedy: 1
+  Family: 1
+
+Daniel Olbrychski
+Number of movies: 1
+  Action: 1
+  Crime: 1
+  Mystery: 1
+
+Isabella Rossellini
+Number of movies: 1
+  Mystery: 1
+  Thriller: 1
+
+David James
+Number of movies: 1
+  Action: 1
+  Sci-Fi: 1
+  Thriller: 1
+
+Jason Cope
+Number of movies: 1
+  Action: 1
+  Sci-Fi: 1
+  Thriller: 1
+
+Nathalie Boltt
+Number of movies: 1
+  Action: 1
+  Sci-Fi: 1
+  Thriller: 1
+
+Derek Jeter
+Number of movies: 1
+  Action: 1
+  Comedy: 1
+  Crime: 1
+
+Rip Torn
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  History: 1
+
+Amanda Peet
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+
+Alan Arkin
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  History: 1
+
+Tom Costello
+Number of movies: 1
+  Biography: 1
+  Comedy: 1
+  Drama: 1
+
+Jo Hartley
+Number of movies: 1
+  Biography: 1
+  Comedy: 1
+  Drama: 1
+
+Ulrich Muhe
+Number of movies: 1
+  Drama: 1
+  Thriller: 1
+
+Martina Gedeck
+Number of movies: 1
+  Drama: 1
+  Thriller: 1
+
+Sebastian Koch
+Number of movies: 1
+  Drama: 1
+  Thriller: 1
+
+Ulrich Tukur
+Number of movies: 1
+  Drama: 1
+  Thriller: 1
+
+Dominic Monaghan
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Ksenia Solo
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Jennette McCurdy
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Da'Vone McDonald
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Nancy Kwan
+Number of movies: 1
+  Drama: 1
+
+Annabelle Attanasio
+Number of movies: 1
+  Drama: 1
+
+Jack Madigan
+Number of movies: 1
+  Drama: 1
+  War: 1
+
+Frank Madigan
+Number of movies: 1
+  Drama: 1
+  War: 1
+
+Taylor Swift
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+  Sci-Fi: 1
+
+Giuseppe Battiston
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Anna Foglietta
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Marco Giallini
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Edoardo Leo
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Jared Gilman
+Number of movies: 1
+  Adventure: 1
+  Comedy: 1
+  Drama: 1
+
+Kara Hayward
+Number of movies: 1
+  Adventure: 1
+  Comedy: 1
+  Drama: 1
+
+John Travolta
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Family: 1
+
+Queen Latifah
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Family: 1
+
+Nikki Blonsky
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Family: 1
+
+David Lyons
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+  Thriller: 1
+
+Brad Garrett
+Number of movies: 1
+  Animation: 1
+  Comedy: 1
+  Family: 1
+
+Lou Romano
+Number of movies: 1
+  Animation: 1
+  Comedy: 1
+  Family: 1
+
+Patton Oswalt
+Number of movies: 1
+  Animation: 1
+  Comedy: 1
+  Family: 1
+
+Ian Holm
+Number of movies: 1
+  Animation: 1
+  Comedy: 1
+  Family: 1
+
+Kelly McGillis
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+  Sci-Fi: 1
+
+Gregory Jones
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+  Sci-Fi: 1
+
+Jeremy McWilliams
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+  Sci-Fi: 1
+
+Lynsey Taylor Mackay
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+  Sci-Fi: 1
+
+Dougie McConnell
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+  Sci-Fi: 1
+
+Charlie Tahan
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+  Sci-Fi: 1
+
+Salli Richardson-Whitfield
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+  Sci-Fi: 1
+
+AJ Michalka
+Number of movies: 1
+  Mystery: 1
+  Sci-Fi: 1
+  Thriller: 1
+
+Joel Courtney
+Number of movies: 1
+  Mystery: 1
+  Sci-Fi: 1
+  Thriller: 1
+
+Colm Meaney
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Thriller: 1
+
+Edward Asner
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Jordan Nagai
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+John Ratzenberger
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Giancarlo Esposito
+Number of movies: 1
+  Action: 1
+  Sci-Fi: 1
+  Thriller: 1
+
+Sarah Paulson
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+
+Sam Trammell
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Thriller: 1
+
+Harvey Keitel
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Music: 1
+
+Sarah Polley
+Number of movies: 1
+  Drama: 1
+  Fantasy: 1
+  Romance: 1
+
+Linh Dan Pham
+Number of movies: 1
+  Drama: 1
+  Fantasy: 1
+  Romance: 1
+
+Billie Piper
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Thriller: 1
+
+James Floyd
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Thriller: 1
+
+Cush Jumbo
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Thriller: 1
+
+Geoffrey Arend
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Stephen Merchant
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Orto Ignatiussen
+Number of movies: 1
+  Drama: 1
+  Sci-Fi: 1
+  Thriller: 1
+
+Rupert Friend
+Number of movies: 1
+  Drama: 1
+  War: 1
+
+Zac Mattoon O'Brien
+Number of movies: 1
+  Drama: 1
+  War: 1
+
+Danny Glover
+Number of movies: 1
+  Action: 1
+  Crime: 1
+  Drama: 1
+
+Ashlyn Sanchez
+Number of movies: 1
+  Sci-Fi: 1
+  Thriller: 1
+
+Matthew Fox
+Number of movies: 1
+  Adventure: 1
+  Drama: 1
+  Horror: 1
+
+Joe Manganiello
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Music: 1
+
+Adam Rodriguez
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Music: 1
+
+Penn Badgley
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Ken Stott
+Number of movies: 1
+  Adventure: 1
+  Fantasy: 1
+
+Joseph Mawle
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+
+Brian Caspe
+Number of movies: 1
+  Biography: 1
+  History: 1
+  Thriller: 1
+
+Karel Hermanek Jr.
+Number of movies: 1
+  Biography: 1
+  History: 1
+  Thriller: 1
+
+Anton Adasinsky
+Number of movies: 1
+  Action: 1
+  Drama: 1
+  History: 1
+
+Aleksandr Armer
+Number of movies: 1
+  Action: 1
+  Drama: 1
+  History: 1
+
+Vilen Babichev
+Number of movies: 1
+  Action: 1
+  Drama: 1
+  History: 1
+
+Rostislav Bershauer
+Number of movies: 1
+  Action: 1
+  Drama: 1
+  History: 1
+
+Billy Magnussen
+Number of movies: 1
+  Action: 1
+  Biography: 1
+  Drama: 1
+
+Terry Chen
+Number of movies: 1
+  Action: 1
+  Biography: 1
+  Drama: 1
+
+Teresa Navarro
+Number of movies: 1
+  Action: 1
+  Biography: 1
+  Drama: 1
+
+Vanessa Ross
+Number of movies: 1
+  Action: 1
+  Biography: 1
+  Drama: 1
+
+Ariel Levy
+Number of movies: 1
+  Adventure: 1
+  Horror: 1
+
+Kirby Bliss Blanton
+Number of movies: 1
+  Adventure: 1
+  Horror: 1
+
+Albert Finney
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Alycia Debnam-Carey
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+William Moseley
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Brit Morgan
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Jim Caviezel
+Number of movies: 1
+  Action: 1
+  Sci-Fi: 1
+  Thriller: 1
+
+Val Kilmer
+Number of movies: 1
+  Action: 1
+  Sci-Fi: 1
+  Thriller: 1
+
+Min-sik Choi
+Number of movies: 1
+  Action: 1
+  Sci-Fi: 1
+  Thriller: 1
+
+Amr Waked
+Number of movies: 1
+  Action: 1
+  Sci-Fi: 1
+  Thriller: 1
+
+Duncan Duff
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+
+Keith Carradine
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+
+Scott Mescudi
+Number of movies: 1
+  Action: 1
+  Crime: 1
+  Drama: 1
+
+Werner Herzog
+Number of movies: 1
+  Action: 1
+  Crime: 1
+  Mystery: 1
+
+Kati Outinen
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Thriller: 1
+
+Peter Riegert
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+
+Olivia Williams
+Number of movies: 1
+  Mystery: 1
+  Thriller: 1
+
+Anna Friel
+Number of movies: 1
+  Mystery: 1
+  Sci-Fi: 1
+  Thriller: 1
+
+Max Martini
+Number of movies: 1
+  Action: 1
+  Mystery: 1
+  Sci-Fi: 1
+
+Harry Connick Jr.
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+
+Gillian Jacobs
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Chris Gethard
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Elisabeth Moss
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  Sport: 1
+
+Dave Johns
+Number of movies: 1
+  Drama: 1
+
+Hayley Squires
+Number of movies: 1
+  Drama: 1
+
+Sharon Percy
+Number of movies: 1
+  Drama: 1
+
+Briana Shann
+Number of movies: 1
+  Drama: 1
+
+Joey Lauren Adams
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Ruth Negga
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  Romance: 1
+
+Will Dalton
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  Romance: 1
+
+Dean Mumford
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  Romance: 1
+
+Martin McCann
+Number of movies: 1
+  Drama: 1
+  Sci-Fi: 1
+  Thriller: 1
+
+Andrew Simpson
+Number of movies: 1
+  Drama: 1
+  Sci-Fi: 1
+  Thriller: 1
+
+Richenda Carey
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+  Thriller: 1
+
+Kristin Chenoweth
+Number of movies: 1
+  Mystery: 1
+  Thriller: 1
+
+Allison Tolman
+Number of movies: 1
+  Mystery: 1
+  Thriller: 1
+
+Dax Shepard
+Number of movies: 1
+  Adventure: 1
+  Comedy: 1
+  Sci-Fi: 1
+
+Dolph Lundgren
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Thriller: 1
+
+Shiloh Fernandez
+Number of movies: 1
+  Fantasy: 1
+  Horror: 1
+
+Lou Taylor Pucci
+Number of movies: 1
+  Fantasy: 1
+  Horror: 1
+
+Juliet Rylance
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+
+Fred Dalton Thompson
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+
+Jack McBrayer
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Jane Lynch
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Levi Miller
+Number of movies: 1
+  Adventure: 1
+  Family: 1
+  Fantasy: 1
+
+Rosie Huntington-Whiteley
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+
+Sarita Choudhury
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Alexander Black
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Kate Upton
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Anders Holm
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Greg Kinnear
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Katey Sagal
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  Sport: 1
+
+Jason Flemyng
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+
+Bruce Boxleitner
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+
+Frank Langella
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Mystery: 1
+
+Lily Rabe
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Mystery: 1
+
+Alain Moussi
+Number of movies: 1
+  Action: 1
+
+Gina Carano
+Number of movies: 1
+  Action: 1
+
+Noah Ringer
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Family: 1
+
+Jackson Rathbone
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Family: 1
+
+Rob Corddry
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Ellie Kemper
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Matthew Morrison
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+J. Todd Smith
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Sam Elliott
+Number of movies: 1
+  Action: 1
+  Fantasy: 1
+  Thriller: 1
+
+Matt Long
+Number of movies: 1
+  Action: 1
+  Fantasy: 1
+  Thriller: 1
+
+Miyavi
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  Sport: 1
+
+Stephen Dorff
+Number of movies: 1
+  Action: 1
+  Drama: 1
+  Fantasy: 1
+
+Kelly Macdonald
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Billy Connolly
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Julie Walters
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Ewa Froling
+Number of movies: 1
+  Drama: 1
+  Mystery: 1
+  Thriller: 1
+
+Lena Endre
+Number of movies: 1
+  Drama: 1
+  Mystery: 1
+  Thriller: 1
+
+James Gandolfini
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Mystery: 1
+
+Laura Ramsey
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+  Sport: 1
+
+Cara Buono
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+  Mystery: 1
+
+Sean Faris
+Number of movies: 1
+  Action: 1
+  Drama: 1
+  Sport: 1
+
+Freddie Crowder
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Comedy: 1
+
+Dominique McElligott
+Number of movies: 1
+  Drama: 1
+  Mystery: 1
+  Sci-Fi: 1
+
+Rosie Shaw
+Number of movies: 1
+  Drama: 1
+  Mystery: 1
+  Sci-Fi: 1
+
+Giovanni Ribisi
+Number of movies: 1
+  Action: 1
+  Crime: 1
+  Drama: 1
+
+Mel Gibson
+Number of movies: 1
+  Action: 1
+  Crime: 1
+  Drama: 1
+
+Morgan Lily
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Trenton Rogers
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Matt Vael
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+
+Simon Cotton
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+
+Kevin Leslie
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+
+Olivia Moyles
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+
+Fionn O'Shea
+Number of movies: 1
+  Drama: 1
+
+Nicholas Galitzine
+Number of movies: 1
+  Drama: 1
+
+Moe Dunford
+Number of movies: 1
+  Drama: 1
+
+John Hawkes
+Number of movies: 1
+  Drama: 1
+
+Garret Dillahunt
+Number of movies: 1
+  Drama: 1
+
+Isaiah Stone
+Number of movies: 1
+  Drama: 1
+
+Steve Wiebe
+Number of movies: 1
+  Comedy: 1
+  Crime: 1
+
+Anne Dorval
+Number of movies: 1
+  Drama: 1
+
+Antoine-Olivier Pilon
+Number of movies: 1
+  Drama: 1
+
+Suzanne Clement
+Number of movies: 1
+  Drama: 1
+
+Patrick Huard
+Number of movies: 1
+  Drama: 1
+
+Selma Blair
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+
+Doug Jones
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+
+John Alexander
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+
+Alice Englert
+Number of movies: 1
+  Drama: 1
+  Fantasy: 1
+  Romance: 1
+
+Sandra Huller
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Peter Simonischek
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Michael Wittenborn
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Thomas Loibl
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Sam Shepard
+Number of movies: 1
+  Biography: 1
+  Crime: 1
+  Drama: 1
+
+Tony Danza
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Kelly Reilly
+Number of movies: 1
+  Action: 1
+  Crime: 1
+  Drama: 1
+
+Paul Sidhu
+Number of movies: 1
+  Sci-Fi: 1
+
+Branden Coles
+Number of movies: 1
+  Sci-Fi: 1
+
+Arielle Holmes
+Number of movies: 1
+  Sci-Fi: 1
+
+Kelcey Watson
+Number of movies: 1
+  Sci-Fi: 1
+
+Jon Daly
+Number of movies: 1
+  Adventure: 1
+  Comedy: 1
+  Drama: 1
+
+Shameik Moore
+Number of movies: 1
+  Comedy: 1
+  Crime: 1
+  Drama: 1
+
+Kiersey Clemons
+Number of movies: 1
+  Comedy: 1
+  Crime: 1
+  Drama: 1
+
+Kimberly Elise
+Number of movies: 1
+  Comedy: 1
+  Crime: 1
+  Drama: 1
+
+India Eisley
+Number of movies: 1
+  Action: 1
+  Fantasy: 1
+  Horror: 1
+
+Stephen Rea
+Number of movies: 1
+  Action: 1
+  Fantasy: 1
+  Horror: 1
+
+Storm Acheche Sahlstrom
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+
+Jared Padalecki
+Number of movies: 1
+  Horror: 1
+
+Amanda Righetti
+Number of movies: 1
+  Horror: 1
+
+Derek Mears
+Number of movies: 1
+  Horror: 1
+
+Danielle Panabaker
+Number of movies: 1
+  Horror: 1
+
+Bokeem Woodbine
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Mystery: 1
+
+Lyndsy Fonseca
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Michael Doneger
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Tommy Dewey
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Bruce Campbell
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Dick Van Dyke
+Number of movies: 1
+  Adventure: 1
+  Comedy: 1
+  Family: 1
+
+Randall Park
+Number of movies: 1
+  Comedy: 1
+
+Hee-Bong Byun
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Horror: 1
+
+Hae-il Park
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Horror: 1
+
+Doona Bae
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Horror: 1
+
+Amber Perkins
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+  Thriller: 1
+
+Rachel Quinn
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+  Thriller: 1
+
+Dean Waite
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+  Thriller: 1
+
+Jael Elizabeth Steinmeyer
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+  Thriller: 1
+
+Ben Burtt
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Family: 1
+
+Elissa Knight
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Family: 1
+
+Jeff Garlin
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Family: 1
+
+Fred Willard
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Family: 1
+
+Heather Sossaman
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+  Mystery: 1
+
+Matthew Bohrer
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+  Mystery: 1
+
+Courtney Halverson
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+  Mystery: 1
+
+Shelley Hennig
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+  Mystery: 1
+
+Alyson Hannigan
+Number of movies: 1
+  Comedy: 1
+
+Seann William Scott
+Number of movies: 1
+  Comedy: 1
+
+Chris Klein
+Number of movies: 1
+  Comedy: 1
+
+Brian Howe
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+
+Dario Grandinetti
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Thriller: 1
+
+Maria Marull
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Thriller: 1
+
+MOnica Villa
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Thriller: 1
+
+Rita Cortese
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Thriller: 1
+
+Jorge Garcia
+Number of movies: 1
+  Comedy: 1
+  Western: 1
+
+Paula Beer
+Number of movies: 1
+  Drama: 1
+  History: 1
+  War: 1
+
+Ernst Stotzner
+Number of movies: 1
+  Drama: 1
+  History: 1
+  War: 1
+
+Marie Gruber
+Number of movies: 1
+  Drama: 1
+  History: 1
+  War: 1
+
+Sofia Black-D'Elia
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+  Sci-Fi: 1
+
+Travis Tope
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+  Sci-Fi: 1
+
+Michael Kelly
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+  Sci-Fi: 1
+
+Clint Eastwood
+Number of movies: 1
+  Drama: 1
+
+Bee Vang
+Number of movies: 1
+  Drama: 1
+
+Christopher Carley
+Number of movies: 1
+  Drama: 1
+
+Ahney Her
+Number of movies: 1
+  Drama: 1
+
+Riccardo Scamarcio
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Dan Crisafulli
+Number of movies: 1
+  Fantasy: 1
+  Horror: 1
+  Thriller: 1
+
+Kay Whitney
+Number of movies: 1
+  Fantasy: 1
+  Horror: 1
+  Thriller: 1
+
+Richard Garcia
+Number of movies: 1
+  Fantasy: 1
+  Horror: 1
+  Thriller: 1
+
+Pat Cashman
+Number of movies: 1
+  Fantasy: 1
+  Horror: 1
+  Thriller: 1
+
+Rachael Blake
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+
+Bridgette Barrett
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+
+Lucy Fry
+Number of movies: 1
+  Action: 1
+  Comedy: 1
+  Fantasy: 1
+
+Gabriel Byrne
+Number of movies: 1
+  Action: 1
+  Comedy: 1
+  Fantasy: 1
+
+Jeffrey Dean Morgan
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Mystery: 1
+
+Jorma Taccone
+Number of movies: 1
+  Comedy: 1
+  Music: 1
+
+Akiva Schaffer
+Number of movies: 1
+  Comedy: 1
+  Music: 1
+
+David Troughton
+Number of movies: 1
+  Drama: 1
+
+Jack Holden
+Number of movies: 1
+  Drama: 1
+
+Joe Blakemore
+Number of movies: 1
+  Drama: 1
+
+Christian Stolte
+Number of movies: 1
+  Biography: 1
+  Crime: 1
+  Drama: 1
+
+Ellar Coltrane
+Number of movies: 1
+  Drama: 1
+
+Patricia Arquette
+Number of movies: 1
+  Drama: 1
+
+Elijah Smith
+Number of movies: 1
+  Drama: 1
+
+Noel Fisher
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Comedy: 1
+
+Armin Mueller-Stahl
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Mystery: 1
+
+Josef Altin
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Mystery: 1
+
+Nicholas Hope
+Number of movies: 1
+  Drama: 1
+
+Victoria Justice
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Michael McDonald
+Number of movies: 1
+  Action: 1
+  Comedy: 1
+  Crime: 1
+
+Andre Marcon
+Number of movies: 1
+  Drama: 1
+
+Roman Kolinka
+Number of movies: 1
+  Drama: 1
+
+Edith Scob
+Number of movies: 1
+  Drama: 1
+
+Dale Dickey
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Mystery: 1
+
+Jessica Barth
+Number of movies: 1
+  Adventure: 1
+  Comedy: 1
+  Romance: 1
+
+Kagiso Kuypers
+Number of movies: 1
+  Adventure: 1
+  Drama: 1
+  Thriller: 1
+
+Alessandro Nivola
+Number of movies: 1
+  Biography: 1
+  Crime: 1
+  Drama: 1
+
+James Hamrick
+Number of movies: 1
+  Biography: 1
+  Crime: 1
+  Drama: 1
+
+Brian Geraghty
+Number of movies: 1
+  Drama: 1
+  History: 1
+  Thriller: 1
+
+Andre Braugher
+Number of movies: 1
+  Horror: 1
+
+50 Cent
+Number of movies: 1
+  Action: 1
+  Crime: 1
+  Mystery: 1
+
+Christian Cooke
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Jaime Winstone
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Mae Whitman
+Number of movies: 1
+  Comedy: 1
+
+Bella Thorne
+Number of movies: 1
+  Comedy: 1
+
+Allison Janney
+Number of movies: 1
+  Comedy: 1
+
+Byung-hun Lee
+Number of movies: 1
+  Action: 1
+  Drama: 1
+  Thriller: 1
+
+Ji-min Han
+Number of movies: 1
+  Action: 1
+  Drama: 1
+  Thriller: 1
+
+Jasper Newell
+Number of movies: 1
+  Drama: 1
+  Mystery: 1
+  Thriller: 1
+
+Chloe Sevigny
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Emma Greenwell
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Jamie Campbell Bower
+Number of movies: 1
+  Action: 1
+  Fantasy: 1
+  Horror: 1
+
+Robert Sheehan
+Number of movies: 1
+  Action: 1
+  Fantasy: 1
+  Horror: 1
+
+Jemima West
+Number of movies: 1
+  Action: 1
+  Fantasy: 1
+  Horror: 1
+
+Derek Jacobi
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+
+Stuart Graham
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+
+Laine Megaw
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+
+Brian Milligan
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+
+Liam McMahon
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+
+Hayden Christensen
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+
+Rachel Bilson
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+
+Tim Allen
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Joan Cusack
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Ned Beatty
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Aryana Engineer
+Number of movies: 1
+  Action: 1
+  Horror: 1
+  Sci-Fi: 1
+
+Alia Bhatt
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+
+Shah Rukh Khan
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+
+Kunal Kapoor
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+
+Priyanka Moodley
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+
+Suraj Sharma
+Number of movies: 1
+  Adventure: 1
+  Drama: 1
+  Fantasy: 1
+
+Adil Hussain
+Number of movies: 1
+  Adventure: 1
+  Drama: 1
+  Fantasy: 1
+
+Tabu
+Number of movies: 1
+  Adventure: 1
+  Drama: 1
+  Fantasy: 1
+
+Cary-Hiroyuki Tagawa
+Number of movies: 1
+  Drama: 1
+  Family: 1
+
+Steven Yeun
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+  Sci-Fi: 1
+
+Astrid Berges-Frisbey
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+  Sci-Fi: 1
+
+Brit Marling
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+  Sci-Fi: 1
+
+Maggie Q
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Thriller: 1
+
+Wesley Elder
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Christina Grimmie
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Osric Chau
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Olan Rogers
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Brady Corbet
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Horror: 1
+
+Joel McHale
+Number of movies: 1
+  Comedy: 1
+  Fantasy: 1
+
+Shea Adams
+Number of movies: 1
+  Adventure: 1
+  Drama: 1
+  Romance: 1
+
+Eddie Baroo
+Number of movies: 1
+  Adventure: 1
+  Drama: 1
+  Romance: 1
+
+Mauricio Lopez
+Number of movies: 1
+  Action: 1
+  Crime: 1
+  Drama: 1
+
+Josh Stewart
+Number of movies: 1
+  Crime: 1
+  Horror: 1
+  Thriller: 1
+
+Bill Engvall
+Number of movies: 1
+  Crime: 1
+  Horror: 1
+  Thriller: 1
+
+Alex Essoe
+Number of movies: 1
+  Crime: 1
+  Horror: 1
+  Thriller: 1
+
+Lisa Thoreson
+Number of movies: 1
+  Romance: 1
+  Sci-Fi: 1
+  Thriller: 1
+
+Florence Kastriner
+Number of movies: 1
+  Romance: 1
+  Sci-Fi: 1
+  Thriller: 1
+
+Emmanuel Garijo
+Number of movies: 1
+  Animation: 1
+  Fantasy: 1
+
+Tom Hudson
+Number of movies: 1
+  Animation: 1
+  Fantasy: 1
+
+Baptiste Goy
+Number of movies: 1
+  Animation: 1
+  Fantasy: 1
+
+Axel Devillers
+Number of movies: 1
+  Animation: 1
+  Fantasy: 1
+
+Lubna Azabal
+Number of movies: 1
+  Drama: 1
+  Mystery: 1
+  War: 1
+
+Melissa Desormeaux-Poulin
+Number of movies: 1
+  Drama: 1
+  Mystery: 1
+  War: 1
+
+Maxim Gaudette
+Number of movies: 1
+  Drama: 1
+  Mystery: 1
+  War: 1
+
+Mustafa Kamel
+Number of movies: 1
+  Drama: 1
+  Mystery: 1
+  War: 1
+
+Jerry Stiller
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Brittany Murphy
+Number of movies: 1
+  Animation: 1
+  Comedy: 1
+  Family: 1
+
+Kevin Connolly
+Number of movies: 1
+  Comedy: 1
+
+Jerry Ferrara
+Number of movies: 1
+  Comedy: 1
+
+Kevin Dillon
+Number of movies: 1
+  Comedy: 1
+
+Scott Speedman
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+  Thriller: 1
+
+Gemma Ward
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+  Thriller: 1
+
+Alex Fisher
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+  Thriller: 1
+
+Gaby Hoffmann
+Number of movies: 1
+  Adventure: 1
+  Biography: 1
+  Drama: 1
+
+James Allen McCune
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Callie Hernandez
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Corbin Reid
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Brandon Scott
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Jackie Chan
+Number of movies: 1
+  Action: 1
+  Drama: 1
+  Family: 1
+
+Wenwen Han
+Number of movies: 1
+  Action: 1
+  Drama: 1
+  Family: 1
+
+Jenna Elfman
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Rufus Sewell
+Number of movies: 1
+  Drama: 1
+  Mystery: 1
+  Romance: 1
+
+Sheila Kelley
+Number of movies: 1
+  Thriller: 1
+
+Joel David Moore
+Number of movies: 1
+  Thriller: 1
+
+Aasif Mandvi
+Number of movies: 1
+  Comedy: 1
+
+Mia Stallard
+Number of movies: 1
+  Adventure: 1
+  Comedy: 1
+  Sci-Fi: 1
+
+Jean Reno
+Number of movies: 1
+  Mystery: 1
+  Thriller: 1
+
+Eddie Murphy
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Natascha McElhone
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Christopher Lee
+Number of movies: 1
+  Adventure: 1
+  Drama: 1
+  Family: 1
+
+Kiernan Shipka
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Lauren Holly
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Brian Dennehy
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+
+Brendan Fraser
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+
+Ella Anderson
+Number of movies: 1
+  Comedy: 1
+
+Usher Raymond
+Number of movies: 1
+  Action: 1
+  Biography: 1
+  Drama: 1
+
+Ruben Blades
+Number of movies: 1
+  Action: 1
+  Biography: 1
+  Drama: 1
+
+Ricardo Darin
+Number of movies: 1
+  Drama: 1
+  Mystery: 1
+  Romance: 1
+
+Soledad Villamil
+Number of movies: 1
+  Drama: 1
+  Mystery: 1
+  Romance: 1
+
+Pablo Rago
+Number of movies: 1
+  Drama: 1
+  Mystery: 1
+  Romance: 1
+
+Carla Quevedo
+Number of movies: 1
+  Drama: 1
+  Mystery: 1
+  Romance: 1
+
+Emily Ratajkowski
+Number of movies: 1
+  Drama: 1
+  Music: 1
+  Romance: 1
+
+Jonny Weston
+Number of movies: 1
+  Drama: 1
+  Music: 1
+  Romance: 1
+
+Brian White
+Number of movies: 1
+  Thriller: 1
+
+Karrueche Tran
+Number of movies: 1
+  Thriller: 1
+
+Angelique Pereira
+Number of movies: 1
+  Thriller: 1
+
+Jessica Vanessa DeLeon
+Number of movies: 1
+  Thriller: 1
+
+Taissa Farmiga
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Steve Tom
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Elizabeth Reaser
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Lulu Wilson
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Henry Thomas
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Karen Gillan
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+
+Rory Cochrane
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+
+Elizabeth Berrington
+Number of movies: 1
+  Comedy: 1
+  Crime: 1
+  Drama: 1
+
+Til Schweiger
+Number of movies: 1
+  Action: 1
+  Comedy: 1
+  Romance: 1
+
+Tatiana Pauhofova
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  History: 1
+
+Karl Markovics
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  History: 1
+
+Gedeon Burkhard
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  History: 1
+
+Simona Stasova
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  History: 1
+
+Dermot Mulroney
+Number of movies: 1
+  Drama: 1
+  Thriller: 1
+
+Diego Klattenhoff
+Number of movies: 1
+  Drama: 1
+  Thriller: 1
+
+Larenz Tate
+Number of movies: 1
+  Drama: 1
+
+Meagan Good
+Number of movies: 1
+  Drama: 1
+
+Rotimi
+Number of movies: 1
+  Drama: 1
+
+Rick Gonzalez
+Number of movies: 1
+  Drama: 1
+
+Freddie Highmore
+Number of movies: 1
+  Drama: 1
+  Music: 1
+
+Jonathan Rhys Meyers
+Number of movies: 1
+  Drama: 1
+  Music: 1
+
+Max Burkholder
+Number of movies: 1
+  Horror: 1
+  Sci-Fi: 1
+  Thriller: 1
+
+Adelaide Kane
+Number of movies: 1
+  Horror: 1
+  Sci-Fi: 1
+  Thriller: 1
+
+Anushka Sharma
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Sanjay Dutt
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Boman Irani
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Karen Allen
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+
+Cara Delevingne
+Number of movies: 1
+  Drama: 1
+  Mystery: 1
+  Romance: 1
+
+Austin Abrams
+Number of movies: 1
+  Drama: 1
+  Mystery: 1
+  Romance: 1
+
+Justice Smith
+Number of movies: 1
+  Drama: 1
+  Mystery: 1
+  Romance: 1
+
+Anthony LaPaglia
+Number of movies: 1
+  Action: 1
+  Crime: 1
+  Thriller: 1
+
+Sean Patrick Thomas
+Number of movies: 1
+  Drama: 1
+  Sci-Fi: 1
+
+Malcolm McDowell
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Richard Brake
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Jeff Daniel Phillips
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Sheri Moon Zombie
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Logan Huffman
+Number of movies: 1
+  Action: 1
+  Thriller: 1
+
+Alexander Ludwig
+Number of movies: 1
+  Action: 1
+  Thriller: 1
+
+Maddy Curley
+Number of movies: 1
+  Comedy: 1
+
+John DeLuca
+Number of movies: 1
+  Comedy: 1
+
+Nikki SooHoo
+Number of movies: 1
+  Comedy: 1
+
+Drew Seeley
+Number of movies: 1
+  Comedy: 1
+
+Malcolm Sinclair
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+
+Raghuvir Joshi
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+
+January Jones
+Number of movies: 1
+  Action: 1
+  Mystery: 1
+  Thriller: 1
+
+Aidan Quinn
+Number of movies: 1
+  Action: 1
+  Mystery: 1
+  Thriller: 1
+
+Natalie Martinez
+Number of movies: 1
+  Action: 1
+  Mystery: 1
+  Sci-Fi: 1
+
+Demi Moore
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Thriller: 1
+
+Dane Cook
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Thriller: 1
+
+Callum Turner
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Grace Van Patten
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Michal Vondel
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Emma Fitzpatrick
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+John Cullum
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Barkhad Abdirahman
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  Thriller: 1
+
+Aidan Turner
+Number of movies: 1
+  Drama: 1
+
+Ben Winchell
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Family: 1
+
+Josh Brener
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Family: 1
+
+Andy Garcia
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Family: 1
+
+Ike Barinholtz
+Number of movies: 1
+  Comedy: 1
+
+John D'Leo
+Number of movies: 1
+  Comedy: 1
+  Crime: 1
+  Thriller: 1
+
+Craig Robinson
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Gerry Bednob
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Gaspard Schlatter
+Number of movies: 1
+  Animation: 1
+  Comedy: 1
+  Drama: 1
+
+Sixtine Murat
+Number of movies: 1
+  Animation: 1
+  Comedy: 1
+  Drama: 1
+
+Paulin Jaccoud
+Number of movies: 1
+  Animation: 1
+  Comedy: 1
+  Drama: 1
+
+Michel Vuillermoz
+Number of movies: 1
+  Animation: 1
+  Comedy: 1
+  Drama: 1
+
+Mandy Gonzalez
+Number of movies: 1
+  Action: 1
+  Crime: 1
+  Thriller: 1
+
+Ashton Kutcher
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Kevin Kline
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Cary Elwes
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Jeremy Davies
+Number of movies: 1
+  Adventure: 1
+  Biography: 1
+  Drama: 1
+
+Zach Grenier
+Number of movies: 1
+  Adventure: 1
+  Biography: 1
+  Drama: 1
+
+Benjamin Bratt
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Miranda Cosgrove
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Boyd Holbrook
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Mystery: 1
+
+Lily-Rose Depp
+Number of movies: 1
+  Comedy: 1
+  Fantasy: 1
+  Horror: 1
+
+Harley Quinn Smith
+Number of movies: 1
+  Comedy: 1
+  Fantasy: 1
+  Horror: 1
+
+Christopher Walken
+Number of movies: 1
+  Comedy: 1
+  Crime: 1
+
+Crispin Glover
+Number of movies: 1
+  Animation: 1
+  Action: 1
+  Adventure: 1
+
+Mary McCormack
+Number of movies: 1
+  Fantasy: 1
+  Horror: 1
+
+Paul Birchard
+Number of movies: 1
+  Fantasy: 1
+  Horror: 1
+
+Jessica Lange
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Thriller: 1
+
+Tom Felton
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  Romance: 1
+
+Tom Sizemore
+Number of movies: 1
+  Action: 1
+  Drama: 1
+  History: 1
+
+Munro Chambers
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Comedy: 1
+
+Laurence Leboeuf
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Comedy: 1
+
+Michael Ironside
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Comedy: 1
+
+Edwin Wright
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Comedy: 1
+
+Megan Charpentier
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Isabelle Nelisse
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Isabelle Fuhrman
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+  Thriller: 1
+
+CCH Pounder
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+  Thriller: 1
+
+Woody Allen
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Jason Barry
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Mystery: 1
+
+Karen Moskow
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Mystery: 1
+
+Kai Ryssdal
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Mystery: 1
+
+Amber Tamblyn
+Number of movies: 1
+  Adventure: 1
+  Biography: 1
+  Drama: 1
+
+Sean Bott
+Number of movies: 1
+  Adventure: 1
+  Biography: 1
+  Drama: 1
+
+Ward Horton
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+  Thriller: 1
+
+Alfre Woodard
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+  Thriller: 1
+
+Tony Amendola
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+  Thriller: 1
+
+Katie Cassidy
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Elizabeth Henstridge
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Adam Campbell
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Kristin Scott Thomas
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+  War: 1
+
+Eric Godon
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+  War: 1
+
+Lily Cole
+Number of movies: 1
+  Adventure: 1
+  Fantasy: 1
+  Mystery: 1
+
+Marlon Wayans
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+
+Michael C. Hall
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+
+Maria Dizzia
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+
+Michael Vartan
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Charlie Heaton
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+  Thriller: 1
+
+Mark Chao
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+
+Ni Ni
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+
+Danny Trejo
+Number of movies: 1
+  Action: 1
+  Horror: 1
+  Thriller: 1
+
+Carmen Electra
+Number of movies: 1
+  Comedy: 1
+
+Vanessa Lachey
+Number of movies: 1
+  Comedy: 1
+
+Nicole Parker
+Number of movies: 1
+  Comedy: 1
+
+Antonio Tarver
+Number of movies: 1
+  Drama: 1
+  Sport: 1
+
+Milo Ventimiglia
+Number of movies: 1
+  Drama: 1
+  Sport: 1
+
+Burt Young
+Number of movies: 1
+  Drama: 1
+  Sport: 1
+
+Su Elliot
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+
+Alexis Dziena
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Comedy: 1
+
+Adrian Titieni
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+
+Maria-Victoria Dragus
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+
+Lia Bugnar
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+
+Malina Manovici
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+
+John Turturro
+Number of movies: 1
+  Action: 1
+  Comedy: 1
+
+Emmanuelle Chriqui
+Number of movies: 1
+  Action: 1
+  Comedy: 1
+
+Nick Swardson
+Number of movies: 1
+  Action: 1
+  Comedy: 1
+
+Christopher McDonald
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Mystery: 1
+
+Mira Sorvino
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Mystery: 1
+
+Kari Matchett
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  Romance: 1
+
+Zachary Bennett
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  Romance: 1
+
+Keith David
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Bruno Campos
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Ethan Suplee
+Number of movies: 1
+  Action: 1
+  Thriller: 1
+
+Jim Parsons
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Steve Martin
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Sylvia Hoeks
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Mystery: 1
+
+Sophie Nelisse
+Number of movies: 1
+  Thriller: 1
+
+Joe Cobden
+Number of movies: 1
+  Thriller: 1
+
+T.R. Knight
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  Sport: 1
+
+Nicole Beharie
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  Sport: 1
+
+Aaron Yoo
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Thriller: 1
+
+Adam Levine
+Number of movies: 1
+  Drama: 1
+  Music: 1
+
+Christopher Evan Welch
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+
+Regina Hall
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Anthony Anderson
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Eve
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Moon Bloodgood
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Drama: 1
+
+Imelda Staunton
+Number of movies: 1
+  Biography: 1
+  Crime: 1
+  Drama: 1
+
+Ted Levine
+Number of movies: 1
+  Horror: 1
+
+Kathleen Quinlan
+Number of movies: 1
+  Horror: 1
+
+Colm Feore
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  Mystery: 1
+
+Gattlin Griffith
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  Mystery: 1
+
+Caitlyn Rund
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+
+Moises Acevedo
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+
+Miyu Irino
+Number of movies: 1
+  Animation: 1
+  Drama: 1
+  Romance: 1
+
+Saori Hayami
+Number of movies: 1
+  Animation: 1
+  Drama: 1
+  Romance: 1
+
+Kensho Ono
+Number of movies: 1
+  Animation: 1
+  Drama: 1
+  Romance: 1
+
+Aiden Longworth
+Number of movies: 1
+  Mystery: 1
+  Thriller: 1
+
+Juno Temple
+Number of movies: 1
+  Drama: 1
+  Fantasy: 1
+  Horror: 1
+
+Tijuana Ricks
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+
+Sue Dahlman
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+
+Rolf Lassgard
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Bahar Pars
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Filip Berg
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Ida Engvoll
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Justin Chatwin
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+
+James Marsters
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+
+Yun-Fat Chow
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+
+Emmy Rossum
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+
+Isabel Lucas
+Number of movies: 1
+  Action: 1
+  Thriller: 1
+
+Josh Peck
+Number of movies: 1
+  Action: 1
+  Thriller: 1
+
+Tom Mison
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+
+Josh Lucas
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Alexis Clagett
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Robert Carlyle
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+  Sci-Fi: 1
+
+Harold Perrineau
+Number of movies: 1
+  Drama: 1
+  Horror: 1
+  Sci-Fi: 1
+
+John Malkovich
+Number of movies: 1
+  Comedy: 1
+  Horror: 1
+  Romance: 1
+
+Jon M. Chu
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+
+Hiroki Hasegawa
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Drama: 1
+
+Yutaka Takenouchi
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Drama: 1
+
+Satomi Ishihara
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Drama: 1
+
+Ren osugi
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Drama: 1
+
+Annie Rose Buckley
+Number of movies: 1
+  Biography: 1
+  Comedy: 1
+  Drama: 1
+
+George Lopez
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Karen Disher
+Number of movies: 1
+  Animation: 1
+  Adventure: 1
+  Comedy: 1
+
+Vernetta Lopez
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+  Sci-Fi: 1
+
+Scott Lawrence
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+  Sci-Fi: 1
+
+Gael Garcia Bernal
+Number of movies: 1
+  Drama: 1
+
+Mohamed Akhzam
+Number of movies: 1
+  Drama: 1
+
+Hunter McCracken
+Number of movies: 1
+  Drama: 1
+  Fantasy: 1
+
+Taylor Schilling
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+
+Riley Thomas Stewart
+Number of movies: 1
+  Drama: 1
+  Romance: 1
+
+Elisabeth Shue
+Number of movies: 1
+  Comedy: 1
+  Horror: 1
+  Thriller: 1
+
+Jerry O'Connell
+Number of movies: 1
+  Comedy: 1
+  Horror: 1
+  Thriller: 1
+
+Dylan Duffus
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+
+Scorcher
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+
+Shone Romulus
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+
+Jade Asha
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+
+Maude Apatow
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Iris Apatow
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Dakota Goyo
+Number of movies: 1
+  Action: 1
+  Drama: 1
+  Family: 1
+
+Julie Benz
+Number of movies: 1
+  Action: 1
+  Thriller: 1
+  War: 1
+
+Matthew Marsden
+Number of movies: 1
+  Action: 1
+  Thriller: 1
+  War: 1
+
+Graham McTavish
+Number of movies: 1
+  Action: 1
+  Thriller: 1
+  War: 1
+
+Freddy Rodriguez
+Number of movies: 1
+  Action: 1
+  Comedy: 1
+  Horror: 1
+
+Marley Shelton
+Number of movies: 1
+  Action: 1
+  Comedy: 1
+  Horror: 1
+
+Lee Pace
+Number of movies: 1
+  Adventure: 1
+  Comedy: 1
+  Drama: 1
+
+Catinca Untaru
+Number of movies: 1
+  Adventure: 1
+  Comedy: 1
+  Drama: 1
+
+Justine Waddell
+Number of movies: 1
+  Adventure: 1
+  Comedy: 1
+  Drama: 1
+
+Kim Uylenbroek
+Number of movies: 1
+  Adventure: 1
+  Comedy: 1
+  Drama: 1
+
+Bree Turner
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Eric Winter
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Candice Bergen
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Bryan Greenberg
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Jordan Carlos
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Margarita Levieva
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Julianna Margulies
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Crime: 1
+
+Nathan Phillips
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Crime: 1
+
+Rachel Blanchard
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Crime: 1
+
+Zoe Kazan
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Megan Park
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Max Greenfield
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Tyne Daly
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Romance: 1
+
+Michael Mantell
+Number of movies: 1
+  Crime: 1
+  Thriller: 1
+
+Michael Rooker
+Number of movies: 1
+  Comedy: 1
+  Horror: 1
+  Sci-Fi: 1
+
+Don Thompson
+Number of movies: 1
+  Comedy: 1
+  Horror: 1
+  Sci-Fi: 1
+
+Toby Jones
+Number of movies: 1
+  Drama: 1
+  Fantasy: 1
+  Horror: 1
+
+Paula Prentiss
+Number of movies: 1
+  Thriller: 1
+
+AnnaSophia Robb
+Number of movies: 1
+  Adventure: 1
+  Drama: 1
+  Family: 1
+
+Emily Baldoni
+Number of movies: 1
+  Mystery: 1
+  Sci-Fi: 1
+  Thriller: 1
+
+Maury Sterling
+Number of movies: 1
+  Mystery: 1
+  Sci-Fi: 1
+  Thriller: 1
+
+Nicholas Brendon
+Number of movies: 1
+  Mystery: 1
+  Sci-Fi: 1
+  Thriller: 1
+
+Elizabeth Gracen
+Number of movies: 1
+  Mystery: 1
+  Sci-Fi: 1
+  Thriller: 1
+
+Jamal Woolard
+Number of movies: 1
+  Biography: 1
+  Crime: 1
+  Drama: 1
+
+Derek Luke
+Number of movies: 1
+  Biography: 1
+  Crime: 1
+  Drama: 1
+
+Momo Dione
+Number of movies: 1
+  Biography: 1
+  Crime: 1
+  Drama: 1
+
+Jun Kunimura
+Number of movies: 1
+  Drama: 1
+  Fantasy: 1
+  Horror: 1
+
+Jung-min Hwang
+Number of movies: 1
+  Drama: 1
+  Fantasy: 1
+  Horror: 1
+
+Do-won Kwak
+Number of movies: 1
+  Drama: 1
+  Fantasy: 1
+  Horror: 1
+
+Woo-hee Chun
+Number of movies: 1
+  Drama: 1
+  Fantasy: 1
+  Horror: 1
+
+Randy Couture
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Thriller: 1
+
+William Atherton
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Horror: 1
+
+Blythe Auffarth
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Horror: 1
+
+Blanche Baker
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Horror: 1
+
+Kevin Chamberlin
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Horror: 1
+
+Francesc Albiol
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Fantasy: 1
+
+Dakota Blue Richards
+Number of movies: 1
+  Adventure: 1
+  Family: 1
+  Fantasy: 1
+
+Ben Walker
+Number of movies: 1
+  Adventure: 1
+  Family: 1
+  Fantasy: 1
+
+Andreas Wisniewski
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Drama: 1
+
+Logan Miller
+Number of movies: 1
+  Action: 1
+  Comedy: 1
+  Horror: 1
+
+Joey Morgan
+Number of movies: 1
+  Action: 1
+  Comedy: 1
+  Horror: 1
+
+Sarah Dumont
+Number of movies: 1
+  Action: 1
+  Comedy: 1
+  Horror: 1
+
+Matthew Perry
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Family: 1
+
+Chatchawai Kamonsakpitak
+Number of movies: 1
+  Action: 1
+  Thriller: 1
+
+Brandon Routh
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+
+Gabourey Sidibe
+Number of movies: 1
+  Drama: 1
+
+Mo'Nique
+Number of movies: 1
+  Drama: 1
+
+Mariah Carey
+Number of movies: 1
+  Drama: 1
+
+Ryoko Seta
+Number of movies: 1
+  Drama: 1
+
+Nicholas Braun
+Number of movies: 1
+  Comedy: 1
+
+Mateo Arias
+Number of movies: 1
+  Comedy: 1
+
+Israel Broussard
+Number of movies: 1
+  Comedy: 1
+
+Jesse Plemons
+Number of movies: 1
+  Drama: 1
+
+Kenny Wormald
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Music: 1
+
+Andie MacDowell
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Music: 1
+
+Jamie Blackley
+Number of movies: 1
+  Drama: 1
+  Fantasy: 1
+  Music: 1
+
+Joshua Leonard
+Number of movies: 1
+  Drama: 1
+  Fantasy: 1
+  Music: 1
+
+Bel Powley
+Number of movies: 1
+  Thriller: 1
+
+Stephen Moyer
+Number of movies: 1
+  Thriller: 1
+
+Samantha Robinson
+Number of movies: 1
+  Comedy: 1
+  Horror: 1
+
+Jeffrey Vincent Parise
+Number of movies: 1
+  Comedy: 1
+  Horror: 1
+
+Laura Waddell
+Number of movies: 1
+  Comedy: 1
+  Horror: 1
+
+Gian Keys
+Number of movies: 1
+  Comedy: 1
+  Horror: 1
+
+Dieter Laser
+Number of movies: 1
+  Horror: 1
+
+Ashley C. Williams
+Number of movies: 1
+  Horror: 1
+
+Ashlynn Yennie
+Number of movies: 1
+  Horror: 1
+
+Akihiro Kitamura
+Number of movies: 1
+  Horror: 1
+
+Rainn Wilson
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Brooke Shields
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+
+Gabriel Luna
+Number of movies: 1
+  Thriller: 1
+
+David Acord
+Number of movies: 1
+  Thriller: 1
+
+Ari Graynor
+Number of movies: 1
+  Comedy: 1
+  Romance: 1
+
+Jordi Molla
+Number of movies: 1
+  Action: 1
+  Sci-Fi: 1
+  Thriller: 1
+
+Melissa George
+Number of movies: 1
+  Fantasy: 1
+  Mystery: 1
+  Thriller: 1
+
+Joshua McIvor
+Number of movies: 1
+  Fantasy: 1
+  Mystery: 1
+  Thriller: 1
+
+Jack Taylor
+Number of movies: 1
+  Fantasy: 1
+  Mystery: 1
+  Thriller: 1
+
+Michael Dorman
+Number of movies: 1
+  Fantasy: 1
+  Mystery: 1
+  Thriller: 1
+
+Garrett Clayton
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+
+Christian Slater
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+
+Molly Ringwald
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+
+James Kelley
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+
+Sophie Okonedo
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Sci-Fi: 1
+
+Jahking Guillory
+Number of movies: 1
+  Adventure: 1
+
+Christopher Jordan Wallace
+Number of movies: 1
+  Adventure: 1
+
+Christopher Meyer
+Number of movies: 1
+  Adventure: 1
+
+Kofi Siriboe
+Number of movies: 1
+  Adventure: 1
+
+RJ Cyler
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Olivia Cooke
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Amara Miller
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Nick Krause
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+
+Nick Robinson
+Number of movies: 1
+  Adventure: 1
+  Comedy: 1
+  Drama: 1
+
+Moises Arias
+Number of movies: 1
+  Adventure: 1
+  Comedy: 1
+  Drama: 1
+
+Paul Bettany
+Number of movies: 1
+  Action: 1
+  Fantasy: 1
+  Horror: 1
+
+Charles S. Dutton
+Number of movies: 1
+  Action: 1
+  Fantasy: 1
+  Horror: 1
+
+America Ferrera
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Thriller: 1
+
+Connie Nielsen
+Number of movies: 1
+  Action: 1
+  Drama: 1
+  Thriller: 1
+
+Josh Hartnett
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Mystery: 1
+
+Lucy Liu
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Mystery: 1
+
+Danny Sapani
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Mystery: 1
+
+Callum Keith Rennie
+Number of movies: 1
+  Drama: 1
+  Sci-Fi: 1
+  Thriller: 1
+
+Sarah Butler
+Number of movies: 1
+  Crime: 1
+  Horror: 1
+  Thriller: 1
+
+Jeff Branson
+Number of movies: 1
+  Crime: 1
+  Horror: 1
+  Thriller: 1
+
+Andrew Howard
+Number of movies: 1
+  Crime: 1
+  Horror: 1
+  Thriller: 1
+
+Daniel Franzese
+Number of movies: 1
+  Crime: 1
+  Horror: 1
+  Thriller: 1
+
+Hayden Panettiere
+Number of movies: 1
+  Drama: 1
+
+Catalina Sandino Moreno
+Number of movies: 1
+  Drama: 1
+
+Karolina Gruszka
+Number of movies: 1
+  Drama: 1
+  Mystery: 1
+  Thriller: 1
+
+Lambert Wilson
+Number of movies: 1
+  Adventure: 1
+  Biography: 1
+
+Guillaume Baillargeon
+Number of movies: 1
+  Adventure: 1
+  Biography: 1
+  Crime: 1
+
+emilie Leclerc
+Number of movies: 1
+  Adventure: 1
+  Biography: 1
+  Crime: 1
+
+Andrea Whitburn
+Number of movies: 1
+  Action: 1
+  Horror: 1
+  Thriller: 1
+
+Jennifer Koenig
+Number of movies: 1
+  Action: 1
+  Horror: 1
+  Thriller: 1
+
+Michael Dickson
+Number of movies: 1
+  Action: 1
+  Horror: 1
+  Thriller: 1
+
+John Luessenhop
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Carrie-Anne Moss
+Number of movies: 1
+  Drama: 1
+  Mystery: 1
+  Thriller: 1
+
+Diego Boneta
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Musical: 1
+
+Neve Campbell
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+
+Courteney Cox
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+
+David Arquette
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+
+Lucy Hale
+Number of movies: 1
+  Horror: 1
+  Mystery: 1
+
+Madina Nalwanga
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  Sport: 1
+
+Lupita Nyong'o
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  Sport: 1
+
+Martin Kabanza
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  Sport: 1
+
+Nia Vardalos
+Number of movies: 1
+  Comedy: 1
+  Family: 1
+  Romance: 1
+
+Michael Constantine
+Number of movies: 1
+  Comedy: 1
+  Family: 1
+  Romance: 1
+
+Lainie Kazan
+Number of movies: 1
+  Comedy: 1
+  Family: 1
+  Romance: 1
+
+Janet Montgomery
+Number of movies: 1
+  Comedy: 1
+
+Ashley Tisdale
+Number of movies: 1
+  Comedy: 1
+
+Bria L. Murphy
+Number of movies: 1
+  Comedy: 1
+
+Nathalie Baye
+Number of movies: 1
+  Drama: 1
+
+Elena Anaya
+Number of movies: 1
+  Drama: 1
+  Thriller: 1
+
+Jan Cornet
+Number of movies: 1
+  Drama: 1
+  Thriller: 1
+
+Marisa Paredes
+Number of movies: 1
+  Drama: 1
+  Thriller: 1
+
+Kylie Rogers
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  Family: 1
+
+Brighton Sharbino
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  Family: 1
+
+Quvenzhane Wallis
+Number of movies: 1
+  Comedy: 1
+  Drama: 1
+  Family: 1
+
+Dana Fuchs
+Number of movies: 1
+  Drama: 1
+  Fantasy: 1
+  Musical: 1
+
+Jake Johnson
+Number of movies: 1
+  Comedy: 1
+
+Damon Wayans Jr.
+Number of movies: 1
+  Comedy: 1
+
+Nina Dobrev
+Number of movies: 1
+  Comedy: 1
+
+Luke Kleintank
+Number of movies: 1
+  Adventure: 1
+  Family: 1
+
+Lauren Graham
+Number of movies: 1
+  Adventure: 1
+  Family: 1
+
+Rasmus Hardiker
+Number of movies: 1
+  Adventure: 1
+  Comedy: 1
+  Fantasy: 1
+
+Nicholas D'Agosto
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Emma Bell
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Arlen Escarpeta
+Number of movies: 1
+  Horror: 1
+  Thriller: 1
+
+Morjana Alaoui
+Number of movies: 1
+  Horror: 1
+
+Mylene Jampanoi
+Number of movies: 1
+  Horror: 1
+
+Catherine Begin
+Number of movies: 1
+  Horror: 1
+
+Robert Toupin
+Number of movies: 1
+  Horror: 1
+
+Carmen Ejogo
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  History: 1
+
+Lorraine Toussaint
+Number of movies: 1
+  Biography: 1
+  Drama: 1
+  History: 1
+
+Steven Mackintosh
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Fantasy: 1
+
+Darsheel Safary
+Number of movies: 1
+  Drama: 1
+  Family: 1
+  Music: 1
+
+Tanay Chheda
+Number of movies: 1
+  Drama: 1
+  Family: 1
+  Music: 1
+
+Sachet Engineer
+Number of movies: 1
+  Drama: 1
+  Family: 1
+  Music: 1
+
+Kim Coates
+Number of movies: 1
+  Action: 1
+  Adventure: 1
+  Horror: 1
+
+Oliver Cooper
+Number of movies: 1
+  Comedy: 1
+
+Jonathan Daniel Brown
+Number of movies: 1
+  Comedy: 1
+
+Dax Flame
+Number of movies: 1
+  Comedy: 1
+
+Dean Norris
+Number of movies: 1
+  Crime: 1
+  Drama: 1
+  Mystery: 1
+
+Lauren German
+Number of movies: 1
+  Horror: 1
+
+Heather Matarazzo
+Number of movies: 1
+  Horror: 1
+
+Bijou Phillips
+Number of movies: 1
+  Horror: 1
+
+Roger Bart
+Number of movies: 1
+  Horror: 1
+
+Robert Hoffman
+Number of movies: 1
+  Drama: 1
+  Music: 1
+  Romance: 1
+
+Briana Evigan
+Number of movies: 1
+  Drama: 1
+  Music: 1
+  Romance: 1
+
+Cassie Ventura
+Number of movies: 1
+  Drama: 1
+  Music: 1
+  Romance: 1
+
+Adam G. Sevani
+Number of movies: 1
+  Drama: 1
+  Music: 1
+  Romance: 1
+
+Adam Pally
+Number of movies: 1
+  Adventure: 1
+  Comedy: 1
+
+Thomas Middleditch
+Number of movies: 1
+  Adventure: 1
+  Comedy: 1
+
+Shannon Woodward
+Number of movies: 1
+  Adventure: 1
+  Comedy: 1
+
+Cheryl Hines
+Number of movies: 1
+  Comedy: 1
+  Family: 1
+  Fantasy: 1
+

@@ -1,0 +1,1932 @@
+Ridley Scott
+    Number of movies: 8
+
+M. Night Shyamalan
+    Number of movies: 6
+
+Michael Bay
+    Number of movies: 6
+
+David Yates
+    Number of movies: 6
+
+Paul W.S. Anderson
+    Number of movies: 6
+
+Christopher Nolan
+    Number of movies: 5
+
+Martin Scorsese
+    Number of movies: 5
+
+Zack Snyder
+    Number of movies: 5
+
+Justin Lin
+    Number of movies: 5
+
+J.J. Abrams
+    Number of movies: 5
+
+David Fincher
+    Number of movies: 5
+
+Antoine Fuqua
+    Number of movies: 5
+
+Danny Boyle
+    Number of movies: 5
+
+Peter Berg
+    Number of movies: 5
+
+Woody Allen
+    Number of movies: 5
+
+Denis Villeneuve
+    Number of movies: 5
+
+Gore Verbinski
+    Number of movies: 4
+
+Guillermo del Toro
+    Number of movies: 4
+
+Ron Howard
+    Number of movies: 4
+
+Alexandre Aja
+    Number of movies: 4
+
+Adam McKay
+    Number of movies: 4
+
+Quentin Tarantino
+    Number of movies: 4
+
+Matthew Vaughn
+    Number of movies: 4
+
+Joe Wright
+    Number of movies: 4
+
+Francis Lawrence
+    Number of movies: 4
+
+Tim Burton
+    Number of movies: 4
+
+Ben Affleck
+    Number of movies: 4
+
+Robert Zemeckis
+    Number of movies: 4
+
+D.J. Caruso
+    Number of movies: 4
+
+Jon Favreau
+    Number of movies: 4
+
+Guy Ritchie
+    Number of movies: 4
+
+Louis Leterrier
+    Number of movies: 4
+
+Nicholas Stoller
+    Number of movies: 4
+
+Clint Eastwood
+    Number of movies: 4
+
+Steven Spielberg
+    Number of movies: 4
+
+Dennis Dugan
+    Number of movies: 4
+
+Peter Jackson
+    Number of movies: 4
+
+Lars von Trier
+    Number of movies: 4
+
+James Wan
+    Number of movies: 4
+
+David O. Russell
+    Number of movies: 4
+
+Paul Feig
+    Number of movies: 4
+
+Mike Flanagan
+    Number of movies: 4
+
+Edward Zwick
+    Number of movies: 3
+
+Neil Burger
+    Number of movies: 3
+
+Darren Aronofsky
+    Number of movies: 3
+
+Sylvester Stallone
+    Number of movies: 3
+
+Alejandro Gonzalez Inarritu
+    Number of movies: 3
+
+Tarsem Singh
+    Number of movies: 3
+
+James Gunn
+    Number of movies: 3
+
+Tom Tykwer
+    Number of movies: 3
+
+Bryan Singer
+    Number of movies: 3
+
+Ethan Coen
+    Number of movies: 3
+
+Greg Mottola
+    Number of movies: 3
+
+Edgar Wright
+    Number of movies: 3
+
+Paul Thomas Anderson
+    Number of movies: 3
+
+Paul Greengrass
+    Number of movies: 3
+
+Brad Bird
+    Number of movies: 3
+
+Richard LaGravenese
+    Number of movies: 3
+
+Judd Apatow
+    Number of movies: 3
+
+Steven Soderbergh
+    Number of movies: 3
+
+Eli Roth
+    Number of movies: 3
+
+Ben Stiller
+    Number of movies: 3
+
+Nicolas Winding Refn
+    Number of movies: 3
+
+Sam Mendes
+    Number of movies: 3
+
+Matt Reeves
+    Number of movies: 3
+
+Andrew Stanton
+    Number of movies: 3
+
+Steve McQueen
+    Number of movies: 3
+
+Kevin Smith
+    Number of movies: 3
+
+Jon M. Chu
+    Number of movies: 3
+
+Gavin Hood
+    Number of movies: 3
+
+John Lee Hancock
+    Number of movies: 3
+
+Neill Blomkamp
+    Number of movies: 3
+
+Roland Emmerich
+    Number of movies: 3
+
+Marc Webb
+    Number of movies: 3
+
+Duncan Jones
+    Number of movies: 3
+
+John Hillcoat
+    Number of movies: 3
+
+Jaume Collet-Serra
+    Number of movies: 3
+
+Wes Anderson
+    Number of movies: 3
+
+McG
+    Number of movies: 3
+
+George Tillman Jr.
+    Number of movies: 3
+
+Derek Cianfrance
+    Number of movies: 3
+
+Will Gluck
+    Number of movies: 3
+
+Tom Hooper
+    Number of movies: 3
+
+Robert Schwentke
+    Number of movies: 3
+
+Kenneth Branagh
+    Number of movies: 3
+
+Glenn Ficarra
+    Number of movies: 3
+
+Shawn Levy
+    Number of movies: 3
+
+Phil Lord
+    Number of movies: 3
+
+Seth MacFarlane
+    Number of movies: 3
+
+David Ayer
+    Number of movies: 3
+
+Jean-Marc Vallee
+    Number of movies: 3
+
+Martin Campbell
+    Number of movies: 2
+
+John Lasseter
+    Number of movies: 2
+
+Mel Gibson
+    Number of movies: 2
+
+Alfonso CuarOn
+    Number of movies: 2
+
+David Frankel
+    Number of movies: 2
+
+Anne Fletcher
+    Number of movies: 2
+
+Tony Scott
+    Number of movies: 2
+
+Peyton Reed
+    Number of movies: 2
+
+Brett Ratner
+    Number of movies: 2
+
+Bong Joon Ho
+    Number of movies: 2
+
+Gabriele Muccino
+    Number of movies: 2
+
+George Miller
+    Number of movies: 2
+
+Spike Lee
+    Number of movies: 2
+
+Paul McGuigan
+    Number of movies: 2
+
+David Lynch
+    Number of movies: 2
+
+Sean Penn
+    Number of movies: 2
+
+Sam Raimi
+    Number of movies: 2
+
+Adam Shankman
+    Number of movies: 2
+
+Jason Reitman
+    Number of movies: 2
+
+Len Wiseman
+    Number of movies: 2
+
+Mikael Hafstrom
+    Number of movies: 2
+
+Robert Rodriguez
+    Number of movies: 2
+
+Timur Bekmambetov
+    Number of movies: 2
+
+Pierre Morel
+    Number of movies: 2
+
+Jeff Wadlow
+    Number of movies: 2
+
+David Gordon Green
+    Number of movies: 2
+
+Kathryn Bigelow
+    Number of movies: 2
+
+Doug Liman
+    Number of movies: 2
+
+Baz Luhrmann
+    Number of movies: 2
+
+Rob Cohen
+    Number of movies: 2
+
+Martin McDonagh
+    Number of movies: 2
+
+Marc Forster
+    Number of movies: 2
+
+Robert Luketic
+    Number of movies: 2
+
+Michael Patrick King
+    Number of movies: 2
+
+Yorgos Lanthimos
+    Number of movies: 2
+
+Todd Phillips
+    Number of movies: 2
+
+Karyn Kusama
+    Number of movies: 2
+
+Ruben Fleischer
+    Number of movies: 2
+
+Rajkumar Hirani
+    Number of movies: 2
+
+F. Gary Gray
+    Number of movies: 2
+
+Pete Docter
+    Number of movies: 2
+
+Marcus Nispel
+    Number of movies: 2
+
+Michael Mann
+    Number of movies: 2
+
+Lasse Hallstrom
+    Number of movies: 2
+
+Ron Clements
+    Number of movies: 2
+
+Burr Steers
+    Number of movies: 2
+
+Lee Daniels
+    Number of movies: 2
+
+Christopher Smith
+    Number of movies: 2
+
+Thor Freudenthal
+    Number of movies: 2
+
+Chris Columbus
+    Number of movies: 2
+
+Pierre Coffin
+    Number of movies: 2
+
+Phillip Noyce
+    Number of movies: 2
+
+Joseph Kosinski
+    Number of movies: 2
+
+Harald Zwart
+    Number of movies: 2
+
+Dean DeBlois
+    Number of movies: 2
+
+Rob Marshall
+    Number of movies: 2
+
+Tate Taylor
+    Number of movies: 2
+
+Gavin O'Connor
+    Number of movies: 2
+
+Rupert Wyatt
+    Number of movies: 2
+
+Andrew Niccol
+    Number of movies: 2
+
+George Nolfi
+    Number of movies: 2
+
+David Bowers
+    Number of movies: 2
+
+Lone Scherfig
+    Number of movies: 2
+
+Terrence Malick
+    Number of movies: 2
+
+Jonathan Levine
+    Number of movies: 2
+
+Bill Condon
+    Number of movies: 2
+
+Michael Dowse
+    Number of movies: 2
+
+Joss Whedon
+    Number of movies: 2
+
+Gary Ross
+    Number of movies: 2
+
+Jason Moore
+    Number of movies: 2
+
+J.A. Bayona
+    Number of movies: 2
+
+Pete Travis
+    Number of movies: 2
+
+Barry Sonnenfeld
+    Number of movies: 2
+
+Oliver Stone
+    Number of movies: 2
+
+Christopher McQuarrie
+    Number of movies: 2
+
+Scott Derrickson
+    Number of movies: 2
+
+Kirk Jones
+    Number of movies: 2
+
+Ang Lee
+    Number of movies: 2
+
+Jonathan Liebesman
+    Number of movies: 2
+
+Scott Hicks
+    Number of movies: 2
+
+Alan Taylor
+    Number of movies: 2
+
+Rawson Marshall Thurber
+    Number of movies: 2
+
+Shane Black
+    Number of movies: 2
+
+Evan Goldberg
+    Number of movies: 2
+
+Elizabeth Banks
+    Number of movies: 2
+
+Fede Alvarez
+    Number of movies: 2
+
+John Crowley
+    Number of movies: 2
+
+James DeMonaco
+    Number of movies: 2
+
+Luc Besson
+    Number of movies: 2
+
+Brian Helgeland
+    Number of movies: 2
+
+John Carney
+    Number of movies: 2
+
+Scott Cooper
+    Number of movies: 2
+
+Damien Chazelle
+    Number of movies: 2
+
+Morten Tyldum
+    Number of movies: 2
+
+Anthony Russo
+    Number of movies: 2
+
+Frank Coraci
+    Number of movies: 2
+
+Wes Ball
+    Number of movies: 2
+
+Gareth Edwards
+    Number of movies: 2
+
+Xavier Dolan
+    Number of movies: 2
+
+Richard Linklater
+    Number of movies: 2
+
+Christian Ditter
+    Number of movies: 2
+
+Adam Wingard
+    Number of movies: 2
+
+John R. Leonetti
+    Number of movies: 2
+
+Sean Anders
+    Number of movies: 2
+
+Justin Kurzel
+    Number of movies: 2
+
+Oz Perkins
+    Number of movies: 2
+
+Ben Wheatley
+    Number of movies: 2
+
+Henry Joost
+    Number of movies: 2
+
+Jeff Nichols
+    Number of movies: 2
+
+Christophe Gans
+    Number of movies: 1
+
+Sofia Coppola
+    Number of movies: 1
+
+Florian Henckel von Donnersmarck
+    Number of movies: 1
+
+Mike Judge
+    Number of movies: 1
+
+Jonathan Dayton
+    Number of movies: 1
+
+Andy Fickman
+    Number of movies: 1
+
+Werner Herzog
+    Number of movies: 1
+
+David R. Ellis
+    Number of movies: 1
+
+Patrick Read Johnson
+    Number of movies: 1
+
+Colin Strause
+    Number of movies: 1
+
+David Ross
+    Number of movies: 1
+
+Kevin Lima
+    Number of movies: 1
+
+Mark Steven Johnson
+    Number of movies: 1
+
+Andrew Dominik
+    Number of movies: 1
+
+David Cronenberg
+    Number of movies: 1
+
+Frank Darabont
+    Number of movies: 1
+
+Michael Haneke
+    Number of movies: 1
+
+Bobby Farrelly
+    Number of movies: 1
+
+Gregory Hoblit
+    Number of movies: 1
+
+Kirsten Sheridan
+    Number of movies: 1
+
+Bruce A. Evans
+    Number of movies: 1
+
+Juan Carlos Fresnadillo
+    Number of movies: 1
+
+Gabor Csupo
+    Number of movies: 1
+
+Gregory Wilson
+    Number of movies: 1
+
+Chris Weitz
+    Number of movies: 1
+
+Julie Taymor
+    Number of movies: 1
+
+Aamir Khan
+    Number of movies: 1
+
+Phyllida Lloyd
+    Number of movies: 1
+
+Catherine Hardwicke
+    Number of movies: 1
+
+Fred Wolf
+    Number of movies: 1
+
+Mark Herman
+    Number of movies: 1
+
+Bryan Bertino
+    Number of movies: 1
+
+Jason Friedberg
+    Number of movies: 1
+
+Andy Tennant
+    Number of movies: 1
+
+Mark Osborne
+    Number of movies: 1
+
+Ryuhei Kitamura
+    Number of movies: 1
+
+Justin Chadwick
+    Number of movies: 1
+
+Pascal Laugier
+    Number of movies: 1
+
+James Cameron
+    Number of movies: 1
+
+Peter Billingsley
+    Number of movies: 1
+
+Henry Selick
+    Number of movies: 1
+
+Christian Alvart
+    Number of movies: 1
+
+Jaco Van Dormael
+    Number of movies: 1
+
+Niels Arden Oplev
+    Number of movies: 1
+
+Ken Kwapis
+    Number of movies: 1
+
+Juan Jose Campanella
+    Number of movies: 1
+
+Terry Gilliam
+    Number of movies: 1
+
+Stephen Sommers
+    Number of movies: 1
+
+James Wong
+    Number of movies: 1
+
+Gary Winick
+    Number of movies: 1
+
+Tom Six
+    Number of movies: 1
+
+Patrick Tatopoulos
+    Number of movies: 1
+
+NimrOd Antal
+    Number of movies: 1
+
+Jim Field Smith
+    Number of movies: 1
+
+Nathan Greno
+    Number of movies: 1
+
+Srdjan Spasojevic
+    Number of movies: 1
+
+Jim Mickle
+    Number of movies: 1
+
+Albert Hughes
+    Number of movies: 1
+
+David Schwimmer
+    Number of movies: 1
+
+Roman Polanski
+    Number of movies: 1
+
+Andrew Jarecki
+    Number of movies: 1
+
+Tom McGrath
+    Number of movies: 1
+
+Debra Granik
+    Number of movies: 1
+
+Lee Unkrich
+    Number of movies: 1
+
+Joe Carnahan
+    Number of movies: 1
+
+Mike Newell
+    Number of movies: 1
+
+Allen Coulter
+    Number of movies: 1
+
+Greg Berlanti
+    Number of movies: 1
+
+Neil Marshall
+    Number of movies: 1
+
+David Slade
+    Number of movies: 1
+
+Scott Stewart
+    Number of movies: 1
+
+Steven R. Monroe
+    Number of movies: 1
+
+Joe Johnston
+    Number of movies: 1
+
+Olivier Nakache
+    Number of movies: 1
+
+Bennett Miller
+    Number of movies: 1
+
+Seth Gordon
+    Number of movies: 1
+
+Michael Goi
+    Number of movies: 1
+
+Julia Leigh
+    Number of movies: 1
+
+Lynne Ramsay
+    Number of movies: 1
+
+Tomas Alfredson
+    Number of movies: 1
+
+Jamie Linden
+    Number of movies: 1
+
+Ivan Reitman
+    Number of movies: 1
+
+Cary Joji Fukunaga
+    Number of movies: 1
+
+Carlos Saldanha
+    Number of movies: 1
+
+Craig Brewer
+    Number of movies: 1
+
+Mark Mylod
+    Number of movies: 1
+
+Alexander Payne
+    Number of movies: 1
+
+Wes Craven
+    Number of movies: 1
+
+Pedro AlmodOvar
+    Number of movies: 1
+
+Steven Quale
+    Number of movies: 1
+
+Harmony Korine
+    Number of movies: 1
+
+Stephen Chbosky
+    Number of movies: 1
+
+Drew Goddard
+    Number of movies: 1
+
+Rian Johnson
+    Number of movies: 1
+
+Thomas Vinterberg
+    Number of movies: 1
+
+Tony Gilroy
+    Number of movies: 1
+
+Rich Moore
+    Number of movies: 1
+
+Rupert Sanders
+    Number of movies: 1
+
+Mark Andrews
+    Number of movies: 1
+
+Mans Marlind
+    Number of movies: 1
+
+Jon Hurwitz
+    Number of movies: 1
+
+Jon Kasdan
+    Number of movies: 1
+
+Asger Leth
+    Number of movies: 1
+
+Larry Charles
+    Number of movies: 1
+
+Dan Bradley
+    Number of movies: 1
+
+Simon West
+    Number of movies: 1
+
+Nima Nourizadeh
+    Number of movies: 1
+
+Spike Jonze
+    Number of movies: 1
+
+Chris Buck
+    Number of movies: 1
+
+Abdellatif Kechiche
+    Number of movies: 1
+
+Richard Curtis
+    Number of movies: 1
+
+James Mangold
+    Number of movies: 1
+
+Dan Scanlon
+    Number of movies: 1
+
+Jon S. Baird
+    Number of movies: 1
+
+Kimberly Peirce
+    Number of movies: 1
+
+Jonathan Glazer
+    Number of movies: 1
+
+Biyi Bandele
+    Number of movies: 1
+
+Anne Fontaine
+    Number of movies: 1
+
+Joseph Gordon-Levitt
+    Number of movies: 1
+
+Atom Egoyan
+    Number of movies: 1
+
+James Ponsoldt
+    Number of movies: 1
+
+Andres Muschietti
+    Number of movies: 1
+
+Giuseppe Tornatore
+    Number of movies: 1
+
+Steven Knight
+    Number of movies: 1
+
+James Ward Byrkit
+    Number of movies: 1
+
+David Twohy
+    Number of movies: 1
+
+Jordan Vogt-Roberts
+    Number of movies: 1
+
+John Luessenhop
+    Number of movies: 1
+
+Chad Stahelski
+    Number of movies: 1
+
+Alex Garland
+    Number of movies: 1
+
+Dan Gilroy
+    Number of movies: 1
+
+David Robert Mitchell
+    Number of movies: 1
+
+Robert Stromberg
+    Number of movies: 1
+
+Justin Simien
+    Number of movies: 1
+
+Jennifer Kent
+    Number of movies: 1
+
+Josh Boone
+    Number of movies: 1
+
+Sergei Bodrov
+    Number of movies: 1
+
+James Marsh
+    Number of movies: 1
+
+Jon Watts
+    Number of movies: 1
+
+Patrick Hughes
+    Number of movies: 1
+
+Jemaine Clement
+    Number of movies: 1
+
+Michael Hoffman
+    Number of movies: 1
+
+Noam Murro
+    Number of movies: 1
+
+Frank Miller
+    Number of movies: 1
+
+Don Hall
+    Number of movies: 1
+
+Michael Spierig
+    Number of movies: 1
+
+Scott Waugh
+    Number of movies: 1
+
+Gary Shore
+    Number of movies: 1
+
+Nick Cassavetes
+    Number of movies: 1
+
+Jake Kasdan
+    Number of movies: 1
+
+Angelina Jolie
+    Number of movies: 1
+
+Michael R. Roskam
+    Number of movies: 1
+
+Olivier Megaton
+    Number of movies: 1
+
+Levan Gabriadze
+    Number of movies: 1
+
+Damian Szifron
+    Number of movies: 1
+
+Mark Waters
+    Number of movies: 1
+
+Mike Cahill
+    Number of movies: 1
+
+David Dobkin
+    Number of movies: 1
+
+Jorge R. Gutierrez
+    Number of movies: 1
+
+Chris Evans
+    Number of movies: 1
+
+Scott Frank
+    Number of movies: 1
+
+Saul Dibb
+    Number of movies: 1
+
+Erik Van Looy
+    Number of movies: 1
+
+Miguel Arteta
+    Number of movies: 1
+
+Wally Pfister
+    Number of movies: 1
+
+Jose Padilha
+    Number of movies: 1
+
+R.J. Cutler
+    Number of movies: 1
+
+Tom Gormican
+    Number of movies: 1
+
+Luke Greenfield
+    Number of movies: 1
+
+Shana Feste
+    Number of movies: 1
+
+Ava DuVernay
+    Number of movies: 1
+
+Scot Armstrong
+    Number of movies: 1
+
+S.S. Rajamouli
+    Number of movies: 1
+
+Sam Taylor-Johnson
+    Number of movies: 1
+
+Colin Trevorrow
+    Number of movies: 1
+
+Lenny Abrahamson
+    Number of movies: 1
+
+Simon Curtis
+    Number of movies: 1
+
+Robert Eggers
+    Number of movies: 1
+
+Gaspar Noe
+    Number of movies: 1
+
+Tom McCarthy
+    Number of movies: 1
+
+Brad Peyton
+    Number of movies: 1
+
+Ilya Naishuller
+    Number of movies: 1
+
+Lana Wachowski
+    Number of movies: 1
+
+Breck Eisner
+    Number of movies: 1
+
+Jeremy Saulnier
+    Number of movies: 1
+
+Jocelyn Moorhouse
+    Number of movies: 1
+
+Ryan Coogler
+    Number of movies: 1
+
+Baltasar Kormakur
+    Number of movies: 1
+
+Lee Toland Krieger
+    Number of movies: 1
+
+Terry Jones
+    Number of movies: 1
+
+Kyle Balda
+    Number of movies: 1
+
+John Francis Daley
+    Number of movies: 1
+
+Etan Cohen
+    Number of movies: 1
+
+Rob Letterman
+    Number of movies: 1
+
+Ericson Core
+    Number of movies: 1
+
+Todd Haynes
+    Number of movies: 1
+
+Paolo Sorrentino
+    Number of movies: 1
+
+S. Craig Zahler
+    Number of movies: 1
+
+Gregory Jacobs
+    Number of movies: 1
+
+Mora Stephens
+    Number of movies: 1
+
+Josh Trank
+    Number of movies: 1
+
+Stephen Fingleton
+    Number of movies: 1
+
+Florian Gallenberger
+    Number of movies: 1
+
+Joel Edgerton
+    Number of movies: 1
+
+Nancy Meyers
+    Number of movies: 1
+
+Zackary Adler
+    Number of movies: 1
+
+Paco Cabezas
+    Number of movies: 1
+
+Rick Famuyiwa
+    Number of movies: 1
+
+John Wells
+    Number of movies: 1
+
+Afonso Poyart
+    Number of movies: 1
+
+Simon Stone
+    Number of movies: 1
+
+Alejandro Amenabar
+    Number of movies: 1
+
+Daniel Espinosa
+    Number of movies: 1
+
+Ari Sandel
+    Number of movies: 1
+
+Doug Ellin
+    Number of movies: 1
+
+Max Joseph
+    Number of movies: 1
+
+Jake Schreier
+    Number of movies: 1
+
+Tyler Shields
+    Number of movies: 1
+
+Matt Brown
+    Number of movies: 1
+
+Genndy Tartakovsky
+    Number of movies: 1
+
+Francois Simard
+    Number of movies: 1
+
+Dito Montiel
+    Number of movies: 1
+
+Luca Guadagnino
+    Number of movies: 1
+
+Tim Johnson
+    Number of movies: 1
+
+Kyle Patrick Alvarez
+    Number of movies: 1
+
+Hannes Holm
+    Number of movies: 1
+
+Drake Doremus
+    Number of movies: 1
+
+Peter Landesman
+    Number of movies: 1
+
+Leslye Headland
+    Number of movies: 1
+
+Michael Showalter
+    Number of movies: 1
+
+Matteo Garrone
+    Number of movies: 1
+
+Christopher Landon
+    Number of movies: 1
+
+John Erick Dowdle
+    Number of movies: 1
+
+Gus Van Sant
+    Number of movies: 1
+
+Alfonso Gomez-Rejon
+    Number of movies: 1
+
+Patricia Rozema
+    Number of movies: 1
+
+Micheal Bafaro
+    Number of movies: 1
+
+Gilles Paquet-Brenner
+    Number of movies: 1
+
+Boaz Yakin
+    Number of movies: 1
+
+Billy Ray
+    Number of movies: 1
+
+Christophe Lourdelet
+    Number of movies: 1
+
+Yimou Zhang
+    Number of movies: 1
+
+Sean Foley
+    Number of movies: 1
+
+James Gray
+    Number of movies: 1
+
+Theodore Melfi
+    Number of movies: 1
+
+Nacho Vigalondo
+    Number of movies: 1
+
+Chris Renaud
+    Number of movies: 1
+
+Garth Davis
+    Number of movies: 1
+
+Stephen Gaghan
+    Number of movies: 1
+
+Kenneth Lonergan
+    Number of movies: 1
+
+Ben Young
+    Number of movies: 1
+
+Walt Dohrn
+    Number of movies: 1
+
+Dominique Abel
+    Number of movies: 1
+
+Phillip Guzman
+    Number of movies: 1
+
+Jon Lucas
+    Number of movies: 1
+
+John Hamburg
+    Number of movies: 1
+
+Tom Ford
+    Number of movies: 1
+
+Tim Miller
+    Number of movies: 1
+
+Greg Tiernan
+    Number of movies: 1
+
+Barry Jenkins
+    Number of movies: 1
+
+Shawn Burkett
+    Number of movies: 1
+
+Ricardo de Montreuil
+    Number of movies: 1
+
+John Madden
+    Number of movies: 1
+
+Anna Foerster
+    Number of movies: 1
+
+Garry Marshall
+    Number of movies: 1
+
+Thea Sharrock
+    Number of movies: 1
+
+Andre ovredal
+    Number of movies: 1
+
+Robin Swicord
+    Number of movies: 1
+
+Terry George
+    Number of movies: 1
+
+Byron Howard
+    Number of movies: 1
+
+Matt Ross
+    Number of movies: 1
+
+Makoto Shinkai
+    Number of movies: 1
+
+Jeremy Gillespie
+    Number of movies: 1
+
+Olivier Assayas
+    Number of movies: 1
+
+Oriol Paulo
+    Number of movies: 1
+
+David Mackenzie
+    Number of movies: 1
+
+Taylor Hackford
+    Number of movies: 1
+
+Katie Holmes
+    Number of movies: 1
+
+Greg McLean
+    Number of movies: 1
+
+Ana Lily Amirpour
+    Number of movies: 1
+
+Josh Gordon
+    Number of movies: 1
+
+Nitesh Tiwari
+    Number of movies: 1
+
+Dan Trachtenberg
+    Number of movies: 1
+
+Jake Szymanski
+    Number of movies: 1
+
+Todor Chapkanov
+    Number of movies: 1
+
+Denzel Washington
+    Number of movies: 1
+
+Martin Koolhoven
+    Number of movies: 1
+
+Chan-wook Park
+    Number of movies: 1
+
+Kelly Fremon Craig
+    Number of movies: 1
+
+Elizabeth Wood
+    Number of movies: 1
+
+Fabio Guaglione
+    Number of movies: 1
+
+Travis Knight
+    Number of movies: 1
+
+Jackson Stewart
+    Number of movies: 1
+
+Sharon Maguire
+    Number of movies: 1
+
+Mateo Gil
+    Number of movies: 1
+
+Asghar Farhadi
+    Number of movies: 1
+
+April Mullen
+    Number of movies: 1
+
+Luke Scott
+    Number of movies: 1
+
+Akan Satayev
+    Number of movies: 1
+
+Julia Ducournau
+    Number of movies: 1
+
+Jim Jarmusch
+    Number of movies: 1
+
+Colm McCarthy
+    Number of movies: 1
+
+Alex Proyas
+    Number of movies: 1
+
+Chris Wedge
+    Number of movies: 1
+
+Liam Gavin
+    Number of movies: 1
+
+Andrea Arnold
+    Number of movies: 1
+
+Steven Shainberg
+    Number of movies: 1
+
+Andy Goddard
+    Number of movies: 1
+
+Cedric Nicolas-Troyan
+    Number of movies: 1
+
+Pablo Larrain
+    Number of movies: 1
+
+Ash Brannon
+    Number of movies: 1
+
+Mike Mills
+    Number of movies: 1
+
+Eleanor Coppola
+    Number of movies: 1
+
+David F. Sandberg
+    Number of movies: 1
+
+Joseph Cedar
+    Number of movies: 1
+
+Dave Green
+    Number of movies: 1
+
+Dan Mazer
+    Number of movies: 1
+
+Jeffrey G. Hunt
+    Number of movies: 1
+
+Eric Summer
+    Number of movies: 1
+
+Jared Hess
+    Number of movies: 1
+
+Jalil Lespert
+    Number of movies: 1
+
+Sang-ho Yeon
+    Number of movies: 1
+
+David Leveaux
+    Number of movies: 1
+
+Ross Katz
+    Number of movies: 1
+
+Mike Thurmeier
+    Number of movies: 1
+
+Brad Furman
+    Number of movies: 1
+
+James Bobin
+    Number of movies: 1
+
+Gary Michael Schultz
+    Number of movies: 1
+
+J Blakeson
+    Number of movies: 1
+
+Dan Berk
+    Number of movies: 1
+
+So Yong Kim
+    Number of movies: 1
+
+Roger Spottiswoode
+    Number of movies: 1
+
+Alexi Pappas
+    Number of movies: 1
+
+David Lowery
+    Number of movies: 1
+
+William Oldroyd
+    Number of movies: 1
+
+Alex Ranarivelo
+    Number of movies: 1
+
+J.D. Dillard
+    Number of movies: 1
+
+Ariel Vromen
+    Number of movies: 1
+
+Stephen Frears
+    Number of movies: 1
+
+Eran Creevy
+    Number of movies: 1
+
+Dan Kwan
+    Number of movies: 1
+
+Peter Atencio
+    Number of movies: 1
+
+Gillies MacKinnon
+    Number of movies: 1
+
+Rolfe Kanefsky
+    Number of movies: 1
+
+Paul Verhoeven
+    Number of movies: 1
+
+Dennis Gansel
+    Number of movies: 1
+
+Mark Williams
+    Number of movies: 1
+
+Babak Najafi
+    Number of movies: 1
+
+Corey Asraf
+    Number of movies: 1
+
+Jeff Grace
+    Number of movies: 1
+
+Michael J. Gallagher
+    Number of movies: 1
+
+Taika Waititi
+    Number of movies: 1
+
+William Brent Bell
+    Number of movies: 1
+
+Mick Jackson
+    Number of movies: 1
+
+Dexter Fletcher
+    Number of movies: 1
+
+Carles Torrens
+    Number of movies: 1
+
+Amber Tamblyn
+    Number of movies: 1
+
+Paolo Genovese
+    Number of movies: 1
+
+Clay Kaytis
+    Number of movies: 1
+
+Daniel Ragussis
+    Number of movies: 1
+
+Sean Ellis
+    Number of movies: 1
+
+Andrey Kravchuk
+    Number of movies: 1
+
+Simon Verhoeven
+    Number of movies: 1
+
+Terence Davies
+    Number of movies: 1
+
+Steven Brill
+    Number of movies: 1
+
+Alexandros Avranas
+    Number of movies: 1
+
+Ewan McGregor
+    Number of movies: 1
+
+Nic Mathieu
+    Number of movies: 1
+
+Mike Birbiglia
+    Number of movies: 1
+
+Philippe Falardeau
+    Number of movies: 1
+
+Ken Loach
+    Number of movies: 1
+
+Jodie Foster
+    Number of movies: 1
+
+Ben Younger
+    Number of movies: 1
+
+Craig Gillespie
+    Number of movies: 1
+
+John Stockwell
+    Number of movies: 1
+
+Jean-Francois Richet
+    Number of movies: 1
+
+Alessandro Carloni
+    Number of movies: 1
+
+John Butler
+    Number of movies: 1
+
+Maren Ade
+    Number of movies: 1
+
+James Watkins
+    Number of movies: 1
+
+Joey Curtis
+    Number of movies: 1
+
+Will Slocombe
+    Number of movies: 1
+
+Courtney Hunt
+    Number of movies: 1
+
+Francois Ozon
+    Number of movies: 1
+
+Jonathan Holbrook
+    Number of movies: 1
+
+Akiva Schaffer
+    Number of movies: 1
+
+Hope Dickson Leach
+    Number of movies: 1
+
+Mia Hansen-Love
+    Number of movies: 1
+
+John Michael McDonagh
+    Number of movies: 1
+
+Jee-woon Kim
+    Number of movies: 1
+
+Whit Stillman
+    Number of movies: 1
+
+Gauri Shinde
+    Number of movies: 1
+
+Michael Grandage
+    Number of movies: 1
+
+Caleb Vetter
+    Number of movies: 1
+
+Marcus Dunstan
+    Number of movies: 1
+
+John Krasinski
+    Number of movies: 1
+
+Michael Dudok de Wit
+    Number of movies: 1
+
+Simon Aboud
+    Number of movies: 1
+
+Bruce Beresford
+    Number of movies: 1
+
+Ben Falcone
+    Number of movies: 1
+
+Jonathan Jakubowicz
+    Number of movies: 1
+
+Chris Stokes
+    Number of movies: 1
+
+Warren Beatty
+    Number of movies: 1
+
+Filip Renc
+    Number of movies: 1
+
+Ed Gass-Donnelly
+    Number of movies: 1
+
+Jamal Hill
+    Number of movies: 1
+
+Walter Hill
+    Number of movies: 1
+
+Rob Zombie
+    Number of movies: 1
+
+Hisonni Johnson
+    Number of movies: 1
+
+Adam Leon
+    Number of movies: 1
+
+Jim Sheridan
+    Number of movies: 1
+
+Stewart Hendler
+    Number of movies: 1
+
+Claude Barras
+    Number of movies: 1
+
+Amma Asante
+    Number of movies: 1
+
+Mario Van Peebles
+    Number of movies: 1
+
+John Moore
+    Number of movies: 1
+
+Antonio Campos
+    Number of movies: 1
+
+Phil Claydon
+    Number of movies: 1
+
+Farren Blackburn
+    Number of movies: 1
+
+Matthias Hoene
+    Number of movies: 1
+
+Cristian Mungiu
+    Number of movies: 1
+
+Gee Malik Linton
+    Number of movies: 1
+
+Aisling Walsh
+    Number of movies: 1
+
+Nathan Morlando
+    Number of movies: 1
+
+Malcolm D. Lee
+    Number of movies: 1
+
+Naoko Yamada
+    Number of movies: 1
+
+James Schamus
+    Number of movies: 1
+
+Hideaki Anno
+    Number of movies: 1
+
+Femi Oyeniran
+    Number of movies: 1
+
+James Franco
+    Number of movies: 1
+
+Hong-jin Na
+    Number of movies: 1
+
+Chris McCoy
+    Number of movies: 1
+
+Ido Fluk
+    Number of movies: 1
+
+Anna Biller
+    Number of movies: 1
+
+Richie Smyth
+    Number of movies: 1
+
+Greg Kwedar
+    Number of movies: 1
+
+Justin Kelly
+    Number of movies: 1
+
+Justin Tipping
+    Number of movies: 1
+
+James Lapine
+    Number of movies: 1
+
+Jerome Salle
+    Number of movies: 1
+
+Mira Nair
+    Number of movies: 1
+
+Lisa Addario
+    Number of movies: 1
+
+Patricia Riggen
+    Number of movies: 1
+
+Hugo Gelin
+    Number of movies: 1
+

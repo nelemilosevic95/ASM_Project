@@ -1,0 +1,3 @@
+Avarage distance to Kevin Bacon is 3.7591287636130684!
+Maximum distance to Kevin Bacon is 7!
+Number of unconnected actors is 417!
