@@ -52,7 +52,7 @@ sortedActorsProductivity = sorted(actorsProductivity.items(), key=lambda kv: kv[
 file = open("files/actorsProductivity.txt","w")
 
 for actor, actorProductivity in sortedActorsProductivity:
-    file.write(actor + "\n")
+    file.write("Actor: " + actor + "\n")
     file.write(actorProductivity.writeActorsProductivity() + "\n")
 
 file.close()
