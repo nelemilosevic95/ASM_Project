@@ -6,10 +6,14 @@ class ActorProductivity:
         self.numberOfMovies = 0
         self.genresInfo = {}
 
+    def getGenresInfo(self):
+        return self.genresInfo
+
     def writeActorsProductivity(self):
+        sortedActorsProductivity = sorted(self.genresInfo.items(), key=lambda kv: kv[1], reverse=True)
         actorInfo = "Number of movies: " + str(self.numberOfMovies) + "\n"
 
-        for genre, genreCount in self.genresInfo.items():
+        for genre, genreCount in sortedActorsProductivity:
             actorInfo += "  " + genre + ": " + str(genreCount) + "\n"
 
         return actorInfo
