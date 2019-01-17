@@ -1,7 +1,7 @@
 import networkx as nx
 import pandas as pd
 
-graph = nx.read_gml("files/files/actorsGraph.gml")
+graph = nx.read_gml("files/actorsGraph.gml")
 
 maxDistance = 0
 agregatedDistance = 0
