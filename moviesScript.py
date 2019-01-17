@@ -1,9 +1,19 @@
 import networkx as nx
 import pandas as pd
+import sys
 
 #pre pokretanja skripte potrebno je sortirati IMDB-Movie-Data.scv po godini
 
 sheet = pd.read_csv("files/IMDB-Movie-Data.csv")
+
+filterOn = 0
+
+if len(sys.argv) == 2:
+    filterOn = 1
+    movieRevenueColumn = sheet["Revenue (Millions)"]
+    filterRevenue = float(sys.argv[1])
+
+
 titleColumn = sheet["Title"]
 actorsColumn = sheet["Actors"]
 graph = nx.Graph()
@@ -13,6 +23,11 @@ actorsMovies = {}
 for i in range(len(titleColumn)):
     actors = actorsColumn[i].split(',')
     movieTitle = titleColumn[i].strip()
+
+    if filterOn == 1:
+        movieRevenue = float(movieRevenueColumn[i])
+        if movieRevenue < filterRevenue:
+            continue
 
     graph.add_node(movieTitle)
 
@@ -32,6 +47,8 @@ for actor, movies in actorsMovies.items():
             else:
                 graph.add_edge(firstMovie,secondMovie,weight=1)
 
-
-nx.write_gml(graph, "files/moviesGraph.gml")
+if filterOn == 1:
+    nx.write_gml(graph, "files/moviesGraphFiltered.gml")
+else:
+    nx.write_gml(graph, "files/moviesGraph.gml")
 
