@@ -48,7 +48,7 @@ for actor, movies in actorsMovies.items():
                 graph.add_edge(firstMovie,secondMovie,weight=1)
 
 if filterOn == 1:
-    nx.write_gml(graph, "files/moviesGraphFiltered.gml")
+    nx.write_gml(graph, "files/moviesGraphFiltered-" + str(filterRevenue) + ".gml")
 else:
     nx.write_gml(graph, "files/moviesGraph.gml")
 
